@@ -1,0 +1,119 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Container from "@components/Container.astro";
+import { SITE, HOME, SOCIALS } from "@consts";
+import ArrowCard from "@components/ArrowCard.astro";
+import Link from "@components/Link.astro";
+import { getCollection } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+
+const blog = (await getCollection("blog"))
+  .filter((post) => !post.data.draft)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, SITE.NUM_POSTS_ON_HOMEPAGE);
+
+const projects: CollectionEntry<"projects">[] = (
+  await getCollection("projects")
+)
+  .filter((project) => !project.data.draft)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, SITE.NUM_PROJECTS_ON_HOMEPAGE);
+---
+<Layout title={HOME.TITLE} description={HOME.DESCRIPTION}>
+  <Container>
+    <h1 class="animate font-semibold text-black dark:text-white">
+      ¿Tienes un negocio en marcha o estas en ideas de uno? ¡Yo te ayudo!
+    </h1>
+    <div class="space-y-16">
+      <section>
+        <article class="space-y-4">
+          <span class="animate">
+            <p>
+              Soy diseñador gráfico y web, freelancer apasionado por el <Link href="https://luisangelmaciel.vercel.app/"> diseño creativo </Link> y el desarrollo full stack. Me considero un experto en mercadotecnia digital y SEO, 
+              con un enfoque en posicionamiento web y <Link href="/creacion-de-contenido-estrategico/">creación de contenido estratégico.</Link>. 
+               <br> Además, tengo habilidades destacadas en inteligencia artificial y compresión de imágenes.            
+            </p>
+            <p>
+              Disfruto de proyectos desafiantes que me permiten combinar mi habilidad para resolver problemas con un diseño de interfaz intuitivo y
+               estéticamente atractivo.
+               Me enfoco en optimizar el rendimiento de mis sitios web utilizando herramientas como <Link href="/lighthouse/">Lighthouse</Link>  y Schema para asegurar los mejores estándares de calidad.                          
+            </p>
+          </span>
+          <span class="animate">
+            <p>                     
+              Echa un vistazo a este espacio digital, donde comparto mi portafolio y escribo sobre mis proyectos más recientes, marketing, diseño,  y  <Link href="https://llevesusprompts.substack.com/">  code. </Link>
+            </p>            
+          </span>
+        </article>
+      </section>
+      <section class="animate space-y-6">
+        <div class="flex flex-wrap items-center justify-between gap-y-2">
+          <h2 class="font-semibold text-black dark:text-white">Ultimas publicaciones</h2>
+          <Link href="/blog"> Ver todas las publicaciones </Link>
+        </div>
+        <ul class="not-prose flex flex-col gap-4">
+          {
+            blog.map((post) => (
+              <li>
+                <ArrowCard entry={post} />
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+
+      <section class="animate space-y-6">
+        <div class="flex flex-wrap items-center justify-between gap-y-2">
+          <h2 class="font-semibold text-black dark:text-white">
+            Proyectos
+          </h2>
+          <Link href="/projects"> Ver todos los proyectos </Link>
+        </div>
+        <ul class="not-prose flex flex-col gap-4">
+          {
+            projects.map((project) => (
+              <li>
+                <ArrowCard entry={project} />
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+
+      <section class="animate space-y-4">
+        <h2 class="font-semibold text-black dark:text-white"><a href="https://luisangelmaciel.github.io/form/formulario-de-evaluacion-de-desafios-empresariales.html" title="Formulario de Evaluación de Desafíos Empresariales">Estemos en contacto</a></h2>
+        <article>
+          <p>
+            <a href="https://luisangelmaciel.github.io/form/que-tipo-de-solucion-desea-construir.html">¿Qué tipo de solución desea construir?  </a><br>
+            Si quieres aplicaciones a la medida, <a href="https://luisangelmaciel.github.io/form/que-desea-construir.html" title="¿Qué desea construir?">es por aquí. </a> <br>A últimas fechas he sido mas reservado pero aun tengo las <a href="https://appointmentthing.com/luisangelmaciel/Mw21355">redes sociales </a> o envíame un correo electrónico.
+          </p><br>
+          <img alt="Custom badge" src="https://img.shields.io/endpoint?style=plastic&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21190%26project%3D%26in%3D0" width="20%" height="auto">
+          <img src="https://wakatime.com/badge/user/018b18f4-4631-4fd4-97ce-33775f508dd7.svg" alt="Watakime - El tiempo que he pasado programando, ojala hubiera conocido este gadget desde un par de años atrás." width="10%" height="auto">
+        </article>
+        <ul class="not-prose flex flex-wrap gap-2">
+          {
+            SOCIALS.map((SOCIAL) => (
+              <li class="flex gap-x-2 text-nowrap">
+                <Link
+                  href={SOCIAL.HREF}
+                  external
+                  aria-label={`${SITE.TITLE} on ${SOCIAL.NAME}`}
+                >
+                  {SOCIAL.NAME}
+                </Link>
+                {"/"}
+              </li>
+            ))
+          }
+          <li class="line-clamp-1">
+            <Link
+              href={`mailto:${SITE.EMAIL}`}
+              aria-label={`Email ${SITE.TITLE}`}>
+              {SITE.EMAIL}
+            </Link>
+          </li>
+        </ul>
+      </section>
+    </div>
+  </Container>
+</Layout>

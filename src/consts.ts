@@ -38,14 +38,6 @@ export const SOCIALS: Socials = [
     HREF: "https://github.com/luisangelmaciel",
   },
   {
-    NAME: "LinkedIn",
-    HREF: "https://www.linkedin.com/in/luisangelmaciel",
-  },
-  {
-    NAME: "LinkedIn",
-    HREF: "https://www.linkedin.com/in/luisangelmaciel",
-  },
-  {
     NAME: "Site",
     HREF: "https://luisangelmaciel.github.io/",
   },

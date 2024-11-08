@@ -84,11 +84,11 @@ date: "2024-08-03"
     - Evaluación
     - Técnicas para mejorar la integración y ejecución del proyecto final
 
----
+
 
 ### **Fundamentos de la Comunicación Verbal**
 
----
+
 
 Hola, soy Eli Padilla, fui empleada de gobierno por 25 años y en estos últimos años, como formadora en servicio y comunicación efectiva. Me encanta la comunicación verbal. Es divertido conocer gente nueva y ayudarles a expresar sus ideas de manera clara y efectiva. Me gusta poder ser capaz de ayudarles en algo. Pero no siempre es fácil. Cada día nos enfrentamos a problemas nuevos. Atender a algunos interlocutores es difícil, y no siempre tenemos todas las respuestas.
 
@@ -104,7 +104,7 @@ En los próximos cursos de esta sección, abordaremos los temas de cómo mejorar
 
 Si eres como yo, estas destrezas te ayudarán a que la comunicación verbal sea más fácil y divertida. ¡Vamos a empezar!
 
----
+
 
 **Actividad Práctica:**
 
@@ -116,11 +116,11 @@ Si eres como yo, estas destrezas te ayudarán a que la comunicación verbal sea 
     - ¿Qué aspectos de la comunicación verbal crees que podrías mejorar?
     - ¿Cómo te sentirías si pudieras comunicarte de manera más efectiva en tu trabajo diario?
 
----
+
 
 ### **Curso 2: Atributos de la Comunicación Oral**
 
----
+
 
 Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos los fundamentos de la comunicación verbal, incluyendo los elementos esenciales como el emisor, el receptor, el mensaje y el canal. Hoy nos enfocaremos en los atributos de la comunicación oral: el tono, el volumen, el ritmo y la modulación de la voz.
 
@@ -181,7 +181,7 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
 
 ### **Curso 3: Proyectando una Imagen Profesional**
 
----
+
 
 **Hola de nuevo, soy Eli Padilla. En los cursos anteriores, exploramos los fundamentos de la comunicación verbal y los atributos de la comunicación oral. Hoy nos enfocaremos en cómo proyectar una imagen profesional al comunicarte verbalmente.**
 
@@ -230,7 +230,7 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
 
 **En el próximo curso, exploraremos cómo transmitir el mensaje hablado de manera efectiva. ¡Nos vemos allí!**
 
----
+
 
 **Actividad Práctica:**
 
@@ -241,11 +241,11 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
     - ¿Cómo te sientes al ser consciente de la importancia de la imagen profesional?
     - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
----
+
 
 ### **Curso 4: Transmitiendo el Mensaje Hablado**
 
----
+
 
 **Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos cómo proyectar una imagen profesional al comunicarte verbalmente. Hoy nos enfocaremos en cómo transmitir el mensaje hablado de manera efectiva.**
 
@@ -293,7 +293,7 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
 
 **En el próximo curso, exploraremos cómo corroborar que el interlocutor ha recibido el mensaje. ¡Nos vemos allí!**
 
----
+
 
 **Actividad Práctica:**
 
@@ -304,11 +304,11 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
     - ¿Cómo te sientes al ser consciente de estas técnicas en tu comunicación verbal?
     - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
----
+
 
 ### **Curso 5: Corroborando la Recepción del Mensaje**
 
----
+
 
 **Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos cómo transmitir el mensaje hablado de manera efectiva. Hoy nos enfocaremos en cómo corroborar que el interlocutor ha recibido el mensaje.**
 
@@ -350,7 +350,7 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
 
 **En el próximo curso, exploraremos los fundamentos de la comunicación escrita. ¡Nos vemos allí!**
 
----
+
 
 **Actividad Práctica:**
 
@@ -361,11 +361,11 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
     - ¿Cómo te sientes al ser consciente de estas técnicas en tu comunicación verbal?
     - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
----
+
 
 ### **Curso 6: Fundamentos de la Comunicación Escrita**
 
----
+
 
 **Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos cómo corroborar que el interlocutor ha recibido el mensaje hablado. Hoy nos enfocaremos en los fundamentos de la comunicación escrita.**
 
@@ -412,7 +412,7 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
 
 **En el próximo curso, exploraremos las reglas ortográficas y de puntuación. ¡Nos vemos allí!**
 
----
+
 
 **Actividad Práctica:**
 
@@ -423,11 +423,11 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
     - ¿Cómo te sientes al ser consciente de estos fundamentos en tu comunicación escrita?
     - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
----
+
 
 ### **Curso 7: Reglas Ortográficas y de Puntuación**
 
----
+
 
 **Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos los fundamentos de la comunicación escrita. Hoy nos enfocaremos en las reglas ortográficas y de puntuación.**
 
@@ -481,7 +481,7 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
 
 **En el próximo curso, exploraremos la redacción de documentos laborales. ¡Nos vemos allí!**
 
----
+
 
 **Actividad Práctica:**
 
@@ -492,11 +492,11 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
     - ¿Cómo te sientes al ser consciente de estas reglas en tu comunicación escrita?
     - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
----
+
 
 ### **Curso 8: Redacción de Documentos Laborales**
 
----
+
 
 **Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos las reglas ortográficas y de puntuación. Hoy nos enfocaremos en la redacción de documentos laborales.**
 
@@ -550,7 +550,7 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
 
 **En el próximo curso, exploraremos la comunicación en redes sociales profesionales. ¡Nos vemos allí!**
 
----
+
 
 **Actividad Práctica:**
 
@@ -561,11 +561,11 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
     - ¿Cómo te sientes al ser consciente de estos fundamentos en tu redacción de documentos laborales?
     - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
----
+
 
 ### **Curso 9: Comunicación en Redes Sociales Profesionales**
 
----
+
 
 **Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos la redacción de documentos laborales. Hoy nos enfocaremos en la comunicación en redes sociales profesionales.**
 
@@ -619,7 +619,7 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
 
 **En el próximo curso, exploraremos la creación de material visual. ¡Nos vemos allí!**
 
----
+
 
 **Actividad Práctica:**
 
@@ -630,11 +630,11 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
     - ¿Cómo te sientes al ser consciente de estas técnicas en tu comunicación en redes sociales profesionales?
     - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
----
+
 
 ### **Curso 10: Creación de Material Visual**
 
----
+
 
 **Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos la comunicación en redes sociales profesionales. Hoy nos enfocaremos en la creación de material visual.**
 
@@ -688,7 +688,7 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
 
 **En el próximo curso, exploraremos las técnicas de escucha activa. ¡Nos vemos allí!**
 
----
+
 
 **Actividad Práctica:**
 
@@ -699,11 +699,11 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
     - ¿Cómo te sientes al ser consciente de estas técnicas en la creación de material visual?
     - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
----
+
 
 ### **Curso 11: Técnicas de Escucha Activa**
 
----
+
 
 **Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos la creación de material visual. Hoy nos enfocaremos en las técnicas de escucha activa.**
 
@@ -751,7 +751,7 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
 
 **En el próximo curso, exploraremos cómo parafrasear al interlocutor. ¡Nos vemos allí!**
 
----
+
 
 **Actividad Práctica:**
 
@@ -762,11 +762,11 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
     - ¿Cómo te sientes al ser consciente de estas técnicas en tu escucha activa?
     - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
----
+
 
 ### **Curso 12: Parafraseando al Interlocutor**
 
----
+
 
 **Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos las técnicas de escucha activa. Hoy nos enfocaremos en cómo parafrasear al interlocutor.**
 
@@ -814,7 +814,7 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
 
 **En el próximo curso, exploraremos cómo solicitar información. ¡Nos vemos allí!**
 
----
+
 
 **Actividad Práctica:**
 
@@ -825,11 +825,11 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
     - ¿Cómo te sientes al ser consciente de estas técnicas en tu parafraseo?
     - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
----
+
 
 ### **Curso 13: Solicitando Información**
 
----
+
 
 **Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos cómo parafrasear al interlocutor. Hoy nos enfocaremos en cómo solicitar información.**
 
@@ -877,7 +877,7 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
 
 **En el próximo curso, exploraremos las actitudes y valores en la comunicación. ¡Nos vemos allí!**
 
----
+
 
 **Actividad Práctica:**
 
@@ -888,11 +888,11 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
     - ¿Cómo te sientes al ser consciente de estas técnicas en tu solicitud de información?
     - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
----
+
 
 ### **Curso 14: Actitudes y Valores en la Comunicación**
 
----
+
 
 **Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos cómo solicitar información. Hoy nos enfocaremos en las actitudes y valores en la comunicación.**
 
@@ -940,7 +940,7 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
 
 **En el próximo curso, exploraremos la integración y el proyecto final. ¡Nos vemos allí!**
 
----
+
 
 **Actividad Práctica:**
 
@@ -951,11 +951,11 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
     - ¿Cómo te sientes al ser consciente de estas actitudes y valores en tu comunicación?
     - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
----
+
 
 ### **Curso 15: Integración y Proyecto Final**
 
----
+
 
 **Hola de nuevo, soy Eli Padilla. En los cursos anteriores, exploramos diversos aspectos de la comunicación efectiva en el trabajo. Hoy nos enfocaremos en la integración de todas las habilidades aprendidas y en la realización del proyecto final.**
 
@@ -1003,7 +1003,7 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
 
 **¡Felicidades por completar el curso!**
 
----
+
 
 **Actividad Práctica:**
 
@@ -1014,4 +1014,4 @@ En el próximo curso, exploraremos cómo proyectar una imagen profesional al com
     - ¿Cómo te sientes al haber completado el curso y realizado el proyecto final?
     - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
----
+

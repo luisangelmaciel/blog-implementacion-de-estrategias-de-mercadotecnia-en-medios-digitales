@@ -3,627 +3,1015 @@ title: "Domina el Arte del Email Marketing: Secretos para Crear Boletines Irresi
 description: " El 80% de los boletines informativos no superan los tres meses de vida. Pero hoy, eso va a cambiar."
 date: "2024-08-03"
 ---
-Presentación del curso “Liderazgo y trabajo en equipo”
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-Hoy por hoy, el deber del líder de un equipo, sea el que sea, es el de dirigir mediante el ejemplo y la confianza mutua. Hay que ser un observador que confía en la capacidad de sus compañeros de equipo para sacar adelante las tareas, que proporciona «feedback» útil, que facilita que los procesos sigan por el camino acordado y que elimina los obstáculos que impiden que el trabajo avance. El líder de hoy en día se pone a las tareas de sacar las cosas adelante al mismo nivel que su equipo. Hay que arremangarse, ponerse a la tarea junto a ellos. Hay que compartir el conocimiento y hay que tener ganas de que las personas que están a tu alrededor prosperen, porque su éxito es, por supuesto, el tuyo propio. Mi nombre es Francisco Rábano y llevo más de diez años liderando equipos y generando nuevos líderes en «start-ups» españolas y americanas. El liderazgo de hoy en día no va de controlar, sino de ser un ejemplo, un guía y un facilitador. Todo ello te lo contaré en este curso.
+### **Índice Completo del Temario**
+
+1. **Fundamentos de la Comunicación Verbal**
+    - Introducción a la comunicación verbal
+    - Elementos esenciales: emisor, receptor, mensaje y canal
+    - Ejemplo práctico: presentación en una reunión
+2. **Atributos de la Comunicación Oral**
+    - Tono
+    - Volumen
+    - Ritmo
+    - Modulación
+    - Ejercicios prácticos: tono, volumen, ritmo y modulación
+3. **Proyectando una Imagen Profesional**
+    - Vestimenta
+    - Postura y gestos
+    - Expresión facial
+    - Técnicas para proyectar una imagen profesional
+4. **Transmitiendo el Mensaje Hablado**
+    - Contacto visual
+    - Gesticulación
+    - Lenguaje
+    - Enunciación
+    - Volumen
+    - Ejercicios prácticos: contacto visual, gesticulación, lenguaje, enunciación y volumen
+5. **Corroborando la Recepción del Mensaje**
+    - Contacto visual
+    - Preguntas congruentes
+    - Volumen
+    - Feedback
+    - Ejercicios prácticos: contacto visual, preguntas congruentes, volumen y feedback
+6. **Fundamentos de la Comunicación Escrita**
+    - Estructura del documento
+    - Vocabulario formal
+    - Ortografía y puntuación
+    - Técnicas para mejorar la comunicación escrita
+7. **Reglas Ortográficas y de Puntuación**
+    - Uso del apóstrofe
+    - Uso de la coma
+    - Uso del punto
+    - Uso de los dos puntos
+    - Uso del punto y coma
+    - Ejercicios prácticos: uso del apóstrofe, coma, punto, dos puntos y punto y coma
+8. **Redacción de Documentos Laborales**
+    - Estructura del documento laboral
+    - Técnicas para mejorar la redacción de documentos laborales
+9. **Comunicación en Redes Sociales Profesionales**
+    - Perfil profesional
+    - Contenido relevante
+    - Interacción en redes sociales
+    - Técnicas para mejorar la comunicación en redes sociales profesionales
+10. **Creación de Material Visual**
+    - Tipografía
+    - Imágenes
+    - Gráficos
+    - Técnicas para mejorar la creación de material visual
+11. **Técnicas de Escucha Activa**
+    - Atención plena
+    - Contacto visual
+    - Parafraseo
+    - Técnicas para mejorar la escucha activa
+12. **Parafraseando al Interlocutor**
+    - Resumen claro y conciso
+    - Uso de propias palabras
+    - Feedback positivo y constructivo
+    - Ejercicios prácticos: resumen, uso de propias palabras y feedback
+13. **Solicitando Información**
+    - Preguntas claras y precisas
+    - Esclarecimiento de detalles
+    - Comprobación de interpretación
+    - Técnicas para mejorar la solicitud de información
+14. **Actitudes y Valores en la Comunicación**
+    - Amabilidad
+    - Tolerancia
+    - Honestidad
+    - Técnicas para mejorar las actitudes y valores en la comunicación
+15. **Integración y Proyecto Final**
+    - Planificación
+    - Ejecución
+    - Evaluación
+    - Técnicas para mejorar la integración y ejecución del proyecto final
+
+---
+
+### **Fundamentos de la Comunicación Verbal**
+
+---
+
+Hola, soy Eli Padilla, fui empleada de gobierno por 25 años y en estos últimos años, como formadora en servicio y comunicación efectiva. Me encanta la comunicación verbal. Es divertido conocer gente nueva y ayudarles a expresar sus ideas de manera clara y efectiva. Me gusta poder ser capaz de ayudarles en algo. Pero no siempre es fácil. Cada día nos enfrentamos a problemas nuevos. Atender a algunos interlocutores es difícil, y no siempre tenemos todas las respuestas.
+
+Como profesionales de la comunicación en el entorno laboral, nuestras organizaciones cuentan con que superemos los obstáculos y logremos que la comunicación sea efectiva y satisfactoria. Quiero enseñarte algunos fundamentos de la comunicación verbal que he aprendido a través de más de 25 años de trabajo en la H. Cámara de Diputados. En este curso, estudiaremos los elementos esenciales de la comunicación verbal: el emisor, el receptor, el mensaje y el canal.
+
+**El emisor** es la persona que envía el mensaje. **El receptor** es la persona que lo recibe. **El mensaje** es la información que se transmite, y **el canal** es el medio a través del cual se envía el mensaje, como la voz, el teléfono o una videollamada.
+
+Para que la comunicación sea efectiva, es crucial que el emisor y el receptor comprendan el mensaje de la misma manera. Esto significa que debemos ser claros y concisos en nuestra comunicación y asegurarnos de que el receptor tenga la capacidad de entender el mensaje.
+
+**Ejemplo:** Imagina que estás en una reunión y necesitas presentar una idea importante. Eres el emisor, y tus colegas son los receptores. El mensaje es tu idea, y el canal es tu voz y cualquier material visual que uses, como diapositivas o gráficos. Para que tu presentación sea efectiva, debes asegurarte de que tus colegas comprendan tu idea claramente.
+
+En los próximos cursos de esta sección, abordaremos los temas de cómo mejorar los atributos de la comunicación oral, como el tono, el volumen, el ritmo y la modulación de la voz. También aprenderemos técnicas para proyectar una imagen profesional y transmitir el mensaje hablado de manera efectiva. Además, veremos cómo corroborar que el interlocutor ha recibido el mensaje y cómo aplicar estas habilidades en situaciones laborales.
+
+Si eres como yo, estas destrezas te ayudarán a que la comunicación verbal sea más fácil y divertida. ¡Vamos a empezar!
+
+---
 
-Espera a mi proximo mensaje para recibir instrucciones. 
+**Actividad Práctica:**
 
-¡Bienvenidos a la presentación del curso “Liderazgo y trabajo en equipo”!
+1. **Identificación de Elementos de la Comunicación Verbal:**
+    - Piensa en una situación laboral reciente en la que tuviste que comunicarte verbalmente.
+    - Identifica quién era el emisor, el receptor, el mensaje y el canal.
+    - Escribe una breve descripción de cómo crees que se recibió el mensaje.
+2. **Reflexión Personal:**
+    - ¿Qué aspectos de la comunicación verbal crees que podrías mejorar?
+    - ¿Cómo te sentirías si pudieras comunicarte de manera más efectiva en tu trabajo diario?
 
-Hoy por hoy, el deber del líder de un equipo, sea el que sea, es el de dirigir mediante el ejemplo y la confianza mutua. Hay que ser un observador que confía en la capacidad de sus compañeros de equipo para sacar adelante las tareas, que proporciona «feedback» útil, que facilita que los procesos sigan por el camino acordado y que elimina los obstáculos que impiden que el trabajo avance. El líder de hoy en día se pone a las tareas de sacar las cosas adelante al mismo nivel que su equipo. Hay que arremangarse, ponerse a la tarea junto a ellos. Hay que compartir el conocimiento y hay que tener ganas de que las personas que están a tu alrededor prosperen, porque su éxito es, por supuesto, el tuyo propio.
+---
 
-Mi nombre es Francisco Rábano y llevo más de diez años liderando equipos y generando nuevos líderes en «start-ups» españolas y americanas. El liderazgo de hoy en día no va de controlar, sino de ser un ejemplo, un guía y un facilitador. Todo ello te lo contaré en este curso.
+### **Curso 2: Atributos de la Comunicación Oral**
 
-Espero que disfrutes y aprendas mucho con este curso. ¡Vamos a empezar!
+---
 
-Breve historia de la gestión de equipos
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-Conocer la historia es conocernos a nosotros mismos. Saber de dónde venimos supone comprender por qué en el inconsciente común hay determinadas creencias enraizadas que asumimos como verdaderas, cuando en realidad, no son más que simples tradiciones usos y costumbres que, con el tiempo, han pasado a formar parte del acervo empresarial. Vamos a hacer un pequeño repaso de la historia del «management», qué es un producto muy reciente del hombre, y trataremos de responder a preguntas del tipo: ¿Qué hace a un buen jefe? ¿Y a un buen líder? ¿Son lo mismo? ¿Por qué creemos que ha de dirigirse así, casi siempre de manera jerárquica? ¿Qué nos lleva a pensar que los jefes deberían ser los que más sepan sobre un tema determinado? ¿Por qué esto no se cumple en la gran mayoría de los casos? Y después de este repaso, vamos a retar esas preconcepciones y avanzar hacia modelos que tengan en cuenta el momento en el que vivimos y las personas con las que trabajamos. Allá vamos. Empezamos nuestro viaje. Los últimos cien años del «management» y del liderazgo de equipos son la historia de cómo convertir a las personas en recursos humanos. Se ha pretendido controlar la eficacia y la productividad de las personas mediante la aplicación de métodos pretendidamente científicos. Todo empezó con la Segunda Revolución Industrial, el desarrollo del tren, la aparición de la electricidad y la necesidad de medirlo todo mediante escalas y cronómetros. La moda de la cuantificación que estamos viviendo hoy en día con pulseras y otros cientos de cosas empezó con los trenes y la necesidad de sincronizar las horas entre las diferentes ciudades. Antes, cada ciudad tenía su hora, que era más o menos similar a la de otras ciudades. Pero al conectar las diferentes ciudades entre sí, hizo falta desarrollar sistemas de sincronización del tiempo. A partir de ahí, se desarrolló una moda imparable por cronometrarlo y medirlo todo como epítome del progreso y la revolución industrial que se estaba viviendo. Lo científico era lo observable y lo medible. Lo que no se podía observar ni medir ni era científico ni era relevante, por lo que, por ejemplo, la psicología empezó a rechazar la introspección. Es decir, desde un punto de vista científico, lo que importaba eran los comportamientos, no los pensamientos. Y en medio de todo esto, aparece Frederick Wilson Taylor. Taylor trató de aplicar un supuesto método científico a la gestión de los recursos humanos y la producción. En torno a 1913, en su método, Taylor dividía la fuerza laboral en dos clases principales: los cuerpos sin mente o trabajadores manuales y las mentes sin cuerpo o los managers. A unos se les pagaba para trabajar y a los otros, para pensar. Bajo su punto de vista, el jefe sabe más que los demás. Y de aquí nace el dicho «A ti no te pagan para pensar». Taylor creía que el «management» era una verdadera ciencia, con leyes inamovibles y verdades y principios fundacionales. Además, tenía una visión mecanicista del ser humano. Pone la atención en el hombre como máquina, en el cuerpo del hombre como medio para producir y mide tiempo y movimiento para llegar a la absoluta eficiencia. Cronometrar, observar, apuntar, cambiar y vuelta a empezar. «Work smarter, not harder» era una de sus frases. Su libro «Principios de la administración científica» fue un superventas trascendental en la organización moderna y en la teoría de la gestión empresarial. Se le considera el inventor de la gestión y las consultorías empresariales, del «management» y del concepto «win-win» trabajador-empresa, por cosas como que la administración de la empresa, el «management», es quien debe determinar el método más eficaz para ejecutar una tarea. Para ello, ha de medir tiempos y movimientos y después, ha de entrenar al trabajador en el método que se haya revelado como el más eficiente. Además, según Taylor, hay que llevar siempre un sistema de registros individuales para pagar a cada trabajador en base a incentivos por su producción. Todo parece bastante sensato, excepto que, bien mirados, la mayor parte de sus dichos eran perogrulladas. Cosas como «Una empresa eficiente es más productiva que una empresa ineficiente» no es una afirmación científica, sino una memez sofista. También hay que tener en cuenta que sus incentivos eran muy pequeños y muy condicionados a ejercer una labor física extenuante. Cuando la Bethlehem Company la puso en práctica, se percibieron como tomaduras de pelo, lo que llevó a que todos los sujetos de su ensayo se rebelasen contra él y contra la fábrica. Y además, todo el taylorismo fue una gran mentira. Se inventó datos, ocultó errores y manipuló resultados a su conveniencia. La Bethlehem Company, lejos de aplaudir su método, acabó echándolo por incompetente, aunque él sigue utilizando ese ejemplo como el pináculo de su carrera y su método científico en todo lo que escribe. A pesar de que el taylorismo quedó desacreditado, la idea de aplicar métodos científicos al «management» y la gestión de equipos permanecerá hasta nuestros días. Si no se puede medir, no existe. Si se puede medir, se puede mejorar.
+Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos los fundamentos de la comunicación verbal, incluyendo los elementos esenciales como el emisor, el receptor, el mensaje y el canal. Hoy nos enfocaremos en los atributos de la comunicación oral: el tono, el volumen, el ritmo y la modulación de la voz.
 
-Breve Historia de la Gestión de Equipos
-Conocer la historia es conocernos a nosotros mismos. Saber de dónde venimos supone comprender por qué en el inconsciente común hay determinadas creencias enraizadas que asumimos como verdaderas, cuando en realidad, no son más que simples tradiciones, usos y costumbres que, con el tiempo, han pasado a formar parte del acervo empresarial. Vamos a hacer un pequeño repaso de la historia del «management», qué es un producto muy reciente del hombre, y trataremos de responder a preguntas del tipo: ¿Qué hace a un buen jefe? ¿Y a un buen líder? ¿Son lo mismo? ¿Por qué creemos que ha de dirigirse así, casi siempre de manera jerárquica? ¿Qué nos lleva a pensar que los jefes deberían ser los que más sepan sobre un tema determinado? ¿Por qué esto no se cumple en la gran mayoría de los casos? Y después de este repaso, vamos a retar esas preconcepciones y avanzar hacia modelos que tengan en cuenta el momento en el que vivimos y las personas con las que trabajamos. Allá vamos. Empezamos nuestro viaje.
+Estos atributos son cruciales para transmitir tu mensaje de manera efectiva y asegurarte de que tu interlocutor te entienda claramente. Vamos a desglosar cada uno de estos atributos y cómo puedes mejorarlos.
 
-Los Últimos Cien Años del «Management» y del Liderazgo de Equipos
-Los últimos cien años del «management» y del liderazgo de equipos son la historia de cómo convertir a las personas en recursos humanos. Se ha pretendido controlar la eficacia y la productividad de las personas mediante la aplicación de métodos pretendidamente científicos. Todo empezó con la Segunda Revolución Industrial, el desarrollo del tren, la aparición de la electricidad y la necesidad de medirlo todo mediante escalas y cronómetros. La moda de la cuantificación que estamos viviendo hoy en día con pulseras y otros cientos de cosas empezó con los trenes y la necesidad de sincronizar las horas entre las diferentes ciudades. Antes, cada ciudad tenía su hora, que era más o menos similar a la de otras ciudades. Pero al conectar las diferentes ciudades entre sí, hizo falta desarrollar sistemas de sincronización del tiempo. A partir de ahí, se desarrolló una moda imparable por cronometrarlo y medirlo todo como epítome del progreso y la revolución industrial que se estaba viviendo. Lo científico era lo observable y lo medible. Lo que no se podía observar ni medir ni era científico ni era relevante, por lo que, por ejemplo, la psicología empezó a rechazar la introspección. Es decir, desde un punto de vista científico, lo que importaba eran los comportamientos, no los pensamientos.
+### **Tono**
 
-Frederick Wilson Taylor y el Taylorismo
-En medio de todo esto, aparece Frederick Wilson Taylor. Taylor trató de aplicar un supuesto método científico a la gestión de los recursos humanos y la producción. En torno a 1913, en su método, Taylor dividía la fuerza laboral en dos clases principales: los cuerpos sin mente o trabajadores manuales y las mentes sin cuerpo o los managers. A unos se les pagaba para trabajar y a los otros, para pensar. Bajo su punto de vista, el jefe sabe más que los demás. Y de aquí nace el dicho «A ti no te pagan para pensar». Taylor creía que el «management» era una verdadera ciencia, con leyes inamovibles y verdades y principios fundacionales. Además, tenía una visión mecanicista del ser humano. Pone la atención en el hombre como máquina, en el cuerpo del hombre como medio para producir y mide tiempo y movimiento para llegar a la absoluta eficiencia. Cronometrar, observar, apuntar, cambiar y vuelta a empezar. «Work smarter, not harder» era una de sus frases. Su libro «Principios de la administración científica» fue un superventas trascendental en la organización moderna y en la teoría de la gestión empresarial. Se le considera el inventor de la gestión y las consultorías empresariales, del «management» y del concepto «win-win» trabajador-empresa, por cosas como que la administración de la empresa, el «management», es quien debe determinar el método más eficaz para ejecutar una tarea. Para ello, ha de medir tiempos y movimientos y después, ha de entrenar al trabajador en el método que se haya revelado como el más eficiente. Además, según Taylor, hay que llevar siempre un sistema de registros individuales para pagar a cada trabajador en base a incentivos por su producción.
+El tono de tu voz es la variación en los sonidos que emitimos al hablar. Un tono adecuado puede hacer que tu mensaje suene más amigable, profesional o autoritario, dependiendo de la situación. Aquí hay algunas técnicas para mejorar tu tono:
 
-Todo parece bastante sensato, excepto que, bien mirados, la mayor parte de sus dichos eran perogrulladas. Cosas como «Una empresa eficiente es más productiva que una empresa ineficiente» no es una afirmación científica, sino una memez sofista. También hay que tener en cuenta que sus incentivos eran muy pequeños y muy condicionados a ejercer una labor física extenuante. Cuando la Bethlehem Company la puso en práctica, se percibieron como tomaduras de pelo, lo que llevó a que todos los sujetos de su ensayo se rebelasen contra él y contra la fábrica. Y además, todo el taylorismo fue una gran mentira. Se inventó datos, ocultó errores y manipuló resultados a su conveniencia. La Bethlehem Company, lejos de aplaudir su método, acabó echándolo por incompetente, aunque él sigue utilizando ese ejemplo como el pináculo de su carrera y su método científico en todo lo que escribe.
+- **Variedad:** Cambia el tono para mantener el interés de tu interlocutor.
+- **Consistencia:** Asegúrate de que tu tono sea consistente con el mensaje que estás transmitiendo.
+- **Empatía:** Usa un tono que demuestre empatía y comprensión.
 
-Legado del Taylorismo
-A pesar de que el taylorismo quedó desacreditado, la idea de aplicar métodos científicos al «management» y la gestión de equipos permanecerá hasta nuestros días. Si no se puede medir, no existe. Si se puede medir, se puede mejorar.
+### **Volumen**
 
-Espero que esta breve historia te haya proporcionado una visión clara de cómo hemos llegado a los modelos de gestión de equipos que conocemos hoy en día. Ahora, con esta base, podemos explorar cómo estos conceptos han evolucionado y cómo podemos aplicar principios modernos y efectivos en el liderazgo y el trabajo en equipo. ¡Vamos a seguir adelante!
+El volumen es la intensidad de la voz con la que emitimos el mensaje. Es importante ajustar el volumen según la situación y el entorno. Aquí hay algunas técnicas para mejorar el uso del volumen:
 
-Elton Mayo
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-Tras Frederick Winslow Taylor vino su discípulo Elton Mayo. Estamos hablando ya en torno a 1930, unos 20 años después. Mayo era un humanista que afirmaba cosas del tipo «Un trabajador feliz es un buen trabajador», y esto, en su momento, fue disruptivo absolutamente, nadie hablaba así. También era un conductista que sostenía que se podía alterar el comportamiento de los seres humanos simplemente aplicando cierta psicología. La innovación de Mayo frente a Taylor fue trasladar la atención del cuerpo del trabajador a la mente del trabajador. Si Taylor buscaba mejorar la eficiencia de los trabajadores mediante movimientos más estandarizados, Mayo buscaba la misma eficiencia, pero a través de mejorar las condiciones de los que trabajaban. Para Mayo, la felicidad del trabajador era un medio con el que alcanzar el fin último empresarial, el aumento de la productividad. Así que, muy interesado también en las investigaciones científicas, se monta un laboratorio en la planta Hawthorne y empieza a realizar estudios sobre el aumento de la productividad en los trabajadores al variar determinados factores ambientales como la iluminación. Lo que observó en sus experimentos fue que, al incrementar los niveles de luz, también incrementaba la producción y, al reducir los niveles de luz, también incrementaba la producción, y que luego, al acabar los estudios, la producción volvía a la normalidad preexperimentos. Continuaron con ensayos parecidos, por ejemplo, variando los periodos de descanso, dando pequeños incentivos u ofreciendo la comida durante la jornada de trabajo, pero, en verdad, no tenía ni idea de si el aumento de la producción se debía a esas cosas o a las dinámicas de grupo de trabajos más pequeños o por la atención especial que recibían las mujeres que participaban en el experimento. La cosa es que, a cada prueba que hacían, la productividad aumentaba y, al poco de que las pruebas terminasen, la productividad regresaba a sus niveles anteriores. Años más tarde, se daría una posible explicación que dice que la mejora en la productividad se debía realmente al hecho de que los obreros se sintieran observados y analizados. Es lo que se conoce como efecto Hawthorne. Pero Mayo estaba convencido de que esos aumentos en la producción se debían, principalmente, a que los trabajadores se sintieron mejor tratados durante los experimentos y que lo que verdaderamente era determinante fue su novedoso sistema de dirección que aplicaron, pues hizo que los trabajadores se comportaran de un modo diferente al experimentar un mayor margen de libertad y tener la convicción de que su trabajo era importante, que tenía sentido, de no sentirse estrictamente supervisados, pero sí controlados como grupo. Cosas como los valores, la cultura de la empresa o las declaraciones de principios parten precisamente de esta visión de Mayo. Lo que ocurre es que hay un gran problema en el supuesto método científico que Mayo quiso aplicar, y es que, cómo no, ocultó información y datos. Hubo un elemento del que nunca habló ni tuvo en cuenta y es que todas las personas que participaban en sus ensayos veían incrementado su salario muy sensiblemente, pues aparte de su sueldo habitual, recibían incentivos por participar en los experimentos, incentivos por el aumento de la producción durante los experimentos y algunas horas extra más. Mayo ocultó ese dato crucial a pesar de que sus ayudantes comprobaron que durante tres meses, con solo aumentar el sueldo de los trabajadores, sin supervisión ni ningún otro cambio, la producción aumentó un 41 % y se mantuvo hasta que volvieron a reducir el sueldo. Así que, finalmente, en Mayo nos encontramos con un doble fraude, a pesar de sus buenas intenciones de mejorar las condiciones de trabajo y de preocuparse por el bienestar de los trabajadores. Por un lado, al igual que Taylor, manipuló los resultados de sus experimentos y, por el otro, el hecho de sustituir un salario digno por palabras bonitas y frases inspiradoras acabaría siendo el fraude aún peor para todos los trabajadores. A partir de entonces, lo que sí se dio fue un gran interés por la manipulación psicológica de los trabajadores para que rindiesen más cobrando lo mismo o incluso menos a través del supuesto bienestar y la felicidad del trabajador.
+- **Ajuste:** Ajusta el volumen según la distancia y el entorno. No hables demasiado alto en un espacio cerrado ni demasiado bajo en un espacio amplio.
+- **Claridad:** Habla lo suficientemente alto para que tu interlocutor te escuche claramente, pero sin gritar.
+- **Consistencia:** Mantén un volumen constante para evitar que tu interlocutor tenga que esforzarse para escucharte.
 
-Elton Mayo y el Efecto Hawthorne
-Tras Frederick Winslow Taylor vino su discípulo Elton Mayo. Estamos hablando ya en torno a 1930, unos 20 años después. Mayo era un humanista que afirmaba cosas del tipo «Un trabajador feliz es un buen trabajador», y esto, en su momento, fue disruptivo absolutamente, nadie hablaba así. También era un conductista que sostenía que se podía alterar el comportamiento de los seres humanos simplemente aplicando cierta psicología. La innovación de Mayo frente a Taylor fue trasladar la atención del cuerpo del trabajador a la mente del trabajador. Si Taylor buscaba mejorar la eficiencia de los trabajadores mediante movimientos más estandarizados, Mayo buscaba la misma eficiencia, pero a través de mejorar las condiciones de los que trabajaban. Para Mayo, la felicidad del trabajador era un medio con el que alcanzar el fin último empresarial, el aumento de la productividad.
+### **Ritmo**
 
-Estudios en la Planta Hawthorne
-Así que, muy interesado también en las investigaciones científicas, se monta un laboratorio en la planta Hawthorne y empieza a realizar estudios sobre el aumento de la productividad en los trabajadores al variar determinados factores ambientales como la iluminación. Lo que observó en sus experimentos fue que, al incrementar los niveles de luz, también incrementaba la producción y, al reducir los niveles de luz, también incrementaba la producción, y que luego, al acabar los estudios, la producción volvía a la normalidad preexperimentos. Continuaron con ensayos parecidos, por ejemplo, variando los periodos de descanso, dando pequeños incentivos u ofreciendo la comida durante la jornada de trabajo, pero, en verdad, no tenía ni idea de si el aumento de la productividad se debía a esas cosas o a las dinámicas de grupo de trabajos más pequeños o por la atención especial que recibían las mujeres que participaban en el experimento. La cosa es que, a cada prueba que hacían, la productividad aumentaba y, al poco de que las pruebas terminasen, la productividad regresaba a sus niveles anteriores.
+El ritmo es la forma en que las palabras fluyen por emisión de voz. Un ritmo adecuado puede hacer que tu mensaje suene más natural y fácil de entender. Aquí hay algunas técnicas para mejorar el ritmo:
 
-El Efecto Hawthorne
-Años más tarde, se daría una posible explicación que dice que la mejora en la productividad se debía realmente al hecho de que los obreros se sintieran observados y analizados. Es lo que se conoce como efecto Hawthorne. Pero Mayo estaba convencido de que esos aumentos en la productividad se debían, principalmente, a que los trabajadores se sintieron mejor tratados durante los experimentos y que lo que verdaderamente era determinante fue su novedoso sistema de dirección que aplicaron, pues hizo que los trabajadores se comportaran de un modo diferente al experimentar un mayor margen de libertad y tener la convicción de que su trabajo era importante, que tenía sentido, de no sentirse estrictamente supervisados, pero sí controlados como grupo. Cosas como los valores, la cultura de la empresa o las declaraciones de principios parten precisamente de esta visión de Mayo.
+- **Pausas:** Usa pausas para dar énfasis a puntos importantes y permitir que tu interlocutor procese la información.
+- **Variedad:** Cambia el ritmo para mantener el interés de tu interlocutor.
+- **Naturalidad:** Habla a un ritmo natural, sin apresurarte ni arrastrar las palabras.
 
-Problemas en el Método Científico de Mayo
-Lo que ocurre es que hay un gran problema en el supuesto método científico que Mayo quiso aplicar, y es que, cómo no, ocultó información y datos. Hubo un elemento del que nunca habló ni tuvo en cuenta y es que todas las personas que participaban en sus ensayos veían incrementado su salario muy sensiblemente, pues aparte de su sueldo habitual, recibían incentivos por participar en los experimentos, incentivos por el aumento de la producción durante los experimentos y algunas horas extra más. Mayo ocultó ese dato crucial a pesar de que sus ayudantes comprobaron que durante tres meses, con solo aumentar el sueldo de los trabajadores, sin supervisión ni ningún otro cambio, la producción aumentó un 41 % y se mantuvo hasta que volvieron a reducir el sueldo.
+### **Modulación**
 
-Conclusiones sobre Elton Mayo
-Así que, finalmente, en Mayo nos encontramos con un doble fraude, a pesar de sus buenas intenciones de mejorar las condiciones de trabajo y de preocuparse por el bienestar de los trabajadores. Por un lado, al igual que Taylor, manipuló los resultados de sus experimentos y, por el otro, el hecho de sustituir un salario digno por palabras bonitas y frases inspiradoras acabaría siendo el fraude aún peor para todos los trabajadores. A partir de entonces, lo que sí se dio fue un gran interés por la manipulación psicológica de los trabajadores para que rindiesen más cobrando lo mismo o incluso menos a través del supuesto bienestar y la felicidad del trabajador.
+La modulación es la habilidad para pasar de un tono a otro armónicamente. Es especialmente importante en situaciones donde necesitas enfatizar ciertos puntos o transmitir emociones. Aquí hay algunas técnicas para mejorar la modulación:
 
-Elton Mayo y sus estudios en la planta Hawthorne marcaron un punto de inflexión en la historia de la gestión de equipos, aunque su metodología y sus conclusiones han sido objeto de críticas y debates. Su enfoque en el bienestar y la motivación de los trabajadores sigue siendo relevante hoy en día, pero es importante considerar las limitaciones y los posibles sesgos en sus investigaciones.
+- **Enfasis:** Usa la modulación para dar énfasis a palabras clave o frases importantes.
+- **Emociones:** Modula tu voz para transmitir emociones como entusiasmo, preocupación o sorpresa.
+- **Consistencia:** Mantén una modulación consistente con el mensaje que estás transmitiendo.
 
-Peter Drucker y Tom Peters
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-El siguiente gran experto en Management es Peter Drucker, al que se le considera el pensador sobre el Management más importante del siglo XX; referenciado innumerables veces por innumerables autores. Drucker, por ejemplo, fue el que acuñó el término "Knowledge worker", a mediados de la década de los 50, estableció el método de la gestión por objetivos, predijo el auge de las ONGs, insiste en la descentralización y la simplificación de los procesos dentro de la empresa e insiste, también, en la visión humanista de Mayo, hablando continuamente de la pasión y del sentimiento de realización como factores claves para la productividad de los trabajadores. La cultura y los valores de la empresa son igualmente factores clave para el éxito de las organizaciones, según Peter Drucker. Su última gran contribución, poco antes de morir, fue el artículo en HBR Managing Oneself, que habla de las necesidades del trabajador autónomo en un mundo donde la incertidumbre y la inseguridad laboral actual son el pan de cada día. La idea tras Managing Oneself se puede resumir en tres preguntas dirigidas a la autogestión del tiempo y la eficacia: Creo que resulta significativo señalar que cuando Drucker escribió, en 1953, el clásico Concept of the Corporation en el que criticaba muy duramente a General Motors, GM, General Motors, era precisamente la empresa más grande e importante a nivel mundial y permanece como el principal fabricante de coches hasta 2007. Eso sí, en 2009 quebró y se fue directamente a la banca rota. Posiblemente, Peter Drucker no habría saltado a la fama mundial si no llega a ser por otro pensador del Management, Tom Peters, que personifica la imagen del gurú de la productividad y el Management de hoy en día. Es el que más ha vendido, el más pop y ha llegado a ser el gurú que es porque, a diferencia de todos sus predecesores que le hablaban a la dirección de las empresas para que cambiaran los valores y la cultura de manera integral, Tom Peters le habla a los mandos intermedios, a los que quieren llegar a ser, a los que pretenden cambiar los sistemas desde las bases hacia arriba. Tom Peters se coronó como el gurú porque supo proporcionar esperanza a todos esos mánagers intermedios que se veían sin capacidad para cambiar nada. La idea principal de Tom es que hay que empoderar a tanta gente como sea posible para que sean capaces de tomar decisiones por sí mismos con la mínima intervención de la jerarquía y esto es totalmente Drucker. Y añade que las organizaciones que tienen éxito son las que rompen las reglas, las que se saltan las convenciones, desafían a la autoridad y, en general, las que pretenden hacer un mundo mejor. El problema, parecido a sus predecesores, es que la gran mayoría de las organizaciones que estudió, y puso como ejemplo de empresas que lo hacían maravillosamente bien y por las que había que apostar, fracasaron estrepitosamente. Por ejemplo, la más aplaudida por Tom Peters fue una empresa llamada "Enron" que quizás os suene de algo. Por último, añadamos que en el 2001, la revista Fast Company citó a Peters admitiendo que había falseado datos para In Search of Excellence. "En verdad es algo muy pequeño, pero de acuerdo, lo admito, falsifiqué los datos; un montón de gente me lo sugirió por aquel entonces", diría Peters. Seguimos con la tradición continuista de Taylor y Mayo inventándose datos que sustentasen sus teorías. Todo esto nos sirva para entender que en realidad hay poco o casi nada de científico aplicable a la gestión de equipos y personas. La gestión de las personas lo que tiene es un componente ético, de sentido común y de respeto, no de manipulación, a través de técnicas y tácticas.
+### **Ejercicios Prácticos**
 
-Peter Drucker y Tom Peters
-El siguiente gran experto en Management es Peter Drucker, al que se le considera el pensador sobre el Management más importante del siglo XX; referenciado innumerables veces por innumerables autores. Drucker, por ejemplo, fue el que acuñó el término "Knowledge worker", a mediados de la década de los 50, estableció el método de la gestión por objetivos, predijo el auge de las ONGs, insiste en la descentralización y la simplificación de los procesos dentro de la empresa e insiste, también, en la visión humanista de Mayo, hablando continuamente de la pasión y del sentimiento de realización como factores claves para la productividad de los trabajadores. La cultura y los valores de la empresa son igualmente factores clave para el éxito de las organizaciones, según Peter Drucker.
+1. **Ejercicio de Tono:**
+    - Graba una breve presentación tuya y analiza tu tono. ¿Es variado, consistente y empático?
+    - Practica cambiando el tono para ver cómo afecta el mensaje.
+2. **Ejercicio de Volumen:**
+    - Graba una breve conversación y analiza tu volumen. ¿Es adecuado para el entorno y la distancia?
+    - Practica ajustando el volumen para diferentes situaciones.
+3. **Ejercicio de Ritmo:**
+    - Graba una breve presentación y analiza tu ritmo. ¿Es natural y variado?
+    - Practica usando pausas y cambiando el ritmo para mantener el interés.
+4. **Ejercicio de Modulación:**
+    - Graba una breve presentación y analiza tu modulación. ¿Es consistente y emocionalmente adecuada?
+    - Practica usando la modulación para dar énfasis y transmitir emociones.
 
-Managing Oneself
-Su última gran contribución, poco antes de morir, fue el artículo en HBR "Managing Oneself", que habla de las necesidades del trabajador autónomo en un mundo donde la incertidumbre y la inseguridad laboral actual son el pan de cada día. La idea tras "Managing Oneself" se puede resumir en tres preguntas dirigidas a la autogestión del tiempo y la eficacia:
+### **Conclusión**
 
-¿Qué es lo que hago bien y disfruto haciendo?
-¿En qué tipo de tareas soy más productivo?
-¿Cómo puedo contribuir al éxito de mi organización?
-Peter Drucker y General Motors
-Creo que resulta significativo señalar que cuando Drucker escribió, en 1953, el clásico "Concept of the Corporation" en el que criticaba muy duramente a General Motors, GM, General Motors, era precisamente la empresa más grande e importante a nivel mundial y permanece como el principal fabricante de coches hasta 2007. Eso sí, en 2009 quebró y se fue directamente a la banca rota. Posiblemente, Peter Drucker no habría saltado a la fama mundial si no llega a ser por otro pensador del Management, Tom Peters, que personifica la imagen del gurú de la productividad y el Management de hoy en día.
+Estos atributos de la comunicación oral son esenciales para transmitir tu mensaje de manera efectiva. Con práctica y atención, puedes mejorar tu tono, volumen, ritmo y modulación de la voz, lo que te permitirá comunicarte de manera más clara y convincente.
 
-Tom Peters
-Tom Peters se coronó como el gurú porque supo proporcionar esperanza a todos esos mánagers intermedios que se veían sin capacidad para cambiar nada. La idea principal de Tom es que hay que empoderar a tanta gente como sea posible para que sean capaces de tomar decisiones por sí mismos con la mínima intervención de la jerarquía y esto es totalmente Drucker. Y añade que las organizaciones que tienen éxito son las que rompen las reglas, las que se saltan las convenciones, desafían a la autoridad y, en general, las que pretenden hacer un mundo mejor.
+En el próximo curso, exploraremos cómo proyectar una imagen profesional al comunicarte verbalmente. ¡Nos vemos allí!
 
-Éxitos y Fracasos de Tom Peters
-El problema, parecido a sus predecesores, es que la gran mayoría de las organizaciones que estudió, y puso como ejemplo de empresas que lo hacían maravillosamente bien y por las que había que apostar, fracasaron estrepitosamente. Por ejemplo, la más aplaudida por Tom Peters fue una empresa llamada "Enron" que quizás os suene de algo. Por último, añadamos que en el 2001, la revista Fast Company citó a Peters admitiendo que había falseado datos para "In Search of Excellence". "En verdad es algo muy pequeño, pero de acuerdo, lo admito, falsifiqué los datos; un montón de gente me lo sugirió por aquel entonces", diría Peters.
+### **Curso 3: Proyectando una Imagen Profesional**
 
-Reflexión Final
-Seguimos con la tradición continuista de Taylor y Mayo inventándose datos que sustentasen sus teorías. Todo esto nos sirve para entender que en realidad hay poco o casi nada de científico aplicable a la gestión de equipos y personas. La gestión de las personas lo que tiene es un componente ético, de sentido común y de respeto, no de manipulación, a través de técnicas y tácticas.
+---
 
-Peter Drucker y Tom Peters han dejado un legado significativo en el campo del management, pero es importante considerar las limitaciones y los posibles sesgos en sus investigaciones y teorías. La gestión efectiva de equipos y personas requiere un enfoque humano, ético y basado en el respeto y la colaboración, más que en la manipulación y la falsificación de datos.
+**Hola de nuevo, soy Eli Padilla. En los cursos anteriores, exploramos los fundamentos de la comunicación verbal y los atributos de la comunicación oral. Hoy nos enfocaremos en cómo proyectar una imagen profesional al comunicarte verbalmente.**
 
-Descubrir a Follet
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-Vamos con la parte más importante y la menos conocida: alguien que fue profeta, viviendo a la vez que Taylor y Mayo, pero proponiendo una visión algo distinta. La historia no se portó bien con Follett, quizá porque sus ideas no encajaban en la mentalidad de la época, quizá porque eran propuestas demasiado avanzadas o quizá porque Follett era Mary Parker Follett, una mujer. Mary Follett quiso hallar el equilibrio que separa el enfoque laboral mecanicista, cuyo foco está en el desempeño del trabajo según Taylor, y el actual enfoque conductista, cuyo foco está en el comportamiento del trabajador y que empezó por Elton Mayo, y se puso con ello. Para Follett, la autoridad de un individuo no viene determinada por ostentar un determinado cargo o por ser propietario, sino que la autoridad la ha de portar la experiencia y la competencia. En lugar de ejercer un poder sobre, proponía un poder con; en lugar de imponer, colaborar. Según Follett, el hecho de trabajar con alguien no es un problema, lo que resulta desagradable es sentir que trabajas por debajo de alguien, no solo a los trabajadores, a los ejecutivos tampoco les gusta estar por debajo de nadie. Para Follett el management verdadero no trata de cómo controlar a los individuos, sino cómo podemos todos juntos controlar una situación. Resumió su pensamiento en una frase maravillosa: «Quién da una orden debería intentar integrar en la situación a los que reciben dicha orden. El poder es algo que los directivos deberían desarrollar conjuntamente con sus colegas en el lugar de trabajo». Conceptos como liderazgo responsable, empoderamiento, sabiduría de los equipos, todos pueden trazarse hasta las sugerencias de Mary Parker Follett. Aunque los nombres que más suenen sean de otros, ella fue la verdadera profeta del sistema de management por el que estamos empezando a caminar conjuntamente. Tras cien años de pretendido cientificismo aplicado al management de personas y equipos, ahora mismo estamos volviendo a reconocer que ser un buen líder o un buen jefe está más relacionado con la competencia, la virtud y la ética que con técnicas de gestión de recursos humanos. La única verdad científica de todo esto es que, si quieres que tus trabajadores produzcan más, has de pagarles más, aunque haya un cierto límite y algunas excepciones. Y a todo esto le podemos añadir la parte ética, por la cual el bienestar de los trabajadores es un fin en sí mismo; la autonomía y la colaboración son imprescindibles; la competencia y la experiencia otorgan el liderazgo. ¿Quieres un resumen para grabarte a fuego? Si quieres ser un buen jefe, has de desarrollar tus competencias de manera constante y has de incluir a tu equipo en la toma de decisiones 
+**La imagen profesional no solo se refiere a tu vestimenta, sino también a cómo te presentas y te comunicas con los demás. Una imagen profesional puede inspirar confianza y respeto, lo cual es crucial en el entorno laboral.**
 
-Descubrir a Mary Parker Follett
-Vamos con la parte más importante y la menos conocida: alguien que fue profeta, viviendo a la vez que Taylor y Mayo, pero proponiendo una visión algo distinta. La historia no se portó bien con Follett, quizá porque sus ideas no encajaban en la mentalidad de la época, quizá porque eran propuestas demasiado avanzadas o quizá porque Follett era Mary Parker Follett, una mujer.
+### **Elementos de la Imagen Profesional**
 
-Mary Follett quiso hallar el equilibrio que separa el enfoque laboral mecanicista, cuyo foco está en el desempeño del trabajo según Taylor, y el actual enfoque conductista, cuyo foco está en el comportamiento del trabajador y que empezó por Elton Mayo, y se puso con ello. Para Follett, la autoridad de un individuo no viene determinada por ostentar un determinado cargo o por ser propietario, sino que la autoridad la ha de portar la experiencia y la competencia. En lugar de ejercer un poder sobre, proponía un poder con; en lugar de imponer, colaborar.
+1. **Vestimenta:**
+    - **Adecuada:** Viste de manera adecuada para el entorno laboral. Evita ropa informal o distraída.
+    - **Limpia:** Asegúrate de que tu ropa esté limpia y bien cuidada.
+    - **Congruente:** Tu vestimenta debe ser congruente con tu puesto y función.
+2. **Postura y Gestos:**
+    - **Ergonomía:** Mantén una postura erguida y relajada.
+    - **Gestos:** Utiliza gestos que refuercen tu mensaje y demuestren confianza.
+3. **Expresión Facial:**
+    - **Atención:** Mantén contacto visual y muestra interés en lo que se está diciendo.
+    - **Sonrisa:** Una sonrisa adecuada puede hacer que tu mensaje sea más amigable y accesible.
 
-La Visión de Follett sobre el Management
-Según Follett, el hecho de trabajar con alguien no es un problema, lo que resulta desagradable es sentir que trabajas por debajo de alguien, no solo a los trabajadores, a los ejecutivos tampoco les gusta estar por debajo de nadie. Para Follett, el management verdadero no trata de cómo controlar a los individuos, sino cómo podemos todos juntos controlar una situación. Resumió su pensamiento en una frase maravillosa: «Quién da una orden debería intentar integrar en la situación a los que reciben dicha orden. El poder es algo que los directivos deberían desarrollar conjuntamente con sus colegas en el lugar de trabajo».
+### **Técnicas para Proyectar una Imagen Profesional**
 
-Conceptos como liderazgo responsable, empoderamiento, sabiduría de los equipos, todos pueden trazarse hasta las sugerencias de Mary Parker Follett. Aunque los nombres que más suenen sean de otros, ella fue la verdadera profeta del sistema de management por el que estamos empezando a caminar conjuntamente.
+1. **Preparación:**
+    - **Investigación:** Investiga sobre el entorno laboral y las expectativas de vestimenta.
+    - **Planificación:** Planifica tu vestimenta y postura antes de una reunión o presentación.
+2. **Interacción:**
+    - **Respetó:** Trata a todos con respeto, independientemente de su puesto.
+    - **Empatía:** Muestra empatía y comprensión en tus interacciones.
+3. **Feedback:**
+    - **Recepción:** Asegúrate de que tu interlocutor haya recibido tu mensaje.
+    - **Ajustes:** Haz ajustes según el feedback recibido.
 
-Reflexión sobre el Management Moderno
-Tras cien años de pretendido cientificismo aplicado al management de personas y equipos, ahora mismo estamos volviendo a reconocer que ser un buen líder o un buen jefe está más relacionado con la competencia, la virtud y la ética que con técnicas de gestión de recursos humanos. La única verdad científica de todo esto es que, si quieres que tus trabajadores produzcan más, has de pagarles más, aunque haya un cierto límite y algunas excepciones. Y a todo esto le podemos añadir la parte ética, por la cual el bienestar de los trabajadores es un fin en sí mismo; la autonomía y la colaboración son imprescindibles; la competencia y la experiencia otorgan el liderazgo.
+### **Ejercicios Prácticos**
 
-Resumen para Grabarse a Fuego
-¿Quieres un resumen para grabarte a fuego? Si quieres ser un buen jefe, has de desarrollar tus competencias de manera constante y has de incluir a tu equipo en la toma de decisiones.
+1. **Ejercicio de Vestimenta:**
+    - Elige un atuendo profesional adecuado para una reunión laboral.
+    - Analiza cómo tu vestimenta puede influir en la percepción de los demás.
+2. **Ejercicio de Postura y Gestos:**
+    - Graba una breve presentación y analiza tu postura y gestos.
+    - Practica ajustes para mejorar tu imagen profesional.
+3. **Ejercicio de Expresión Facial:**
+    - Graba una breve conversación y analiza tu expresión facial.
+    - Practica mantener el contacto visual y mostrar interés.
 
-Mary Parker Follett es una figura fundamental en la historia del management, cuya visión progresista y humanista sigue siendo relevante y valiosa en el mundo empresarial de hoy. Sus ideas sobre la colaboración, el empoderamiento y el liderazgo responsable son la base de muchos de los enfoques modernos de gestión de equipos y personas.
+### **Conclusión**
 
-Compromiso de funcionamiento
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-El compromiso de funcionamiento es un conjunto de acuerdos generados entre los miembros del equipo, por todos ellos, y que sirve para que sea el propio equipo el que se gestione y module, al sentirse obligados a respetar su propia palabra. Se trata de poner en marcha un conjunto de normas que no han sido impuestas por la jerarquía, sino que ha sido el propio grupo quien ha determinado su identidad y validez. El compromiso de funcionamiento ha de ser una de las primeras herramientas que se implementen para el desarrollo sano y fuerte de un equipo. A mí, lo que mejor me ha ido funcionando es empezar con ello lo antes posible. Suelo preparar la primera o segunda reunión con los nuevos equipos, específicamente, para desarrollar el compromiso de funcionamiento. Es como cimentar las bases de un gran edificio. Lo primero es colocar las columnas, pues sirven de guía y sujeción. También aconsejo revisar el compromiso de funcionamiento cada cierto tiempo, pues la revisión, aparte de ser una oportunidad de mejora, también sirve para que los nuevos miembros del equipo puedan o ratificar o proponer cambios, de modo que también sientan que han adquirido ese compromiso de manera consciente, con su voz y su voto. Tú, como líder y facilitador, puedes proponer ciertas áreas donde adquirir los compromisos. Por ejemplo, quizá creas sensato y necesario que se establezcan acuerdos sobre la confidencialidad, lo que significa el respeto a los demás miembros del equipo, las reuniones, la puntualidad, o cuál es el propósito del equipo en conjunto. Veamos un ejemplo en el que el equipo ha decidido tres áreas de actuación: construcción, protección y respeto; pero podrá haberse decidido por otras áreas. ¿Cuál es nuestro propósito principal? Trabajamos para ser la empresa local de referencia en el suministro de material electrónico. ¿Cómo conseguimos este propósito? Ayudándonos en aquello que necesitemos. Compartiendo ideas, acciones y aprendizajes. Cuidando de la confidencialidad de la información sensible de la empresa, de los clientes y de los compañeros. ¿Qué podríamos incluir? Cumplir con los deadlines o avisar de ello con suficiente antelación. Todas las fechas de entrega suelen tener otras acciones interdependientes. También, asegurarse de que la conexión a Internet es buena antes de las reuniones. Avisar con antelación de la posibilidad de no asistir a una reunión. No interrumpir. Evitar el cotilleo. Apagar el teléfono durante las reuniones. Las áreas dependen principalmente de ti como líder. A ti te corresponde determinar cuáles son esas áreas, y a ellos les corresponde proponer y determinar cuáles son los acuerdos a los que se comprometen conjuntamente en cada área. Una de tus responsabilidades como líder consiste en facilitar el desarrollo de herramientas como el compromiso de funcionamiento, sin intervenir demasiado, dejándoles autonomía para tomar sus propias decisiones, para que tengan la certeza de que es algo suyo, que les pertenece, porque ellos mismos lo han dotado de contenido. También recuerda que más no significa mejor, sino solo más. Así que quizá tu labor como líder también sea la de mantener a raya la cantidad de acuerdos generados. Más vale unos pocos esenciales que una lista infumable que todos olviden según salgan por la puerta. Idea algún sistema para ir filtrando y reduciendo hasta ayudarles a que se queden con la esencia. Para que un grupo sea realmente sólido, y todas y cada una de las personas que lo componen se sientan integradas, con voz y voto dentro del grupo, hay que dotarse de herramientas 
+**Proyectar una imagen profesional es esencial para inspirar confianza y respeto en el entorno laboral. Con práctica y atención, puedes mejorar tu vestimenta, postura, gestos y expresión facial, lo que te permitirá comunicarte de manera más efectiva y profesional.**
 
-Compromiso de Funcionamiento
-El compromiso de funcionamiento es un conjunto de acuerdos generados entre los miembros del equipo, por todos ellos, y que sirve para que sea el propio equipo el que se gestione y module, al sentirse obligados a respetar su propia palabra. Se trata de poner en marcha un conjunto de normas que no han sido impuestas por la jerarquía, sino que ha sido el propio grupo quien ha determinado su identidad y validez. El compromiso de funcionamiento ha de ser una de las primeras herramientas que se implementen para el desarrollo sano y fuerte de un equipo. A mí, lo que mejor me ha funcionado es empezar con ello lo antes posible. Suelo preparar la primera o segunda reunión con los nuevos equipos, específicamente, para desarrollar el compromiso de funcionamiento. Es como cimentar las bases de un gran edificio. Lo primero es colocar las columnas, pues sirven de guía y sujeción.
+**En el próximo curso, exploraremos cómo transmitir el mensaje hablado de manera efectiva. ¡Nos vemos allí!**
 
-Revisión y Actualización
-También aconsejo revisar el compromiso de funcionamiento cada cierto tiempo, pues la revisión, aparte de ser una oportunidad de mejora, también sirve para que los nuevos miembros del equipo puedan o ratificar o proponer cambios, de modo que también sientan que han adquirido ese compromiso de manera consciente, con su voz y su voto.
+---
 
-Áreas de Compromiso
-Tú, como líder y facilitador, puedes proponer ciertas áreas donde adquirir los compromisos. Por ejemplo, quizá creas sensato y necesario que se establezcan acuerdos sobre la confidencialidad, lo que significa el respeto a los demás miembros del equipo, las reuniones, la puntualidad, o cuál es el propósito del equipo en conjunto. Veamos un ejemplo en el que el equipo ha decidido tres áreas de actuación: construcción, protección y respeto; pero podrá haberse decidido por otras áreas.
+**Actividad Práctica:**
 
-Propósito Principal: Trabajamos para ser la empresa local de referencia en el suministro de material electrónico.
-Cómo Conseguimos Este Propósito: Ayudándonos en aquello que necesitemos. Compartiendo ideas, acciones y aprendizajes. Cuidando de la confidencialidad de la información sensible de la empresa, de los clientes y de los compañeros.
-Qué Podríamos Incluir: Cumplir con los deadlines o avisar de ello con suficiente antelación. Todas las fechas de entrega suelen tener otras acciones interdependientes. Asegurarse de que la conexión a Internet es buena antes de las reuniones. Avisar con antelación de la posibilidad de no asistir a una reunión. No interrumpir. Evitar el cotilleo. Apagar el teléfono durante las reuniones.
-Responsabilidad del Líder
-Las áreas dependen principalmente de ti como líder. A ti te corresponde determinar cuáles son esas áreas, y a ellos les corresponde proponer y determinar cuáles son los acuerdos a los que se comprometen conjuntamente en cada área. Una de tus responsabilidades como líder consiste en facilitar el desarrollo de herramientas como el compromiso de funcionamiento, sin intervenir demasiado, dejándoles autonomía para tomar sus propias decisiones, para que tengan la certeza de que es algo suyo, que les pertenece, porque ellos mismos lo han dotado de contenido.
+1. **Preparación y Análisis:**
+    - Prepara un atuendo profesional para una situación laboral.
+    - Analiza cómo tu vestimenta puede influir en la percepción de los demás.
+2. **Reflexión Personal:**
+    - ¿Cómo te sientes al ser consciente de la importancia de la imagen profesional?
+    - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
-Simplicidad y Eficacia
-También recuerda que más no significa mejor, sino solo más. Así que quizá tu labor como líder también sea la de mantener a raya la cantidad de acuerdos generados. Más vale unos pocos esenciales que una lista infumable que todos olviden según salgan por la puerta. Idea algún sistema para ir filtrando y reduciendo hasta ayudarles a que se queden con la esencia.
+---
 
-Integración y Voz en el Grupo
-Para que un grupo sea realmente sólido, y todas y cada una de las personas que lo componen se sientan integradas, con voz y voto dentro del grupo, hay que dotarse de herramientas como el compromiso de funcionamiento. Estas herramientas no solo estructuran el trabajo en equipo, sino que también fomentan un sentido de pertenencia y responsabilidad compartida.
+### **Curso 4: Transmitiendo el Mensaje Hablado**
 
-El compromiso de funcionamiento es una práctica esencial para el desarrollo de un equipo cohesionado y efectivo. Al permitir que los miembros del equipo establezcan sus propias normas y acuerdos, se fomenta un sentido de propiedad y responsabilidad que es fundamental para el éxito a largo plazo.
+---
 
-Team Mantra
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-El team mantra es un instrumento verbal en el que se resume, de manera breve, la forma de trabajo y la ética de un equipo. La repetición o la presencia constante del mantra sirve para fijar esas ideas y métodos a los que, y aquí radica la clave, hemos llegado todos juntos, de común acuerdo. Un equipo es un conjunto de personas organizado para la realización de una tarea o el logro de un objetivo que comparten un sentimiento de pertenencia a dicho grupo. Además, en el equipo se generan interdependencias emocionales y organizativas. El team mantra proporciona la personalidad única que necesita un equipo para que sus miembros sientan que comparten algo especial que los une. Puede ser una expresión o un conjunto de ideas. Veámoslo con el ejemplo de un equipo que se encarga de realizar informes de viabilidad de proyectos y que ha escogido basar su team mantra en tres ideas: menos pero mejor; recoge y comparte tu conocimiento; disfruta del camino. Lo ideal es que el team mantra se decida entre el mayor número de miembros del equipo posible y que se adopte de manera conjunta. Y recomiendo que el equipo ya lleve al menos unos meses trabajando juntos para que hayan podido desarrollar sus propias ideas y aprendizajes en base a la experiencia. No parece muy sensato tratar de establecer un team mantra desde el momento cero, pues las guías aparecerán con las propias dinámicas y necesidades del trabajo en conjunto. Si analizamos el team mantra del ejemplo que hemos visto, comprobaremos que el equipo sabe que la cantidad de tareas hechas no es un valor en sí mismo, sino que lo que realmente importa es concentrarse en unas pocas cosas y hacerlas de manera excelente. También hay una indicación en la generación y la compartición de conocimiento; se espera que aprendas e, igualmente, se espera que compartas lo que aprendas, de modo que todos vayan creciendo y desarrollándose. Por último, ponen el énfasis sobre el bienestar y la serenidad del individuo, colocándolo al mismo nivel de importancia que las otras dos. No hace falta pedir permiso o preguntar o esperar autorizaciones, el team mantra es una guía que aúna valores y metodología. Una vez establecido, el team mantra elimina la necesidad de tomar miles de microdecisiones posteriores. ¿Por qué? Pues porque indica cómo considera el equipo que han de hacerse las cosas. Si quieres explicarle a tu equipo el por qué de desarrollar un team mantra, puedes utilizar la siguiente fórmula: «Buscamos decidir entre todos un recordatorio basado en tres puntos que podamos tomar como referencia cuando dudemos sobre lo que hacer o no hacer, para tomar decisiones, para implementar ciertas acciones o ideas». Para que el team mantra sea realmente efectivo, durante la reunión para decidirlo, mantén tus intervenciones al mínimo, principalmente ayudando a retomar la conversación hacia el objetivo de decidir un team mantra. Cuando la reunión o los argumentos se vayan por los cerros de Úbeda, tu labor es ser ese facilitador. 
+**Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos cómo proyectar una imagen profesional al comunicarte verbalmente. Hoy nos enfocaremos en cómo transmitir el mensaje hablado de manera efectiva.**
 
-Team Mantra
-El team mantra es un instrumento verbal en el que se resume, de manera breve, la forma de trabajo y la ética de un equipo. La repetición o la presencia constante del mantra sirve para fijar esas ideas y métodos a los que, y aquí radica la clave, hemos llegado todos juntos, de común acuerdo. Un equipo es un conjunto de personas organizado para la realización de una tarea o el logro de un objetivo que comparten un sentimiento de pertenencia a dicho grupo. Además, en el equipo se generan interdependencias emocionales y organizativas. El team mantra proporciona la personalidad única que necesita un equipo para que sus miembros sientan que comparten algo especial que los une. Puede ser una expresión o un conjunto de ideas.
+**Transmitir el mensaje hablado de manera efectiva es crucial para asegurarte de que tu interlocutor entienda y retenga la información que estás comunicando.**
 
-Ejemplo de Team Mantra
-Veámoslo con el ejemplo de un equipo que se encarga de realizar informes de viabilidad de proyectos y que ha escogido basar su team mantra en tres ideas: menos pero mejor; recoge y comparte tu conocimiento; disfruta del camino. Lo ideal es que el team mantra se decida entre el mayor número de miembros del equipo posible y que se adopte de manera conjunta. Y recomiendo que el equipo ya lleve al menos unos meses trabajando juntos para que hayan podido desarrollar sus propias ideas y aprendizajes en base a la experiencia. No parece muy sensato tratar de establecer un team mantra desde el momento cero, pues las guías aparecerán con las propias dinámicas y necesidades del trabajo en conjunto.
+### **Técnicas para Transmitir el Mensaje Hablado**
 
-Análisis del Team Mantra
-Si analizamos el team mantra del ejemplo que hemos visto, comprobaremos que el equipo sabe que la cantidad de tareas hechas no es un valor en sí mismo, sino que lo que realmente importa es concentrarse en unas pocas cosas y hacerlas de manera excelente. También hay una indicación en la generación y la compartición de conocimiento; se espera que aprendas e, igualmente, se espera que compartas lo que aprendas, de modo que todos vayan creciendo y desarrollándose. Por último, ponen el énfasis sobre el bienestar y la serenidad del individuo, colocándolo al mismo nivel de importancia que las otras dos.
+1. **Contacto Visual:**
+    - **Mantén el contacto visual:** Mira a tu interlocutor directamente a los ojos para demostrar interés y confianza.
+    - **Evita distracciones:** No mires alrededor ni revises tu teléfono mientras hablas.
+2. **Gesticulación:**
+    - **Ademanes congruentes:** Utiliza gestos que refuercen tu mensaje y sean congruentes con lo que estás diciendo.
+    - **Naturalidad:** Mantén una gesticulación natural y relajada.
+3. **Lenguaje:**
+    - **Respetuoso:** Usa un lenguaje respetuoso y congruente con el objetivo y la audiencia de la conversación.
+    - **Claridad:** Habla de manera clara y concisa, evitando el uso de jerga o términos técnicos innecesarios.
+4. **Enunciación:**
+    - **Pronunciación:** Pronuncia las palabras correctamente, abriendo la boca al hablar y obstruyendo el aire con la lengua.
+    - **Ritmo:** Habla a un ritmo natural, sin apresurarte ni arrastrar las palabras.
+5. **Volumen:**
+    - **Adecuado:** Ajusta el volumen de tu voz para que tu interlocutor te escuche claramente.
+    - **Consistencia:** Mantén un volumen constante para evitar que tu interlocutor tenga que esforzarse para escucharte.
 
-Guía y Metodología
-El team mantra es una guía que aúna valores y metodología. Una vez establecido, el team mantra elimina la necesidad de tomar miles de microdecisiones posteriores. ¿Por qué? Pues porque indica cómo considera el equipo que han de hacerse las cosas. Si quieres explicarle a tu equipo el por qué de desarrollar un team mantra, puedes utilizar la siguiente fórmula: «Buscamos decidir entre todos un recordatorio basado en tres puntos que podamos tomar como referencia cuando dudemos sobre lo que hacer o no hacer, para tomar decisiones, para implementar ciertas acciones o ideas».
+### **Ejercicios Prácticos**
 
-Facilitación de la Reunión
-Para que el team mantra sea realmente efectivo, durante la reunión para decidirlo, mantén tus intervenciones al mínimo, principalmente ayudando a retomar la conversación hacia el objetivo de decidir un team mantra. Cuando la reunión o los argumentos se vayan por los cerros de Úbeda, tu labor es ser ese facilitador.
+1. **Ejercicio de Contacto Visual:**
+    - Graba una breve conversación y analiza tu contacto visual.
+    - Practica mantener el contacto visual y evitar distracciones.
+2. **Ejercicio de Gesticulación:**
+    - Graba una breve presentación y analiza tus ademanes.
+    - Practica usar gestos congruentes y naturales.
+3. **Ejercicio de Lenguaje:**
+    - Graba una breve conversación y analiza tu lenguaje.
+    - Practica usar un lenguaje respetuoso y claro.
+4. **Ejercicio de Enunciación:**
+    - Graba una breve presentación y analiza tu pronunciación y ritmo.
+    - Practica hablar de manera clara y con un ritmo natural.
+5. **Ejercicio de Volumen:**
+    - Graba una breve conversación y analiza tu volumen.
+    - Practica ajustar el volumen para diferentes situaciones.
 
-Conclusión
-El team mantra es una herramienta poderosa para cohesionar un equipo y guiar su comportamiento y decisiones. Al ser creado de manera colaborativa y consensuada, refleja los valores y metodologías compartidas por todos los miembros del equipo. Este mantra no solo proporciona una identidad única al equipo, sino que también facilita la toma de decisiones y la implementación de acciones alineadas con los objetivos comunes. Como líder, tu papel es facilitar la creación de este mantra, asegurándote de que todos los miembros del equipo tengan voz y voto en el proceso.
+### **Conclusión**
 
-El acto de preguntar
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-La creencia general es que ser jefe o ser mánager significa decirles a los demás qué es lo que tienen que hacer e incluso cómo han de hacerlo. Venimos de una tradición larguísima por la cual el mánager es la persona que da órdenes. El mánager manda y los demás obedecen. Manda porque sabe, porque sabe más, y el resto de personas, los subordinados, están en la posición inferior de obedecer. Pero esto, queridos amigos, la vida nos ha enseñado que no siempre es así, que de hecho lo más habitual es que los mánagers no sean los que más saben y, por supuesto, los mánagers no tienen todas las respuestas. Esto no es ni bueno ni malo, simplemente es así. Lo que sí suele ser perjudicial es seguir actuando como si efectivamente los mánagers y los jefes lo supieran todo y que estos mánagers y jefes cuenten con las personas que integran sus empresas y sus equipos como meros ejecutores de órdenes. Esta perspectiva lo que indica es que para ascender has de saber y, si los mánagers intentan aparentar saber, los subordinados les imitarán y no aceptarán que se vea que no saben. Por lo que, indudablemente, el sistema fallará en algún momento debido a la inmensa carencia de confianza y transparencia. El hecho de que los mánagers no tengan todas las respuestas no quiere decir que los mánagers sean incompetentes, en absoluto. De hecho, creo que uno de los requisitos esenciales de un buen mánager es ser competente en la materia o en el campo de actuación, lo cual tiene claras diferencias con ser omnisciente y conocerlo todo. Esta tradición viene de los tiempos en los que se creía que solamente los mánagers sabían qué era lo que había que hacer. Unos eran mánagers porque ponían la mente y otros eran trabajadores porque ponían su físico. Entre otras causas, esto se debe a la configuración jerárquica basada en modelos bélicos de la empresa. De hecho, la palabra «estrategia» viene del latín «strategos», que significa jefe o gobernador militar. Otra de las causas es que venimos de un pasado donde la mayoría de los trabajos son «blue collar», donde no se necesita del poder de la creatividad ni del pensamiento de los trabajadores. Trabajadores manuales donde se siguen ritmos, horarios e inercias orientadas a la consecución de una cantidad de producto determinado. Así que, en según qué sitios y en según qué culturas, persiste la idea horrorosa de que si un mánager se muestra vulnerable admitiendo su ignorancia y pregunta: «¿Qué es lo que hay que hacer y cómo?», pierde su autoridad. En verdad, hacer preguntas con el sincero interés de conocer más y mejor sin juzgar ni prejuzgar a la gente o los fenómenos que acontecen es un síntoma de ganas de aprender y de seguridad en uno mismo. En un mundo tan cambiante, la capacidad de reflexión y aprendizaje es una ventaja competitiva. Pero es que además significa actuar de manera sensata, no tener miedo a mostrarse ignorante y vulnerable y también significa demostrar respeto al otro. A la vez que estás adquiriendo información, permites que la otra persona se sienta útil, tenida en cuenta e inteligente porque muestras que te importa su opinión o lo que sabe. Frente a colocarla en una posición de inferioridad porque le ordenas qué es lo que tiene que hacer y cómo ha de hacerlo, decides colocarla en una posición de poder al preguntarle: «¿Cómo lo harías tú?». Y empoderarla, dándole la responsabilidad de hallar las respuestas y ejecutar sus tareas 
+**Transmitir el mensaje hablado de manera efectiva es crucial para asegurarte de que tu interlocutor entienda y retenga la información que estás comunicando. Con práctica y atención, puedes mejorar tu contacto visual, gesticulación, lenguaje, enunciación y volumen, lo que te permitirá comunicarte de manera más clara y convincente.**
 
-El Acto de Preguntar
-La creencia general es que ser jefe o ser mánager significa decirles a los demás qué es lo que tienen que hacer e incluso cómo han de hacerlo. Venimos de una tradición larguísima por la cual el mánager es la persona que da órdenes. El mánager manda y los demás obedecen. Manda porque sabe, porque sabe más, y el resto de personas, los subordinados, están en la posición inferior de obedecer. Pero esto, queridos amigos, la vida nos ha enseñado que no siempre es así, que de hecho lo más habitual es que los mánagers no sean los que más saben y, por supuesto, los mánagers no tienen todas las respuestas. Esto no es ni bueno ni malo, simplemente es así.
+**En el próximo curso, exploraremos cómo corroborar que el interlocutor ha recibido el mensaje. ¡Nos vemos allí!**
 
-La Falta de Confianza y Transparencia
-Lo que sí suele ser perjudicial es seguir actuando como si efectivamente los mánagers y los jefes lo supieran todo y que estos mánagers y jefes cuenten con las personas que integran sus empresas y sus equipos como meros ejecutores de órdenes. Esta perspectiva lo que indica es que para ascender has de saber y, si los mánagers intentan aparentar saber, los subordinados les imitarán y no aceptarán que se vea que no saben. Por lo que, indudablemente, el sistema fallará en algún momento debido a la inmensa carencia de confianza y transparencia.
+---
 
-Competencia vs. Omnisciencia
-El hecho de que los mánagers no tengan todas las respuestas no quiere decir que los mánagers sean incompetentes, en absoluto. De hecho, creo que uno de los requisitos esenciales de un buen mánager es ser competente en la materia o en el campo de actuación, lo cual tiene claras diferencias con ser omnisciente y conocerlo todo. Esta tradición viene de los tiempos en los que se creía que solamente los mánagers sabían qué era lo que había que hacer. Unos eran mánagers porque ponían la mente y otros eran trabajadores porque ponían su físico.
+**Actividad Práctica:**
 
-Orígenes Jerárquicos y Culturales
-Entre otras causas, esto se debe a la configuración jerárquica basada en modelos bélicos de la empresa. De hecho, la palabra «estrategia» viene del latín «strategos», que significa jefe o gobernador militar. Otra de las causas es que venimos de un pasado donde la mayoría de los trabajos son «blue collar», donde no se necesita del poder de la creatividad ni del pensamiento de los trabajadores. Trabajadores manuales donde se siguen ritmos, horarios e inercias orientadas a la consecución de una cantidad de producto determinado. Así que, en según qué sitios y en según qué culturas, persiste la idea horrorosa de que si un mánager se muestra vulnerable admitiendo su ignorancia y pregunta: «¿Qué es lo que hay que hacer y cómo?», pierde su autoridad.
+1. **Grabación y Análisis:**
+    - Graba una breve presentación o conversación utilizando las técnicas de transmisión del mensaje hablado.
+    - Analiza tu contacto visual, gesticulación, lenguaje, enunciación y volumen. ¿Qué aspectos puedes mejorar?
+2. **Reflexión Personal:**
+    - ¿Cómo te sientes al ser consciente de estas técnicas en tu comunicación verbal?
+    - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
-El Valor de Preguntar
-En verdad, hacer preguntas con el sincero interés de conocer más y mejor sin juzgar ni prejuzgar a la gente o los fenómenos que acontecen es un síntoma de ganas de aprender y de seguridad en uno mismo. En un mundo tan cambiante, la capacidad de reflexión y aprendizaje es una ventaja competitiva. Pero es que además significa actuar de manera sensata, no tener miedo a mostrarse ignorante y vulnerable y también significa demostrar respeto al otro. A la vez que estás adquiriendo información, permites que la otra persona se sienta útil, tenida en cuenta e inteligente porque muestras que te importa su opinión o lo que sabe. Frente a colocarla en una posición de inferioridad porque le ordenas qué es lo que tiene que hacer y cómo ha de hacerlo, decides colocarla en una posición de poder al preguntarle: «¿Cómo lo harías tú?». Y empoderarla, dándole la responsabilidad de hallar las respuestas y ejecutar sus tareas.
+---
 
-Conclusión
-El acto de preguntar no solo es una muestra de humildad y apertura, sino también una forma de empoderar y respetar a los miembros del equipo. Al crear un entorno donde se valora la colaboración y el intercambio de ideas, se fomenta una cultura de aprendizaje continuo y confianza mutua. Un buen mánager no es aquel que tiene todas las respuestas, sino aquel que sabe cómo hacer las preguntas adecuadas y está dispuesto a aprender de su equipo.
+### **Curso 5: Corroborando la Recepción del Mensaje**
 
-Prestar atención
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-Parte del éxito en el liderazgo de equipos y del éxito de un buen jefe consiste en poner en práctica el arte de la escucha. Has de saber preguntar y has de saber escuchar. La importancia de saber escuchar radica en asegurarte el flujo de información que puede ser esencial para el éxito de la empresa y también para la generación de confianza entre tu empleado y tú. Si quieres que tu equipo te escuche, te comprenda y tenga en cuenta lo que les dices, tú has de hacer lo mismo con ellos, es decir, prestarles atención para que ellos te la devuelvan. Hay tres pilares fundamentales a la hora de conseguir que cada miembro de tu equipo sienta que los minutos de sus reuniones contigo merecen realmente la pena y estén deseando que ocurran, para ello, has de hacer que la otra persona se sienta importante, comprendida y tenida en cuenta. Vamos a ver de qué manera podemos poner en práctica cada una de ellas. Cómo podemos hacer que la otra persona con la que conversamos sienta que la estamos escuchando de verdad. Pues hay que prestarle atención, de modo que perciba interés por nuestra parte. Cuando realmente escuchamos a alguien poniendo nuestra atención en esa persona, le estamos enviando la señal inequívoca de que nos interesa. Además, cuando le prestamos atención a alguien esa atención normalmente nos es devuelta. Es importante que ni te distraigas ni interrumpas, es decir, lo más adecuado es que los móviles estén apagados y que no haya mensajería instantánea. Si hay algún tema urgente que requiere de tu atención, mejor retrasa la conversación para otro momento en el que no tengas prisa ni estés nervioso o cansado porque podrías estar enviando señales que nada tienen que ver con tu verdadera intención. Sé consciente de esto. Utiliza los silencios. Te aconsejo dejar espacios de silencio interrumpidos, únicamente por interjecciones, claro, hum, ajá, asiente con la cabeza. Yo por ejemplo hace ya mucho que utilizó el "hum"... con dos dedos delante de la boca para indicar que escucho y estoy interesado así la otra persona siente que es importante y que yo estoy atento y, además, para frenar las palabras que podrían querer salir de mi boca. Al pronunciar el "hum" y luego confirmar si estamos entendiendo bien lo que la otra persona nos quiere transmitir, el mensaje que estamos enviando es: me importas, eres importante y tu problema es importante para mí, te escucho con atención. Que puede haber más motivador que un jefe que muestra interés en lo que haces, en tu trabajo y en tu persona. Lo mejor para que la otra persona sienta que tiene nuestra atención plena es que simplemente la tenga y que, obvio, estemos escuchando atentamente.
+---
 
-Prestar Atención
-Parte del éxito en el liderazgo de equipos y del éxito de un buen jefe consiste en poner en práctica el arte de la escucha. Has de saber preguntar y has de saber escuchar. La importancia de saber escuchar radica en asegurarte el flujo de información que puede ser esencial para el éxito de la empresa y también para la generación de confianza entre tu empleado y tú. Si quieres que tu equipo te escuche, te comprenda y tenga en cuenta lo que les dices, tú has de hacer lo mismo con ellos, es decir, prestarles atención para que ellos te la devuelvan.
+**Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos cómo transmitir el mensaje hablado de manera efectiva. Hoy nos enfocaremos en cómo corroborar que el interlocutor ha recibido el mensaje.**
 
-Pilares Fundamentales
-Hay tres pilares fundamentales a la hora de conseguir que cada miembro de tu equipo sienta que los minutos de sus reuniones contigo merecen realmente la pena y estén deseando que ocurran. Para ello, has de hacer que la otra persona se sienta importante, comprendida y tenida en cuenta. Vamos a ver de qué manera podemos poner en práctica cada una de ellas.
+**Corroborar que el mensaje ha sido recibido correctamente es crucial para asegurar una comunicación efectiva y evitar malentendidos.**
 
-Cómo Hacer que la Otra Persona Sienta que la Estás Escuchando
-Prestar Atención: De modo que perciba interés por nuestra parte. Cuando realmente escuchamos a alguien poniendo nuestra atención en esa persona, le estamos enviando la señal inequívoca de que nos interesa.
-Evitar Distracciones: Es importante que ni te distraigas ni interrumpas. Lo más adecuado es que los móviles estén apagados y que no haya mensajería instantánea. Si hay algún tema urgente que requiere de tu atención, mejor retrasa la conversación para otro momento en el que no tengas prisa ni estés nervioso o cansado porque podrías estar enviando señales que nada tienen que ver con tu verdadera intención. Sé consciente de esto.
-Utilizar los Silencios: Te aconsejo dejar espacios de silencio interrumpidos únicamente por interjecciones, claro, hum, ajá, asiente con la cabeza. Yo, por ejemplo, hace ya mucho que utilizo el "hum"... con dos dedos delante de la boca para indicar que escucho y estoy interesado. Así la otra persona siente que es importante y que yo estoy atento, y además, para frenar las palabras que podrían querer salir de mi boca. Al pronunciar el "hum" y luego confirmar si estamos entendiendo bien lo que la otra persona nos quiere transmitir, el mensaje que estamos enviando es: me importas, eres importante y tu problema es importante para mí, te escucho con atención.
-El Poder de la Atención Plena
-Que puede haber más motivador que un jefe que muestra interés en lo que haces, en tu trabajo y en tu persona. Lo mejor para que la otra persona sienta que tiene nuestra atención plena es que simplemente la tenga y que, obvio, estemos escuchando atentamente.
+### **Técnicas para Corroborar la Recepción del Mensaje**
 
-Conclusión
-Prestar atención es una habilidad esencial para cualquier líder efectivo. Al escuchar de manera activa y mostrar interés genuino, no solo fomentas una comunicación abierta y honesta, sino que también construyes relaciones de confianza y respeto dentro de tu equipo. La atención plena y la escucha activa son herramientas poderosas que pueden transformar la dinámica de tu equipo y contribuir al éxito general de la organización.
+1. **Contacto Visual:**
+    - **Mantén el contacto visual:** Mira a tu interlocutor directamente a los ojos para demostrar interés y confianza.
+    - **Observa sus reacciones:** Presta atención a las reacciones y expresiones faciales de tu interlocutor.
+2. **Preguntas Congruentes:**
+    - **Formula preguntas:** Haz preguntas que estén relacionadas con el mensaje que has transmitido.
+    - **Claridad:** Asegúrate de que tus preguntas sean claras y específicas.
+3. **Volumen:**
+    - **Adecuado:** Ajusta el volumen de tu voz para que tu interlocutor te escuche claramente.
+    - **Consistencia:** Mantén un volumen constante para evitar que tu interlocutor tenga que esforzarse para escucharte.
+4. **Feedback:**
+    - **Recepción:** Asegúrate de que tu interlocutor haya recibido tu mensaje.
+    - **Ajustes:** Haz ajustes según el feedback recibido.
 
-Prestar atención
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-Parte del éxito en el liderazgo de equipos y del éxito de un buen jefe consiste en poner en práctica el arte de la escucha. Has de saber preguntar y has de saber escuchar. La importancia de saber escuchar radica en asegurarte el flujo de información que puede ser esencial para el éxito de la empresa y también para la generación de confianza entre tu empleado y tú. Si quieres que tu equipo te escuche, te comprenda y tenga en cuenta lo que les dices, tú has de hacer lo mismo con ellos, es decir, prestarles atención para que ellos te la devuelvan. Hay tres pilares fundamentales a la hora de conseguir que cada miembro de tu equipo sienta que los minutos de sus reuniones contigo merecen realmente la pena y estén deseando que ocurran, para ello, has de hacer que la otra persona se sienta importante, comprendida y tenida en cuenta. Vamos a ver de qué manera podemos poner en práctica cada una de ellas. Cómo podemos hacer que la otra persona con la que conversamos sienta que la estamos escuchando de verdad. Pues hay que prestarle atención, de modo que perciba interés por nuestra parte. Cuando realmente escuchamos a alguien poniendo nuestra atención en esa persona, le estamos enviando la señal inequívoca de que nos interesa. Además, cuando le prestamos atención a alguien esa atención normalmente nos es devuelta. Es importante que ni te distraigas ni interrumpas, es decir, lo más adecuado es que los móviles estén apagados y que no haya mensajería instantánea. Si hay algún tema urgente que requiere de tu atención, mejor retrasa la conversación para otro momento en el que no tengas prisa ni estés nervioso o cansado porque podrías estar enviando señales que nada tienen que ver con tu verdadera intención. Sé consciente de esto. Utiliza los silencios. Te aconsejo dejar espacios de silencio interrumpidos, únicamente por interjecciones, claro, hum, ajá, asiente con la cabeza. Yo por ejemplo hace ya mucho que utilizó el "hum"... con dos dedos delante de la boca para indicar que escucho y estoy interesado así la otra persona siente que es importante y que yo estoy atento y, además, para frenar las palabras que podrían querer salir de mi boca. Al pronunciar el "hum" y luego confirmar si estamos entendiendo bien lo que la otra persona nos quiere transmitir, el mensaje que estamos enviando es: me importas, eres importante y tu problema es importante para mí, te escucho con atención. Que puede haber más motivador que un jefe que muestra interés en lo que haces, en tu trabajo y en tu persona. Lo mejor para que la otra persona sienta que tiene nuestra atención plena es que simplemente la tenga y que, obvio, estemos escuchando atentamente.
+### **Ejercicios Prácticos**
 
-Prestar Atención
-Parte del éxito en el liderazgo de equipos y del éxito de un buen jefe consiste en poner en práctica el arte de la escucha. Has de saber preguntar y has de saber escuchar. La importancia de saber escuchar radica en asegurarte el flujo de información que puede ser esencial para el éxito de la empresa y también para la generación de confianza entre tu empleado y tú. Si quieres que tu equipo te escuche, te comprenda y tenga en cuenta lo que les dices, tú has de hacer lo mismo con ellos, es decir, prestarles atención para que ellos te la devuelvan.
+1. **Ejercicio de Contacto Visual:**
+    - Graba una breve conversación y analiza tu contacto visual.
+    - Practica mantener el contacto visual y observar las reacciones de tu interlocutor.
+2. **Ejercicio de Preguntas Congruentes:**
+    - Graba una breve conversación y analiza tus preguntas.
+    - Practica formular preguntas claras y específicas.
+3. **Ejercicio de Volumen:**
+    - Graba una breve conversación y analiza tu volumen.
+    - Practica ajustar el volumen para diferentes situaciones.
+4. **Ejercicio de Feedback:**
+    - Graba una breve conversación y analiza el feedback recibido.
+    - Practica hacer ajustes según el feedback recibido.
 
-Pilares Fundamentales
-Hay tres pilares fundamentales a la hora de conseguir que cada miembro de tu equipo sienta que los minutos de sus reuniones contigo merecen realmente la pena y estén deseando que ocurran. Para ello, has de hacer que la otra persona se sienta importante, comprendida y tenida en cuenta. Vamos a ver de qué manera podemos poner en práctica cada una de ellas.
+### **Conclusión**
 
-Cómo Hacer que la Otra Persona Sienta que la Estás Escuchando
-Prestar Atención: De modo que perciba interés por nuestra parte. Cuando realmente escuchamos a alguien poniendo nuestra atención en esa persona, le estamos enviando la señal inequívoca de que nos interesa.
-Evitar Distracciones: Es importante que ni te distraigas ni interrumpas. Lo más adecuado es que los móviles estén apagados y que no haya mensajería instantánea. Si hay algún tema urgente que requiere de tu atención, mejor retrasa la conversación para otro momento en el que no tengas prisa ni estés nervioso o cansado porque podrías estar enviando señales que nada tienen que ver con tu verdadera intención. Sé consciente de esto.
-Utilizar los Silencios: Te aconsejo dejar espacios de silencio interrumpidos únicamente por interjecciones, claro, hum, ajá, asiente con la cabeza. Yo, por ejemplo, hace ya mucho que utilizo el "hum"... con dos dedos delante de la boca para indicar que escucho y estoy interesado. Así la otra persona siente que es importante y que yo estoy atento, y además, para frenar las palabras que podrían querer salir de mi boca. Al pronunciar el "hum" y luego confirmar si estamos entendiendo bien lo que la otra persona nos quiere transmitir, el mensaje que estamos enviando es: me importas, eres importante y tu problema es importante para mí, te escucho con atención.
-El Poder de la Atención Plena
-Que puede haber más motivador que un jefe que muestra interés en lo que haces, en tu trabajo y en tu persona. Lo mejor para que la otra persona sienta que tiene nuestra atención plena es que simplemente la tenga y que, obvio, estemos escuchando atentamente.
+**Corroborar que el mensaje ha sido recibido correctamente es crucial para asegurar una comunicación efectiva y evitar malentendidos. Con práctica y atención, puedes mejorar tu contacto visual, preguntas congruentes, volumen y feedback, lo que te permitirá comunicarte de manera más efectiva.**
 
-Conclusión
-Prestar atención es una habilidad esencial para cualquier líder efectivo. Al escuchar de manera activa y mostrar interés genuino, no solo fomentas una comunicación abierta y honesta, sino que también construyes relaciones de confianza y respeto dentro de tu equipo. La atención plena y la escucha activa son herramientas poderosas que pueden transformar la dinámica de tu equipo y contribuir al éxito general de la organización. Al prestar atención de manera consciente y deliberada, demuestras a tu equipo que sus ideas y contribuciones son valiosas, lo que a su vez fortalece la cohesión y el compromiso dentro del grupo.
+**En el próximo curso, exploraremos los fundamentos de la comunicación escrita. ¡Nos vemos allí!**
 
-Prestar atención
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-Parte del éxito en el liderazgo de equipos y del éxito de un buen jefe consiste en poner en práctica el arte de la escucha. Has de saber preguntar y has de saber escuchar. La importancia de saber escuchar radica en asegurarte el flujo de información que puede ser esencial para el éxito de la empresa y también para la generación de confianza entre tu empleado y tú. Si quieres que tu equipo te escuche, te comprenda y tenga en cuenta lo que les dices, tú has de hacer lo mismo con ellos, es decir, prestarles atención para que ellos te la devuelvan. Hay tres pilares fundamentales a la hora de conseguir que cada miembro de tu equipo sienta que los minutos de sus reuniones contigo merecen realmente la pena y estén deseando que ocurran, para ello, has de hacer que la otra persona se sienta importante, comprendida y tenida en cuenta. Vamos a ver de qué manera podemos poner en práctica cada una de ellas. Cómo podemos hacer que la otra persona con la que conversamos sienta que la estamos escuchando de verdad. Pues hay que prestarle atención, de modo que perciba interés por nuestra parte. Cuando realmente escuchamos a alguien poniendo nuestra atención en esa persona, le estamos enviando la señal inequívoca de que nos interesa. Además, cuando le prestamos atención a alguien esa atención normalmente nos es devuelta. Es importante que ni te distraigas ni interrumpas, es decir, lo más adecuado es que los móviles estén apagados y que no haya mensajería instantánea. Si hay algún tema urgente que requiere de tu atención, mejor retrasa la conversación para otro momento en el que no tengas prisa ni estés nervioso o cansado porque podrías estar enviando señales que nada tienen que ver con tu verdadera intención. Sé consciente de esto. Utiliza los silencios. Te aconsejo dejar espacios de silencio interrumpidos, únicamente por interjecciones, claro, hum, ajá, asiente con la cabeza. Yo por ejemplo hace ya mucho que utilizó el "hum"... con dos dedos delante de la boca para indicar que escucho y estoy interesado así la otra persona siente que es importante y que yo estoy atento y, además, para frenar las palabras que podrían querer salir de mi boca. Al pronunciar el "hum" y luego confirmar si estamos entendiendo bien lo que la otra persona nos quiere transmitir, el mensaje que estamos enviando es: me importas, eres importante y tu problema es importante para mí, te escucho con atención. Que puede haber más motivador que un jefe que muestra interés en lo que haces, en tu trabajo y en tu persona. Lo mejor para que la otra persona sienta que tiene nuestra atención plena es que simplemente la tenga y que, obvio, estemos escuchando atentamente.
+---
 
-Prestar Atención
-Parte del éxito en el liderazgo de equipos y del éxito de un buen jefe consiste en poner en práctica el arte de la escucha. Has de saber preguntar y has de saber escuchar. La importancia de saber escuchar radica en asegurarte el flujo de información que puede ser esencial para el éxito de la empresa y también para la generación de confianza entre tu empleado y tú. Si quieres que tu equipo te escuche, te comprenda y tenga en cuenta lo que les dices, tú has de hacer lo mismo con ellos, es decir, prestarles atención para que ellos te la devuelvan.
+**Actividad Práctica:**
 
-Pilares Fundamentales
-Hay tres pilares fundamentales a la hora de conseguir que cada miembro de tu equipo sienta que los minutos de sus reuniones contigo merecen realmente la pena y estén deseando que ocurran. Para ello, has de hacer que la otra persona se sienta importante, comprendida y tenida en cuenta. Vamos a ver de qué manera podemos poner en práctica cada una de ellas.
+1. **Grabación y Análisis:**
+    - Graba una breve conversación y utiliza las técnicas para corroborar la recepción del mensaje.
+    - Analiza tu contacto visual, preguntas congruentes, volumen y feedback. ¿Qué aspectos puedes mejorar?
+2. **Reflexión Personal:**
+    - ¿Cómo te sientes al ser consciente de estas técnicas en tu comunicación verbal?
+    - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
-Cómo Hacer que la Otra Persona Sienta que la Estás Escuchando
-Prestar Atención: De modo que perciba interés por nuestra parte. Cuando realmente escuchamos a alguien poniendo nuestra atención en esa persona, le estamos enviando la señal inequívoca de que nos interesa.
-Evitar Distracciones: Es importante que ni te distraigas ni interrumpas. Lo más adecuado es que los móviles estén apagados y que no haya mensajería instantánea. Si hay algún tema urgente que requiere de tu atención, mejor retrasa la conversación para otro momento en el que no tengas prisa ni estés nervioso o cansado porque podrías estar enviando señales que nada tienen que ver con tu verdadera intención. Sé consciente de esto.
-Utilizar los Silencios: Te aconsejo dejar espacios de silencio interrumpidos únicamente por interjecciones, claro, hum, ajá, asiente con la cabeza. Yo, por ejemplo, hace ya mucho que utilizo el "hum"... con dos dedos delante de la boca para indicar que escucho y estoy interesado. Así la otra persona siente que es importante y que yo estoy atento, y además, para frenar las palabras que podrían querer salir de mi boca. Al pronunciar el "hum" y luego confirmar si estamos entendiendo bien lo que la otra persona nos quiere transmitir, el mensaje que estamos enviando es: me importas, eres importante y tu problema es importante para mí, te escucho con atención.
-El Poder de la Atención Plena
-Que puede haber más motivador que un jefe que muestra interés en lo que haces, en tu trabajo y en tu persona. Lo mejor para que la otra persona sienta que tiene nuestra atención plena es que simplemente la tenga y que, obvio, estemos escuchando atentamente.
+---
 
-Conclusión
-Prestar atención es una habilidad esencial para cualquier líder efectivo. Al escuchar de manera activa y mostrar interés genuino, no solo fomentas una comunicación abierta y honesta, sino que también construyes relaciones de confianza y respeto dentro de tu equipo. La atención plena y la escucha activa son herramientas poderosas que pueden transformar la dinámica de tu equipo y contribuir al éxito general de la organización. Al prestar atención de manera consciente y deliberada, demuestras a tu equipo que sus ideas y contribuciones son valiosas, lo que a su vez fortalece la cohesión y el compromiso dentro del grupo.
+### **Curso 6: Fundamentos de la Comunicación Escrita**
 
-Prestar atención
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-Parte del éxito en el liderazgo de equipos y del éxito de un buen jefe consiste en poner en práctica el arte de la escucha. Has de saber preguntar y has de saber escuchar. La importancia de saber escuchar radica en asegurarte el flujo de información que puede ser esencial para el éxito de la empresa y también para la generación de confianza entre tu empleado y tú. Si quieres que tu equipo te escuche, te comprenda y tenga en cuenta lo que les dices, tú has de hacer lo mismo con ellos, es decir, prestarles atención para que ellos te la devuelvan. Hay tres pilares fundamentales a la hora de conseguir que cada miembro de tu equipo sienta que los minutos de sus reuniones contigo merecen realmente la pena y estén deseando que ocurran, para ello, has de hacer que la otra persona se sienta importante, comprendida y tenida en cuenta. Vamos a ver de qué manera podemos poner en práctica cada una de ellas. Cómo podemos hacer que la otra persona con la que conversamos sienta que la estamos escuchando de verdad. Pues hay que prestarle atención, de modo que perciba interés por nuestra parte. Cuando realmente escuchamos a alguien poniendo nuestra atención en esa persona, le estamos enviando la señal inequívoca de que nos interesa. Además, cuando le prestamos atención a alguien esa atención normalmente nos es devuelta. Es importante que ni te distraigas ni interrumpas, es decir, lo más adecuado es que los móviles estén apagados y que no haya mensajería instantánea. Si hay algún tema urgente que requiere de tu atención, mejor retrasa la conversación para otro momento en el que no tengas prisa ni estés nervioso o cansado porque podrías estar enviando señales que nada tienen que ver con tu verdadera intención. Sé consciente de esto. Utiliza los silencios. Te aconsejo dejar espacios de silencio interrumpidos, únicamente por interjecciones, claro, hum, ajá, asiente con la cabeza. Yo por ejemplo hace ya mucho que utilizó el "hum"... con dos dedos delante de la boca para indicar que escucho y estoy interesado así la otra persona siente que es importante y que yo estoy atento y, además, para frenar las palabras que podrían querer salir de mi boca. Al pronunciar el "hum" y luego confirmar si estamos entendiendo bien lo que la otra persona nos quiere transmitir, el mensaje que estamos enviando es: me importas, eres importante y tu problema es importante para mí, te escucho con atención. Que puede haber más motivador que un jefe que muestra interés en lo que haces, en tu trabajo y en tu persona. Lo mejor para que la otra persona sienta que tiene nuestra atención plena es que simplemente la tenga y que, obvio, estemos escuchando atentamente.
+---
 
-Prestar Atención
-Parte del éxito en el liderazgo de equipos y del éxito de un buen jefe consiste en poner en práctica el arte de la escucha. Has de saber preguntar y has de saber escuchar. La importancia de saber escuchar radica en asegurarte el flujo de información que puede ser esencial para el éxito de la empresa y también para la generación de confianza entre tu empleado y tú. Si quieres que tu equipo te escuche, te comprenda y tenga en cuenta lo que les dices, tú has de hacer lo mismo con ellos, es decir, prestarles atención para que ellos te la devuelvan.
+**Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos cómo corroborar que el interlocutor ha recibido el mensaje hablado. Hoy nos enfocaremos en los fundamentos de la comunicación escrita.**
 
-Pilares Fundamentales
-Hay tres pilares fundamentales a la hora de conseguir que cada miembro de tu equipo sienta que los minutos de sus reuniones contigo merecen realmente la pena y estén deseando que ocurran. Para ello, has de hacer que la otra persona se sienta importante, comprendida y tenida en cuenta. Vamos a ver de qué manera podemos poner en práctica cada una de ellas.
+**La comunicación escrita es una habilidad esencial en el entorno laboral, ya que permite transmitir información de manera clara y formal.**
 
-Cómo Hacer que la Otra Persona Sienta que la Estás Escuchando
-Prestar Atención: De modo que perciba interés por nuestra parte. Cuando realmente escuchamos a alguien poniendo nuestra atención en esa persona, le estamos enviando la señal inequívoca de que nos interesa.
-Evitar Distracciones: Es importante que ni te distraigas ni interrumpas. Lo más adecuado es que los móviles estén apagados y que no haya mensajería instantánea. Si hay algún tema urgente que requiere de tu atención, mejor retrasa la conversación para otro momento en el que no tengas prisa ni estés nervioso o cansado porque podrías estar enviando señales que nada tienen que ver con tu verdadera intención. Sé consciente de esto.
-Utilizar los Silencios: Te aconsejo dejar espacios de silencio interrumpidos únicamente por interjecciones, claro, hum, ajá, asiente con la cabeza. Yo, por ejemplo, hace ya mucho que utilizo el "hum"... con dos dedos delante de la boca para indicar que escucho y estoy interesado. Así la otra persona siente que es importante y que yo estoy atento, y además, para frenar las palabras que podrían querer salir de mi boca. Al pronunciar el "hum" y luego confirmar si estamos entendiendo bien lo que la otra persona nos quiere transmitir, el mensaje que estamos enviando es: me importas, eres importante y tu problema es importante para mí, te escucho con atención.
-El Poder de la Atención Plena
-Que puede haber más motivador que un jefe que muestra interés en lo que haces, en tu trabajo y en tu persona. Lo mejor para que la otra persona sienta que tiene nuestra atención plena es que simplemente la tenga y que, obvio, estemos escuchando atentamente.
+### **Elementos de la Comunicación Escrita**
 
-Conclusión
-Prestar atención es una habilidad esencial para cualquier líder efectivo. Al escuchar de manera activa y mostrar interés genuino, no solo fomentas una comunicación abierta y honesta, sino que también construyes relaciones de confianza y respeto dentro de tu equipo. La atención plena y la escucha activa son herramientas poderosas que pueden transformar la dinámica de tu equipo y contribuir al éxito general de la organización. Al prestar atención de manera consciente y deliberada, demuestras a tu equipo que sus ideas y contribuciones son valiosas, lo que a su vez fortalece la cohesión y el compromiso dentro del grupo.
+1. **Estructura:**
+    - **Título:** Incluye un título claro y conciso que identifique el tema del documento.
+    - **Introducción:** Presenta el contexto y el propósito del documento.
+    - **Desarrollo:** Explica los puntos principales de manera clara y organizada.
+    - **Conclusión:** Resume los puntos principales y ofrece una conclusión.
+2. **Vocabulario:**
+    - **Formal:** Usa un vocabulario formal y adecuado para el entorno laboral.
+    - **Claridad:** Evita el uso de jerga o términos técnicos innecesarios.
+3. **Ortografía y Puntuación:**
+    - **Correcta:** Asegúrate de que tu redacción no tenga errores ortográficos ni de puntuación.
+    - **Consistencia:** Mantén una ortografía y puntuación consistentes a lo largo del documento.
 
-Meta reunión
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-Para que las reuniones de tu equipo sean útiles y eficaces, sugiero, encarecidamente, acordar antes unos mínimos sobre el correcto funcionamiento de las reuniones. Porque, si bien, todos sabemos cuándo una reunión es inútil y todos las hemos vivido de un modo u otro, no podemos dar por supuesto que todos sepamos cómo hacer para que las reuniones sean eficaces. El mejor modo de asegurarnos de que nuestro equipo sabe cómo hacer que las reuniones sean eficaces, es decidiéndolo entre todos. Porque si coordinamos las expectativas, será mucho más fluido y la responsabilidad de llevar a buen puerto la reunión, y el tiempo invertido en ella, será compartida. Así que empezaríamos con una meta reunión, es decir, una reunión sobre las futuras reuniones. Y según entran nuevos miembros del equipo, se dedican unos minutos a revisar los acuerdos y renovarlos, si hiciera falta. Para evitar la burocracia excesiva, puedes limitar los puntos del acuerdo a tres o cinco, por ejemplo. Para evitar que haya revisar de manera constante los acuerdos, quizá podrías hacerlos cada trimestre. Esta meta reunión en la que estableceremos acuerdos entre todos los miembros del equipo, giraría en torno a la pregunta: "¿Qué acuerdos podríamos tomar para hacer que nuestras reuniones fuesen más eficaces y útiles?" Dado que tú eres el líder y se espera de ti aportar cierta dirección, además, de proponer la agenda y las expectativas, podrías empezar con una serie de sugerencias previas, por ejemplo, animándoles a que busquen información sobre cómo llevar reuniones de una manera eficaz en Internet, porque hay mil. También puedes indicarles que vayan respondiendo internamente a la pregunta: "¿Qué es lo que espero de los demás en las reuniones del equipo? ¿y de mi misma?" Puntualidad, responsabilidad, no usar el teléfono, no usar el ordenador, respetarse los unos a los otros, no interrumpirse al hablar, no juzgar las acciones de los demás, estar presente, realmente, presente en la reunión. Otra pregunta que me ha resultado muy oportuna es: "¿Cómo podríamos mostrar nuestro respeto a los demás y mantener nuestro compromiso de que las reuniones sean eficaces?" Por ejemplo, entregando los trabajos a tiempo, o en el caso de que haya algún miembro trabajando en remoto, asegurándonos de que la conexión a Internet es potente, avisando con antelación de la imposibilidad de asistir a una reunión, y el por qué de la ausencia, no participando en una reunión si consideramos que la agenda o las expectativas no están claras, asistir a reuniones con los deberes hechos, no interrumpir a los demás mientras expresan sus puntos de vista, evitar la monopolización de las reuniones y el secuestro de los temas de conversación hablando mucho. También pidiendo más información, 
+### **Técnicas para Mejorar la Comunicación Escrita**
 
-Meta Reunión
-Para que las reuniones de tu equipo sean útiles y eficaces, sugiero, encarecidamente, acordar antes unos mínimos sobre el correcto funcionamiento de las reuniones. Porque, si bien, todos sabemos cuándo una reunión es inútil y todos las hemos vivido de un modo u otro, no podemos dar por supuesto que todos sepamos cómo hacer para que las reuniones sean eficaces. El mejor modo de asegurarnos de que nuestro equipo sabe cómo hacer que las reuniones sean eficaces, es decidiéndolo entre todos. Porque si coordinamos las expectativas, será mucho más fluido y la responsabilidad de llevar a buen puerto la reunión, y el tiempo invertido en ella, será compartida.
+1. **Redacción:**
+    - **Claridad:** Escribe de manera clara y concisa, evitando el uso de oraciones largas y complejas.
+    - **Coherencia:** Asegúrate de que tus ideas sean coherentes y estén bien conectadas.
+2. **Revisión:**
+    - **Autocrítica:** Revisa tu redacción y busca posibles errores o áreas de mejora.
+    - **Feedback:** Solicita feedback de colegas o superiores para mejorar tu comunicación escrita.
 
-Iniciando con una Meta Reunión
-Así que empezaríamos con una meta reunión, es decir, una reunión sobre las futuras reuniones. Y según entran nuevos miembros del equipo, se dedican unos minutos a revisar los acuerdos y renovarlos, si hiciera falta. Para evitar la burocracia excesiva, puedes limitar los puntos del acuerdo a tres o cinco, por ejemplo. Para evitar que haya que revisar de manera constante los acuerdos, quizá podrías hacerlos cada trimestre.
+### **Ejercicios Prácticos**
 
-Esta meta reunión en la que estableceremos acuerdos entre todos los miembros del equipo, giraría en torno a la pregunta: "¿Qué acuerdos podríamos tomar para hacer que nuestras reuniones fuesen más eficaces y útiles?"
+1. **Ejercicio de Estructura:**
+    - Redacta un documento con una estructura clara: título, introducción, desarrollo y conclusión.
+    - Analiza la claridad y coherencia de tu redacción.
+2. **Ejercicio de Vocabulario:**
+    - Redacta un mensaje utilizando un vocabulario formal y adecuado.
+    - Analiza la claridad y formalidad de tu redacción.
+3. **Ejercicio de Ortografía y Puntuación:**
+    - Redacta un documento y revisa la ortografía y puntuación.
+    - Practica corregir errores y mejorar la consistencia.
 
-Sugerencias Previas para la Meta Reunión
-Dado que tú eres el líder y se espera de ti aportar cierta dirección, además de proponer la agenda y las expectativas, podrías empezar con una serie de sugerencias previas. Por ejemplo, animándoles a que busquen información sobre cómo llevar reuniones de una manera eficaz en Internet, porque hay mil. También puedes indicarles que vayan respondiendo internamente a la pregunta: "¿Qué es lo que espero de los demás en las reuniones del equipo? ¿y de mí misma?"
+### **Conclusión**
 
-Algunas expectativas que podrías sugerir son:
+**La comunicación escrita es una habilidad esencial en el entorno laboral, ya que permite transmitir información de manera clara y formal. Con práctica y atención, puedes mejorar tu estructura, vocabulario, ortografía y puntuación, lo que te permitirá comunicarte de manera más efectiva.**
 
-Puntualidad
-Responsabilidad
-No usar el teléfono
-No usar el ordenador
-Respetarse los unos a los otros
-No interrumpirse al hablar
-No juzgar las acciones de los demás
-Estar presente, realmente, presente en la reunión
-Otra pregunta que me ha resultado muy oportuna es: "¿Cómo podríamos mostrar nuestro respeto a los demás y mantener nuestro compromiso de que las reuniones sean eficaces?" Por ejemplo:
+**En el próximo curso, exploraremos las reglas ortográficas y de puntuación. ¡Nos vemos allí!**
 
-Entregando los trabajos a tiempo
-Asegurándose de que la conexión a Internet es potente, en el caso de que haya algún miembro trabajando en remoto
-Avisando con antelación de la imposibilidad de asistir a una reunión y el por qué de la ausencia
-No participando en una reunión si consideramos que la agenda o las expectativas no están claras
-Asistir a reuniones con los deberes hechos
-No interrumpir a los demás mientras expresan sus puntos de vista
-Evitar la monopolización de las reuniones y el secuestro de los temas de conversación hablando mucho
-Pidiendo más información
-Conclusión
-La meta reunión es una herramienta esencial para establecer y mantener acuerdos sobre el funcionamiento eficiente de las reuniones del equipo. Al involucrar a todos los miembros en la creación de estos acuerdos, se fomenta la responsabilidad compartida y se asegura que todos estén alineados con las expectativas y objetivos del equipo. Como líder, tu papel es facilitar este proceso y proporcionar sugerencias iniciales, pero es fundamental que los acuerdos sean el resultado de un consenso colectivo. Esto no solo mejora la efectividad de las reuniones, sino que también fortalece la cohesión y el compromiso dentro del equipo.
+---
 
-Meta reunión
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-Para que las reuniones de tu equipo sean útiles y eficaces, sugiero, encarecidamente, acordar antes unos mínimos sobre el correcto funcionamiento de las reuniones. Porque, si bien, todos sabemos cuándo una reunión es inútil y todos las hemos vivido de un modo u otro, no podemos dar por supuesto que todos sepamos cómo hacer para que las reuniones sean eficaces. El mejor modo de asegurarnos de que nuestro equipo sabe cómo hacer que las reuniones sean eficaces, es decidiéndolo entre todos. Porque si coordinamos las expectativas, será mucho más fluido y la responsabilidad de llevar a buen puerto la reunión, y el tiempo invertido en ella, será compartida. Así que empezaríamos con una meta reunión, es decir, una reunión sobre las futuras reuniones. Y según entran nuevos miembros del equipo, se dedican unos minutos a revisar los acuerdos y renovarlos, si hiciera falta. Para evitar la burocracia excesiva, puedes limitar los puntos del acuerdo a tres o cinco, por ejemplo. Para evitar que haya revisar de manera constante los acuerdos, quizá podrías hacerlos cada trimestre. Esta meta reunión en la que estableceremos acuerdos entre todos los miembros del equipo, giraría en torno a la pregunta: "¿Qué acuerdos podríamos tomar para hacer que nuestras reuniones fuesen más eficaces y útiles?" Dado que tú eres el líder y se espera de ti aportar cierta dirección, además, de proponer la agenda y las expectativas, podrías empezar con una serie de sugerencias previas, por ejemplo, animándoles a que busquen información sobre cómo llevar reuniones de una manera eficaz en Internet, porque hay mil. También puedes indicarles que vayan respondiendo internamente a la pregunta: "¿Qué es lo que espero de los demás en las reuniones del equipo? ¿y de mi misma?" Puntualidad, responsabilidad, no usar el teléfono, no usar el ordenador, respetarse los unos a los otros, no interrumpirse al hablar, no juzgar las acciones de los demás, estar presente, realmente, presente en la reunión. Otra pregunta que me ha resultado muy oportuna es: "¿Cómo podríamos mostrar nuestro respeto a los demás y mantener nuestro compromiso de que las reuniones sean eficaces?" Por ejemplo, entregando los trabajos a tiempo, o en el caso de que haya algún miembro trabajando en remoto, asegurándonos de que la conexión a Internet es potente, avisando con antelación de la imposibilidad de asistir a una reunión, y el por qué de la ausencia, no participando en una reunión si consideramos que la agenda o las expectativas no están claras, asistir a reuniones con los deberes hechos, no interrumpir a los demás mientras expresan sus puntos de vista, evitar la monopolización de las reuniones y el secuestro de los temas de conversación hablando mucho. También pidiendo más información, 
+**Actividad Práctica:**
 
-Meta Reunión
-Para que las reuniones de tu equipo sean útiles y eficaces, sugiero, encarecidamente, acordar antes unos mínimos sobre el correcto funcionamiento de las reuniones. Porque, si bien, todos sabemos cuándo una reunión es inútil y todos las hemos vivido de un modo u otro, no podemos dar por supuesto que todos sepamos cómo hacer para que las reuniones sean eficaces. El mejor modo de asegurarnos de que nuestro equipo sabe cómo hacer que las reuniones sean eficaces, es decidiéndolo entre todos. Porque si coordinamos las expectativas, será mucho más fluido y la responsabilidad de llevar a buen puerto la reunión, y el tiempo invertido en ella, será compartida.
+1. **Redacción y Análisis:**
+    - Redacta un documento utilizando los fundamentos de la comunicación escrita.
+    - Analiza tu estructura, vocabulario, ortografía y puntuación. ¿Qué aspectos puedes mejorar?
+2. **Reflexión Personal:**
+    - ¿Cómo te sientes al ser consciente de estos fundamentos en tu comunicación escrita?
+    - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
-Iniciando con una Meta Reunión
-Así que empezaríamos con una meta reunión, es decir, una reunión sobre las futuras reuniones. Y según entran nuevos miembros del equipo, se dedican unos minutos a revisar los acuerdos y renovarlos, si hiciera falta. Para evitar la burocracia excesiva, puedes limitar los puntos del acuerdo a tres o cinco, por ejemplo. Para evitar que haya que revisar de manera constante los acuerdos, quizá podrías hacerlos cada trimestre.
+---
 
-Esta meta reunión en la que estableceremos acuerdos entre todos los miembros del equipo, giraría en torno a la pregunta: "¿Qué acuerdos podríamos tomar para hacer que nuestras reuniones fuesen más eficaces y útiles?"
+### **Curso 7: Reglas Ortográficas y de Puntuación**
 
-Sugerencias Previas para la Meta Reunión
-Dado que tú eres el líder y se espera de ti aportar cierta dirección, además de proponer la agenda y las expectativas, podrías empezar con una serie de sugerencias previas. Por ejemplo, animándoles a que busquen información sobre cómo llevar reuniones de una manera eficaz en Internet, porque hay mil. También puedes indicarles que vayan respondiendo internamente a la pregunta: "¿Qué es lo que espero de los demás en las reuniones del equipo? ¿y de mí misma?"
+---
 
-Algunas expectativas que podrías sugerir son:
+**Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos los fundamentos de la comunicación escrita. Hoy nos enfocaremos en las reglas ortográficas y de puntuación.**
 
-Puntualidad: Llegar a tiempo a las reuniones.
-Responsabilidad: Cumplir con las tareas y compromisos adquiridos.
-No usar el teléfono: Evitar distracciones durante la reunión.
-No usar el ordenador: Mantener la atención en la reunión.
-Respetarse los unos a los otros: Valorar las opiniones y contribuciones de todos.
-No interrumpirse al hablar: Permitir que cada persona exprese sus ideas completamente.
-No juzgar las acciones de los demás: Ser comprensivo y abierto a las diferentes perspectivas.
-Estar presente: Participar activamente en la reunión, tanto física como mentalmente.
-Otra pregunta que me ha resultado muy oportuna es: "¿Cómo podríamos mostrar nuestro respeto a los demás y mantener nuestro compromiso de que las reuniones sean eficaces?" Por ejemplo:
+**Las reglas ortográficas y de puntuación son esenciales para asegurar que tu comunicación escrita sea clara y correcta.**
 
-Entregando los trabajos a tiempo: Cumplir con los plazos establecidos.
-Asegurándose de que la conexión a Internet es potente: En el caso de que haya algún miembro trabajando en remoto.
-Avisando con antelación de la imposibilidad de asistir a una reunión: Comunicar cualquier ausencia y el motivo.
-No participando en una reunión si consideramos que la agenda o las expectativas no están claras: Asegurarse de que todos comprendan los objetivos de la reunión.
-Asistir a reuniones con los deberes hechos: Prepararse adecuadamente para la reunión.
-No interrumpir a los demás mientras expresan sus puntos de vista: Permitir que todos tengan la oportunidad de hablar.
-Evitar la monopolización de las reuniones y el secuestro de los temas de conversación hablando mucho: Asegurarse de que todos los miembros del equipo participen.
-Pidiendo más información: Mostrar interés y curiosidad por las ideas y contribuciones de los demás.
-Conclusión
-La meta reunión es una herramienta esencial para establecer y mantener acuerdos sobre el funcionamiento eficiente de las reuniones del equipo. Al involucrar a todos los miembros en la creación de estos acuerdos, se fomenta la responsabilidad compartida y se asegura que todos estén alineados con las expectativas y objetivos del equipo. Como líder, tu papel es facilitar este proceso y proporcionar sugerencias iniciales, pero es fundamental que los acuerdos sean el resultado de un consenso colectivo. Esto no solo mejora la efectividad de las reuniones, sino que también fortalece la cohesión y el compromiso dentro del equipo.
+### **Reglas Ortográficas**
 
-Reuniones individuales
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-Las reuniones uno a uno o uno por uno, son esenciales para mostrar aprecio por los miembros de tu equipo, estar al día de sus necesidades y conocer cómo llevan sus responsabilidades. Además, son el momento adecuado para ejercer de jefe y ayudarles en su desarrollo. La conversación cara a cara es fundamental para el correcto desarrollo de la confianza mutua. Las reuniones en persona conducen a conexiones mucho más duraderas y profundas; si bien no son las más eficientes, sí que son las más eficaces a largo plazo. Parece de sentido común, y lo es, pero en aras de la eficiencia estamos perdiendo esa costumbre. En pos de un liderazgo humanista y consciente lo aconsejable es que mantengas contacto frecuente y cercano con todos los miembros de tu equipo para que perciban que estás a su lado, que conoces su historia, que estás al tanto de los pormenores y el día a día de su trabajo que les comprendes. Estas reuniones individuales, que no sustituyen a las reuniones que pueden darse de manera casual en la cafetería o en los pasillos, pueden realizarse en diferentes entornos o por diferentes medios. No tienen porqué ser presenciales en una habitación o por videoconferencia, pueden ser comiendo, desayunando, por teléfono o paseando. En este caso, asegúrate de que la otra persona entiende que el hecho de cambiar el entorno formal por uno menos tradicional no lleva a equívocos, y que en verdad indica una mayor confianza en lo que hace esa persona. Recuerdo por ejemplo, cuando el CEO de una de las empresas para las que he trabajado, decidió que era buena idea mantener nuestra reunión semanal desde el manos libres del coche, resultó algo extraño. A continuación voy a resumir algunos puntos importantes que debes tener en cuenta en este tipo de reuniones. No suspendas las reuniones ni llegues tarde porque puede considerarse como una falta de respeto o de consideración al enviar señales del tipo: "No eres lo suficientemente importante para mí". "No tengo tiempo para dedicarte". "No eres una prioridad en mis asuntos". Es mejor evitar convocar reuniones con individuos que cancelarlas. Haz los deberes, es decir, llega preparado a la reunión sabiendo qué es lo que quieres obtener reuniéndote con la otra persona por supuesto, la respuesta "Reunirme para ver qué tal", no sirve. Tómate la molestia de preguntarte con anterioridad suficiente a la persona sobre qué tema le gustaría hablar durante la reunión, y tómate unos minutos para hacerte una idea general de la situación profesional y el momento personal de la persona con la que vas a reunirte. Habla menos y escucha más, permite a tus empleados llegar a sus propias conclusiones. A todos nos gusta dar consejos porque nos coloca en una posición de superioridad 
+1. **Uso del Apóstrofe:**
+    - **Correcto:** Usa el apóstrofe para indicar la contracción de palabras.
+    - **Incorrecto:** No uses el apóstrofe para indicar la posesión.
+2. **Uso de la Coma:**
+    - **Correcto:** Usa la coma para separar elementos en una lista.
+    - **Incorrecto:** No uses la coma para separar sustantivos en una lista.
+3. **Uso del Punto:**
+    - **Correcto:** Usa el punto para indicar el final de una oración.
+    - **Incorrecto:** No uses el punto para indicar una pausa dentro de una oración.
 
-Reuniones Individuales
-Las reuniones uno a uno o uno por uno, son esenciales para mostrar aprecio por los miembros de tu equipo, estar al día de sus necesidades y conocer cómo llevan sus responsabilidades. Además, son el momento adecuado para ejercer de jefe y ayudarles en su desarrollo. La conversación cara a cara es fundamental para el correcto desarrollo de la confianza mutua. Las reuniones en persona conducen a conexiones mucho más duraderas y profundas; si bien no son las más eficientes, sí que son las más eficaces a largo plazo. Parece de sentido común, y lo es, pero en aras de la eficiencia estamos perdiendo esa costumbre. En pos de un liderazgo humanista y consciente, lo aconsejable es que mantengas contacto frecuente y cercano con todos los miembros de tu equipo para que perciban que estás a su lado, que conoces su historia, que estás al tanto de los pormenores y el día a día de su trabajo y que les comprendes.
+### **Reglas de Puntuación**
 
-Entornos y Medios para Reuniones Individuales
-Estas reuniones individuales, que no sustituyen a las reuniones que pueden darse de manera casual en la cafetería o en los pasillos, pueden realizarse en diferentes entornos o por diferentes medios. No tienen por qué ser presenciales en una habitación o por videoconferencia, pueden ser comiendo, desayunando, por teléfono o paseando. En este caso, asegúrate de que la otra persona entiende que el hecho de cambiar el entorno formal por uno menos tradicional no lleva a equívocos, y que en verdad indica una mayor confianza en lo que hace esa persona. Recuerdo, por ejemplo, cuando el CEO de una de las empresas para las que he trabajado decidió que era buena idea mantener nuestra reunión semanal desde el manos libres del coche, resultó algo extraño.
+1. **Uso del Dos Puntos:**
+    - **Correcto:** Usa los dos puntos para introducir una lista o una explicación.
+    - **Incorrecto:** No uses los dos puntos para separar sustantivos en una lista.
+2. **Uso de la Coma:**
+    - **Correcto:** Usa la coma para separar elementos en una lista.
+    - **Incorrecto:** No uses la coma para separar sustantivos en una lista.
+3. **Uso del Punto y Coma:**
+    - **Correcto:** Usa el punto y coma para separar oraciones relacionadas.
+    - **Incorrecto:** No uses el punto y coma para separar oraciones independientes.
 
-Puntos Importantes a Tener en Cuenta
-A continuación, voy a resumir algunos puntos importantes que debes tener en cuenta en este tipo de reuniones:
+### **Ejercicios Prácticos**
 
-No Suspendas las Reuniones ni Llegues Tarde: Porque puede considerarse como una falta de respeto o de consideración al enviar señales del tipo: "No eres lo suficientemente importante para mí", "No tengo tiempo para dedicarte", "No eres una prioridad en mis asuntos". Es mejor evitar convocar reuniones con individuos que cancelarlas.
+1. **Ejercicio de Uso del Apóstrofe:**
+    - Redacta oraciones utilizando el apóstrofe correctamente.
+    - Analiza la corrección de tu uso del apóstrofe.
+2. **Ejercicio de Uso de la Coma:**
+    - Redacta oraciones utilizando la coma correctamente.
+    - Analiza la corrección de tu uso de la coma.
+3. **Ejercicio de Uso del Punto:**
+    - Redacta oraciones utilizando el punto correctamente.
+    - Analiza la corrección de tu uso del punto.
+4. **Ejercicio de Uso de los Dos Puntos:**
+    - Redacta oraciones utilizando los dos puntos correctamente.
+    - Analiza la corrección de tu uso de los dos puntos.
+5. **Ejercicio de Uso del Punto y Coma:**
+    - Redacta oraciones utilizando el punto y coma correctamente.
+    - Analiza la corrección de tu uso del punto y coma.
 
-Haz los Deberes: Es decir, llega preparado a la reunión sabiendo qué es lo que quieres obtener reuniéndote con la otra persona. Por supuesto, la respuesta "Reunirme para ver qué tal" no sirve. Tómate la molestia de preguntarte con anterioridad suficiente a la persona sobre qué tema le gustaría hablar durante la reunión, y tómate unos minutos para hacerte una idea general de la situación profesional y el momento personal de la persona con la que vas a reunirte.
+### **Conclusión**
 
-Habla Menos y Escucha Más: Permite a tus empleados llegar a sus propias conclusiones. A todos nos gusta dar consejos porque nos coloca en una posición de superioridad.
+**Las reglas ortográficas y de puntuación son esenciales para asegurar que tu comunicación escrita sea clara y correcta. Con práctica y atención, puedes mejorar tu uso del apóstrofe, la coma, el punto, los dos puntos y el punto y coma, lo que te permitirá comunicarte de manera más efectiva.**
 
-Conclusión
-Las reuniones individuales son una herramienta poderosa para fortalecer la relación con los miembros de tu equipo y fomentar un entorno de confianza y apoyo mutuo. Al mantener un contacto frecuente y mostrar interés genuino por sus necesidades y desarrollo, demuestras que valoras su contribución y te preocupas por su bienestar. Estas reuniones no solo ayudan a resolver problemas y proporcionar retroalimentación, sino que también son una oportunidad para mostrar aprecio y apoyo. Como líder, tu papel es facilitar estas conversaciones y crear un espacio donde los miembros de tu equipo se sientan escuchados y valorados.
+**En el próximo curso, exploraremos la redacción de documentos laborales. ¡Nos vemos allí!**
 
-Trucos para antes y durante las reuniones
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-Las reuniones son una de las pérdidas de tiempo más habituales de hoy en día. Pocas cosas hay tan tediosas y tan ineficaces, como reuniones sin planificar previamente. Es un mal que aqueja a casi todas las organizaciones. Pero no debemos usar este hecho como una excusa para eliminarlas completamente. El valor de las reuniones se da la mano con el valor de la conversación cara a cara y el desarrollo de sentimiento de pertenencia a un grupo en el que todos los miembros trabajan para resolver una situación de manera conjunta. En las reuniones del equipo, especialmente las presenciales, es donde la palabra "nosotros" se materializa. A continuación pongo un modelo de estructura sobre cómo podría estructurarse una reunión pre, durante y post. Antes de empezar una reunión, debe quedar claro cuál es el objetivo de la reunión y cuáles las expectativas al acabar la reunión, de modo que todo aquel que asista sepa a qué va y cuáles son las expectativas. Así que parece sensato que la convocatoria se explique claramente no solo cuándo es la reunión y su duración, sino, además, la agenda de temas a tratar, quiénes asistirán, con nombre y cargo y cuáles son las expectativas para cada asistente. En la misma convocatoria de la reunión, se provee de los materiales necesarios: lecturas, datos, vídeos, y si hubiera que generar materiales con anterioridad para presentarlos, también se explicitaría qué necesita prepararse cada uno. Y si hay que enviarlo a todo el grupo, a nadie o únicamente al responsable de esa reunión o al responsable de editar esa presentación. Las preguntas que hay que responder antes de la reunión, serían: "¿Quiénes son los encargados de aportar todos los datos necesarios para la reunión y cuáles son esos datos?". "¿De cuánto tiempo dispondremos para tomar una decisión sobre un tema?". "¿Quién tiene la última palabra sobre la decisión o quién tomará esa decisión?". Luego, ya durante la reunión, ya que hemos enviado una agenda de temas a tratar con antelación, lo suyo es que se traten todos los temas de la agenda y que le dediquemos a cada tema el tiempo que consideremos apropiado. Así que alguien debe encargarse de moderar los tiempos y las intervenciones, evitando que la conversación y la gente se vayan por los cerros de Úbeda. A esta figura le llamaremos "moderador". Quien modere, ha de tener la habilidad de refocalizar la conversación hacia el tema principal. Alguien debe estar tomando notas, apuntando lo que se va hablando. Es el notario. Su trabajo consiste en anotar los detalles esenciales, sobre qué se habla, algunas ideas, cuáles son los acuerdos. No se trata de transcribir la reunión literalmente. Los roles de convocador, moderador y notario pueden estar centrados en una sola persona, o mejor aún, repartidos entre diferentes miembros del equipo, de modo que haya corresponsabilidad y participación. Y ya para acabar la reunión de manera redonda, justo antes de levantarnos todos de las sillas e irnos, cabría hacerse estas dos preguntas: "¿Quién hace qué y para cuándo?". "¿Cuál sería el primer paso que habría que dar para ir avanzando?".
-Activar el modo interactivo de transcripción
+---
 
+**Actividad Práctica:**
 
+1. **Redacción y Análisis:**
+    - Redacta oraciones utilizando las reglas ortográficas y de puntuación.
+    - Analiza la corrección de tu uso del apóstrofe, la coma, el punto, los dos puntos y el punto y coma. ¿Qué aspectos puedes mejorar?
+2. **Reflexión Personal:**
+    - ¿Cómo te sientes al ser consciente de estas reglas en tu comunicación escrita?
+    - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
-Trucos para Antes y Durante las Reuniones
-Las reuniones son una de las pérdidas de tiempo más habituales de hoy en día. Pocas cosas hay tan tediosas y tan ineficaces como reuniones sin planificar previamente. Es un mal que aqueja a casi todas las organizaciones. Pero no debemos usar este hecho como una excusa para eliminarlas completamente. El valor de las reuniones se da la mano con el valor de la conversación cara a cara y el desarrollo de sentimiento de pertenencia a un grupo en el que todos los miembros trabajan para resolver una situación de manera conjunta. En las reuniones del equipo, especialmente las presenciales, es donde la palabra "nosotros" se materializa.
+---
 
-Estructura de una Reunión: Pre, Durante y Post
-A continuación, pongo un modelo de estructura sobre cómo podría estructurarse una reunión pre, durante y post.
+### **Curso 8: Redacción de Documentos Laborales**
 
-Antes de la Reunión
-Claridad en el Objetivo y Expectativas: Debe quedar claro cuál es el objetivo de la reunión y cuáles las expectativas al acabar la reunión, de modo que todo aquel que asista sepa a qué va y cuáles son las expectativas.
+---
 
-Convocatoria Clara: La convocatoria debe explicarse claramente no solo cuándo es la reunión y su duración, sino, además, la agenda de temas a tratar, quiénes asistirán, con nombre y cargo, y cuáles son las expectativas para cada asistente.
+**Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos las reglas ortográficas y de puntuación. Hoy nos enfocaremos en la redacción de documentos laborales.**
 
-Proveer Materiales Necesarios: En la misma convocatoria de la reunión, se provee de los materiales necesarios: lecturas, datos, vídeos. Si hubiera que generar materiales con anterioridad para presentarlos, también se explicitaría qué necesita prepararse cada uno. Y si hay que enviarlo a todo el grupo, a nadie o únicamente al responsable de esa reunión o al responsable de editar esa presentación.
+**La redacción de documentos laborales es una habilidad esencial en el entorno laboral, ya que permite transmitir información de manera clara y formal.**
 
-Preguntas Previas:
+### **Estructura de Documentos Laborales**
 
-"¿Quiénes son los encargados de aportar todos los datos necesarios para la reunión y cuáles son esos datos?"
-"¿De cuánto tiempo dispondremos para tomar una decisión sobre un tema?"
-"¿Quién tiene la última palabra sobre la decisión o quién tomará esa decisión?"
-Durante la Reunión
-Tratar Todos los Temas de la Agenda: Dado que hemos enviado una agenda de temas a tratar con antelación, lo suyo es que se traten todos los temas de la agenda y que le dediquemos a cada tema el tiempo que consideremos apropiado.
+1. **Título:**
+    - **Claro y Conciso:** Incluye un título claro y conciso que identifique el tema del documento.
+    - **Relevante:** Asegúrate de que el título sea relevante para el contenido del documento.
+2. **Introducción:**
+    - **Contexto:** Presenta el contexto y el propósito del documento.
+    - **Objetivo:** Define claramente el objetivo del documento.
+3. **Desarrollo:**
+    - **Puntos Principales:** Explica los puntos principales de manera clara y organizada.
+    - **Detalles:** Proporciona detalles y ejemplos para ilustrar tus puntos principales.
+4. **Conclusión:**
+    - **Resumen:** Resume los puntos principales del documento.
+    - **Acciones:** Indica las acciones a seguir o las conclusiones a las que se llega.
 
-Moderador: Alguien debe encargarse de moderar los tiempos y las intervenciones, evitando que la conversación y la gente se vayan por los cerros de Úbeda. Quien modere, ha de tener la habilidad de refocalizar la conversación hacia el tema principal.
+### **Técnicas para Mejorar la Redacción de Documentos Laborales**
 
-Notario: Alguien debe estar tomando notas, apuntando lo que se va hablando. Su trabajo consiste en anotar los detalles esenciales, sobre qué se habla, algunas ideas, cuáles son los acuerdos. No se trata de transcribir la reunión literalmente.
+1. **Claridad:**
+    - **Oraciones Cortas:** Escribe oraciones cortas y claras.
+    - **Palabras Simples:** Usa palabras simples y evita el uso de jerga o términos técnicos innecesarios.
+2. **Coherencia:**
+    - **Transición:** Asegúrate de que tus ideas estén bien conectadas y transiciones fluidas entre párrafos.
+    - **Consistencia:** Mantén una coherencia en el uso de tiempos verbales y estilos de redacción.
+3. **Revisión:**
+    - **Autocrítica:** Revisa tu redacción y busca posibles errores o áreas de mejora.
+    - **Feedback:** Solicita feedback de colegas o superiores para mejorar tu comunicación escrita.
 
-Roles Distribuidos: Los roles de convocador, moderador y notario pueden estar centrados en una sola persona, o mejor aún, repartidos entre diferentes miembros del equipo, de modo que haya corresponsabilidad y participación.
+### **Ejercicios Prácticos**
 
-Al Finalizar la Reunión
-Asignación de Tareas: Justo antes de levantarnos todos de las sillas e irnos, cabría hacerse estas dos preguntas:
-"¿Quién hace qué y para cuándo?"
-"¿Cuál sería el primer paso que habría que dar para ir avanzando?"
-Conclusión
-Las reuniones pueden ser eficaces y productivas si se planifican y estructuran adecuadamente. Al definir claramente los objetivos, expectativas y roles, y al moderar y documentar la reunión de manera efectiva, se asegura que todos los participantes estén alineados y comprometidos con los resultados. Como líder, tu papel es facilitar este proceso y crear un entorno donde la colaboración y la comunicación sean efectivas.
+1. **Ejercicio de Título:**
+    - Redacta un título claro y conciso para un documento laboral.
+    - Analiza la claridad y relevancia de tu título.
+2. **Ejercicio de Introducción:**
+    - Redacta una introducción clara y contextualizada para un documento laboral.
+    - Analiza la claridad y coherencia de tu introducción.
+3. **Ejercicio de Desarrollo:**
+    - Redacta el desarrollo de un documento laboral, incluyendo puntos principales y detalles.
+    - Analiza la claridad y coherencia de tu desarrollo.
+4. **Ejercicio de Conclusión:**
+    - Redacta una conclusión clara y resumida para un documento laboral.
+    - Analiza la claridad y coherencia de tu conclusión.
 
-Cómo cerrar las reuniones de manera satisfactoria y eficaz
-Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
-Una vez finalizada la reunión, la persona que haya estado tomando notas y apuntes, al que llamaremos notario, envía un resumen de esas notas, esencialmente los acuerdos, las líneas de actuación, quiénes son los responsables de ejecutarlas, y para cuándo. De este modo nos aseguramos que la misma información llega a todos los destinatarios, y el equipo al completo seguimos sincronizados en propósitos y fechas. Confía en la capacidad del notario para diseminar la información importante de manera veraz. Si ocurriese que falta algún detalle que consideras esencial, mi recomendación es que, o bien esperes a ver si alguien del equipo la complementa, o bien te comuniques con el notario para explicarle la necesidad de incluir ese algo que se le ha pasado, o preguntarle por qué no lo ha incluido. Y utiliza la norma general de alabanzas públicas, críticas en privado. Si ocurriese, señálaselo de manera directa pero privada, y pregunta qué motivos le han llevado a no incluirla, de modo que te pueda agradecer el gesto en lugar de temer que pueda equivocarse en el futuro, y ver el rol de notario como algo que pueda avergonzarle. Un buen truco para ti después de cada reunión es dedicarle 30 segundos a apuntar lo que recuerdas tú, personalmente. Este registro te servirá para diferentes cosas, como anotar observaciones sobre el comportamiento o la dinámica de la reunión, ideas que se te hayan ocurrido, temas para hablar en otras ocasiones. Es una técnica muy efectiva para afianzar recuerdos, ampliar nuestra capacidad de recordar, y ser eficaz gestionando equipos y proyectos. Vamos con algunos extras. Si a alguien le cuesta hablar porque tiene una personalidad más de tipo introvertido, ponle de moderador de la reunión. Los introvertidos suelen tener una personalidad más reflexiva, lo que les hace unos aliados formidables para el correcto desarrollo de las reuniones. Si alguien habla mucho, es extrovertido, que sea el que toma notas, y el responsable de leer el resumen al final; así, mientras ha de concentrarse en tomar las notas, permitirá a otros expresarse sin monopolizar la reunión. Puedes programar recordatorios sobre las reuniones, no programar reuniones a más de 15 días vista a no ser que sean recurrentes, y tampoco pasa nada si algún tema se queda colgado en algún momento, siempre podemos pasarlo para una reunión futura. Lo que sí desaconsejo totalmente es jugar a alargar los tiempos establecidos para la reunión. Si se acaba el tiempo, se acaba la reunión, punto. Y ahora, vamos con un ejemplo. Necesitamos una reunión para que cada uno presente a los demás su prioridad del trimestre siguiente. Tú envías una convocatoria en la que explicas el propósito de la reunión resumido en un título: presentación de las prioridades individuales para el trimestre dos. Profundizas más en las expectativas de la reunión, las prioridades han de presentarse en formato Mission statement, o declaración del propósito principal, y ha de explicarse qué motivos te han llevado a escoger dicha prioridad para el trimestre, de modo que los compañeros entiendan las particularidades de tu trabajo en este momento. Además, pides que antes de compartirla públicamente durante la reunión, las compartan contigo y las veáis conjuntamente, por lo que explicitas una fecha límite para enviarte sus Mission statements el martes 1 de abril, puesto que la reunión es el viernes día 4. Finalmente, en la convocatoria indicas quién será la moderadora y quién el notario, así como la duración: 50 minutos. Por último, un gran truco: al comienzo de cada reunión, para no empezar directamente e ir al grano, dependiendo de la cantidad de personas en la reunión, yo suelo empezar hablando de pequeñas grandes victorias personales. He conseguido dormir ocho horas ayer, me regalaron un ramo de flores, mi madre está mejor, he comenzado clases de baile, acabé un libro maravilloso, desde las seis de la tarde no volví a abrir el e-mail. Es una técnica de Jeff Weiner, que facilita la conexión personal entre los miembros del equipo, y pone de relieve las cosas que también son verdaderamente importantes, y que sin pertenecer al pragmatismo inmediato de los resultados empresariales, son esenciales para los resultados a largo plazo.
-Activar el modo interactivo de transcripción
+### **Conclusión**
 
+**La redacción de documentos laborales es una habilidad esencial en el entorno laboral, ya que permite transmitir información de manera clara y formal. Con práctica y atención, puedes mejorar tu estructura, claridad, coherencia y revisión, lo que te permitirá comunicarte de manera más efectiva.**
 
+**En el próximo curso, exploraremos la comunicación en redes sociales profesionales. ¡Nos vemos allí!**
 
-Cómo Cerrar las Reuniones de Manera Satisfactoria y Eficaz
-Una vez finalizada la reunión, la persona que haya estado tomando notas y apuntes, al que llamaremos notario, envía un resumen de esas notas, esencialmente los acuerdos, las líneas de actuación, quiénes son los responsables de ejecutarlas, y para cuándo. De este modo nos aseguramos que la misma información llega a todos los destinatarios, y el equipo al completo sigue sincronizado en propósitos y fechas. Confía en la capacidad del notario para diseminar la información importante de manera veraz.
+---
 
-Manejo de Detalles Faltantes
-Si ocurriese que falta algún detalle que consideras esencial, mi recomendación es que, o bien esperes a ver si alguien del equipo la complementa, o bien te comuniques con el notario para explicarle la necesidad de incluir ese algo que se le ha pasado, o preguntarle por qué no lo ha incluido. Y utiliza la norma general de alabanzas públicas, críticas en privado. Si ocurriese, señálaselo de manera directa pero privada, y pregunta qué motivos le han llevado a no incluirla, de modo que te pueda agradecer el gesto en lugar de temer que pueda equivocarse en el futuro, y ver el rol de notario como algo que pueda avergonzarle.
+**Actividad Práctica:**
 
-Registro Personal
-Un buen truco para ti después de cada reunión es dedicarle 30 segundos a apuntar lo que recuerdas tú, personalmente. Este registro te servirá para diferentes cosas, como anotar observaciones sobre el comportamiento o la dinámica de la reunión, ideas que se te hayan ocurrido, temas para hablar en otras ocasiones. Es una técnica muy efectiva para afianzar recuerdos, ampliar nuestra capacidad de recordar, y ser eficaz gestionando equipos y proyectos.
+1. **Redacción y Análisis:**
+    - Redacta un documento laboral utilizando los fundamentos de la redacción de documentos.
+    - Analiza tu título, introducción, desarrollo y conclusión. ¿Qué aspectos puedes mejorar?
+2. **Reflexión Personal:**
+    - ¿Cómo te sientes al ser consciente de estos fundamentos en tu redacción de documentos laborales?
+    - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
-Extras y Técnicas Adicionales
-Moderador Introvertido: Si a alguien le cuesta hablar porque tiene una personalidad más de tipo introvertido, ponle de moderador de la reunión. Los introvertidos suelen tener una personalidad más reflexiva, lo que les hace unos aliados formidables para el correcto desarrollo de las reuniones.
-Notario Extrovertido: Si alguien habla mucho, es extrovertido, que sea el que toma notas, y el responsable de leer el resumen al final; así, mientras ha de concentrarse en tomar las notas, permitirá a otros expresarse sin monopolizar la reunión.
-Recordatorios y Programación: Puedes programar recordatorios sobre las reuniones, no programar reuniones a más de 15 días vista a no ser que sean recurrentes, y tampoco pasa nada si algún tema se queda colgado en algún momento, siempre podemos pasarlo para una reunión futura. Lo que sí desaconsejo totalmente es jugar a alargar los tiempos establecidos para la reunión. Si se acaba el tiempo, se acaba la reunión, punto.
-Ejemplo de Convocatoria
-Vamos con un ejemplo. Necesitamos una reunión para que cada uno presente a los demás su prioridad del trimestre siguiente. Tú envías una convocatoria en la que explicas el propósito de la reunión resumido en un título: "Presentación de las prioridades individuales para el trimestre dos". Profundizas más en las expectativas de la reunión, las prioridades han de presentarse en formato Mission statement, o declaración del propósito principal, y ha de explicarse qué motivos te han llevado a escoger dicha prioridad para el trimestre, de modo que los compañeros entiendan las particularidades de tu trabajo en este momento. Además, pides que antes de compartirla públicamente durante la reunión, las compartan contigo y las veáis conjuntamente, por lo que explicitas una fecha límite para enviarte sus Mission statements el martes 1 de abril, puesto que la reunión es el viernes día 4. Finalmente, en la convocatoria indicas quién será la moderadora y quién el notario, así como la duración: 50 minutos.
+---
 
-Técnica de Inicio de Reuniones
-Por último, un gran truco: al comienzo de cada reunión, para no empezar directamente e ir al grano, dependiendo de la cantidad de personas en la reunión, yo suelo empezar hablando de pequeñas grandes victorias personales. He conseguido dormir ocho horas ayer, me regalaron un ramo de flores, mi madre está mejor, he comenzado clases de baile, acabé un libro maravilloso, desde las seis de la tarde no volví a abrir el e-mail. Es una técnica de Jeff Weiner, que facilita la conexión personal entre los miembros del equipo, y pone de relieve las cosas que también son verdaderamente importantes, y que sin pertenecer al pragmatismo inmediato de los resultados empresariales, son esenciales para los resultados a largo plazo.
+### **Curso 9: Comunicación en Redes Sociales Profesionales**
 
-Conclusión
-Cerrar las reuniones de manera satisfactoria y eficaz es crucial para asegurar que todos los participantes estén alineados y comprometidos con los resultados. Al definir claramente los acuerdos, asignar responsabilidades y facilitar la comunicación, se asegura que la información importante llegue a todos los destinatarios y que el equipo siga sincronizado en propósitos y fechas. Además, técnicas como el registro personal y la conexión personal al inicio de las reuniones pueden mejorar la efectividad y el bienestar del equipo.
+---
 
-Reuniones alternativas
-A veces, es conveniente salir del escenario formal de las reunionesy apostar por otros sistemas que sean mucho más ágiles,o que favorezcan una interacción más informal,para que salte la chispa de la creatividad.Hoy en día, uno de los estándares en las empresas más ágileses la realización de reuniones en las que hay que estar de pie,apoyados en la pared, pero sin la posibilidad de sentarse.Esta técnica es parte de lo que se conoce como Scrums.En estas reuniones, por supuesto, todos hablan.Lo hacen en el sentido de las aguas del reloj,y sirve para que el equipo al completoesté al díade lo que están haciendo los demás, por qué lo están haciendo,y si necesitan ayuda de alguien.Son reuniones muy ágiles y útiles en las que rara vezhay que tomar decisiones.Si se toman, son decisiones inmediatas que afectan a procesos.Otro tipo de reuniones en contexto informal,y que suelen servir principalmentepara desarrollar lazos de compañerismo y amistad entre colegas,son las reuniones durante el desayuno.Normalmente, yo no suelo estar en esas reuniones.Hay una agenda muy corta, ligera;de lo que se trata es de que los miembros del equipo hablen de sus cosassin que el jefe esté ahí coartando de algún modosu libertad de expresarse más informalmente.En estas reuniones suelen aparecer con claridadlos conflictos internos del equipo, conflictos con los métodos o la empresa,por eso conviene tener a alguien que te ayude a comprenderqué es de lo que se habla en esas reunionespara poder ponerte a trabajar en ello de inmediato y remediarlo.Mi experiencia personal con estos desayunos,es que lo mejor, insisto, es no estar presentey no dejar de hacerlas nunca.Alguien ha de encargarse de ellas,y puedes encargárselo a quien consideras más responsable,y luego valorar la posibilidad de ir variando el líder de esas reuniones.Hay una técnica de gestión que se llama MBWA,de la frase en inglés Managing By Walking Around,que consiste en que el manager se pasea y va preguntando cosas a los empleados,o reuniéndose con ellos según lo ve oportuno.No voy a entrar en profundidad en esta técnica,pero sí que me gustaría hablar de una versión que consisteen mantener reuniones individuales con los miembros de tu equipomientras dais un paseo juntos.Yo aún recuerdo la primera vez que mi jefa me llevó a dar una vueltay, caminando por Lisboa,estuvimos hablando de la estrategia de implementación localque seguiríamos allí.He estado usando esta manera de reunirme con mis empleadosfrecuentemente.Paseando por el parque, visitando alguna exposición,el hecho de salir de las cuatro paredes de una meeting roomhace maravillas en la comunicación y el desarrollo de lazos de confianza.Además, al estar expuestos a estímulos sensoriales inesperados,la creatividad aumenta.Es una técnica maravillosa que recomiendo encarecidamenteque pruebes.Sal a la calle con tu equipo, usa el silencio,asegúrate de protegeros frente a interrupciones innecesariascomo el móvil.Incluso en silencio un móvil interrumpe.Permite que te indiquen sus preferencias a la hora de pasear y visitar algún sitio,compartiendo esa caminata en la que pones tu presencia completajunto a la otra persona, harás que la información fluyade manera distendida en un ambiente de sincera confianza mutua.Magia para tu liderazgo.No hay mejor modo de recopilar información que los pequeños detallesque se revelan en este tipo de reuniones.Pruébalo.
+**Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos la redacción de documentos laborales. Hoy nos enfocaremos en la comunicación en redes sociales profesionales.**
 
+**La comunicación en redes sociales profesionales es una habilidad esencial en el entorno laboral moderno, ya que permite conectar y compartir información con colegas y profesionales de la industria.**
 
-Reuniones Alternativas
-A veces, es conveniente salir del escenario formal de las reuniones y apostar por otros sistemas que sean mucho más ágiles o que favorezcan una interacción más informal, para que salte la chispa de la creatividad. Hoy en día, uno de los estándares en las empresas más ágiles es la realización de reuniones en las que hay que estar de pie, apoyados en la pared, pero sin la posibilidad de sentarse. Esta técnica es parte de lo que se conoce como Scrums.
+### **Elementos de la Comunicación en Redes Sociales Profesionales**
 
-Scrums
-En estas reuniones, por supuesto, todos hablan. Lo hacen en el sentido de las aguas del reloj y sirve para que el equipo al completo esté al día de lo que están haciendo los demás, por qué lo están haciendo, y si necesitan ayuda de alguien. Son reuniones muy ágiles y útiles en las que rara vez hay que tomar decisiones. Si se toman, son decisiones inmediatas que afectan a procesos.
+1. **Perfil:**
+    - **Profesional:** Asegúrate de que tu perfil en redes sociales profesionales esté actualizado y sea profesional.
+    - **Consistente:** Mantén una imagen y una descripción consistentes en todas tus redes sociales profesionales.
+2. **Contenido:**
+    - **Relevante:** Publica contenido relevante y útil para tu audiencia.
+    - **Variado:** Publica una variedad de contenido, incluyendo noticias, artículos, y tus propias opiniones.
+3. **Interacción:**
+    - **Respuesta:** Responde a los comentarios y mensajes de manera oportuna y profesional.
+    - **Participación:** Participa en discusiones y grupos relevantes en tu industria.
 
-Reuniones durante el Desayuno
-Otro tipo de reuniones en contexto informal y que suelen servir principalmente para desarrollar lazos de compañerismo y amistad entre colegas son las reuniones durante el desayuno. Normalmente, yo no suelo estar en esas reuniones. Hay una agenda muy corta y ligera; de lo que se trata es de que los miembros del equipo hablen de sus cosas sin que el jefe esté ahí coartando de algún modo su libertad de expresarse más informalmente. En estas reuniones suelen aparecer con claridad los conflictos internos del equipo, conflictos con los métodos o la empresa, por eso conviene tener a alguien que te ayude a comprender de qué es de lo que se habla en esas reuniones para poder ponerte a trabajar en ello de inmediato y remediarlo.
+### **Técnicas para Mejorar la Comunicación en Redes Sociales Profesionales**
 
-Mi experiencia personal con estos desayunos es que lo mejor, insisto, es no estar presente y no dejar de hacerlas nunca. Alguien ha de encargarse de ellas, y puedes encargárselo a quien consideras más responsable, y luego valorar la posibilidad de ir variando el líder de esas reuniones.
+1. **Planificación:**
+    - **Calendario:** Crea un calendario de publicaciones para mantener una presencia constante en redes sociales.
+    - **Variedad:** Planifica una variedad de contenido para mantener el interés de tu audiencia.
+2. **Análisis:**
+    - **Métricas:** Analiza las métricas de tus publicaciones para entender qué tipo de contenido funciona mejor.
+    - **Ajustes:** Ajusta tu estrategia de comunicación en función de los datos obtenidos.
+3. **Revisión:**
+    - **Autocrítica:** Revisa tus publicaciones y busca posibles errores o áreas de mejora.
+    - **Feedback:** Solicita feedback de colegas o superiores para mejorar tu comunicación en redes sociales.
 
-MBWA y Reuniones en Movimiento
-Hay una técnica de gestión que se llama MBWA, de la frase en inglés Managing By Walking Around, que consiste en que el manager se pasea y va preguntando cosas a los empleados, o reuniéndose con ellos según lo ve oportuno. No voy a entrar en profundidad en esta técnica, pero sí que me gustaría hablar de una versión que consiste en mantener reuniones individuales con los miembros de tu equipo mientras das un paseo juntos.
+### **Ejercicios Prácticos**
 
-Recuerdo la primera vez que mi jefa me llevó a dar una vuelta y, caminando por Lisboa, estuvimos hablando de la estrategia de implementación local que seguiríamos allí. He estado usando esta manera de reunirme con mis empleados frecuentemente. Paseando por el parque, visitando alguna exposición, el hecho de salir de las cuatro paredes de una meeting room hace maravillas en la comunicación y el desarrollo de lazos de confianza. Además, al estar expuestos a estímulos sensoriales inesperados, la creatividad aumenta. Es una técnica maravillosa que recomiendo encarecidamente que pruebes.
+1. **Ejercicio de Perfil:**
+    - Actualiza tu perfil en redes sociales profesionales.
+    - Analiza la profesionalidad y consistencia de tu perfil.
+2. **Ejercicio de Contenido:**
+    - Publica contenido relevante y variado en redes sociales profesionales.
+    - Analiza la relevancia y variedad de tu contenido.
+3. **Ejercicio de Interacción:**
+    - Responde a los comentarios y mensajes en redes sociales profesionales.
+    - Analiza la oportuna y profesionalidad de tus respuestas.
+4. **Ejercicio de Planificación:**
+    - Crea un calendario de publicaciones para redes sociales profesionales.
+    - Analiza la consistencia y variedad de tu planificación.
+5. **Ejercicio de Análisis:**
+    - Analiza las métricas de tus publicaciones en redes sociales profesionales.
+    - Practica ajustar tu estrategia en función de los datos obtenidos.
 
-Reuniones en Movimiento: Consejos
-Sal a la Calle con Tu Equipo: Usa el silencio, asegúrate de protegeros frente a interrupciones innecesarias como el móvil. Incluso en silencio, un móvil interrumpe.
-Permite que Te Indiquen Sus Preferencias: A la hora de pasear y visitar algún sitio, compartiendo esa caminata en la que pones tu presencia completa junto a la otra persona, harás que la información fluya de manera distendida en un ambiente de sincera confianza mutua.
-Magia para Tu Liderazgo: No hay mejor modo de recopilar información que los pequeños detalles que se revelan en este tipo de reuniones. Pruébalo.
-Conclusión
-Las reuniones alternativas ofrecen una oportunidad para fomentar la creatividad, el compañerismo y la confianza dentro del equipo. Al salir del entorno formal y explorar métodos más ágiles e informales, como los Scrums, las reuniones durante el desayuno y las reuniones en movimiento, se pueden obtener resultados más efectivos y fortalecer los lazos entre los miembros del equipo. Como líder, tu papel es facilitar estas dinámicas y crear un entorno donde la comunicación abierta y la colaboración sean prioritarias.
+### **Conclusión**
 
-Aprendizajes semanales
-Los aprendizajes semanalesnacen de la necesidad de adaptarse al cambio y la novedad,en un contexto de incertidumbre empresarialy competición constante.Son un instrumento para aprender y desaprender,para avanzar y para construir un ambiente de trabajoen el que el equipo pueda enfrentarse a su trabajo como si estuvieran al frentede sus propios laboratorios de experimentación.¿Por qué?Porque cuando conviertes el lugar de trabajoen un lugar de experimentación y aprendizaje continuo,el avance es imparable,y la generación de conocimientos es de un valor incalculable.Así que si quieres que tus empleados sientanque están creciendo continuamente,y que están en el ambiente propicio para continuar haciéndolo,pídeles que se acostumbren a enfrentarse a los problemascomo aprendices en búsqueda de más conocimiento,y no como expertos que ya lo saben todo o casi todo.Para ello, podemos utilizar una técnica que consiste en que cada semanalos miembros del equipo han de enviarte a ti,o incluso a otro miembro del equipo,su aprendizaje de esa semana, respondiendo a la pregunta:¿Qué es lo más importante que he aprendido esta semana?O quizá en otro formato del tipo: ¿Qué es lo que hice?,¿Cuál fue el resultado?, ¿Qué he aprendido de ello?Lo importante es desarrollar el hábito de buscar ese aprendizaje cada semana,y luego tú compartes en un email con el equipotodos los aprendizajes individualesdestacando el que te parezca más relevante.Si es posible, comenta cada uno de ellos muy brevemente,limítate a unas tres líneas por aprendizaje como muchísimo,y explica siempre los motivos que hacenque el aprendizaje que has escogido para esa semana sea el más relevantede modo que tú también contribuyas con tu visión a ese email.Por cierto, no es necesario que premies a todossacando un aprendizaje por semana de cada uno,no se trata de premiar a todos simplemente por participar, no.Es posible que haya gente que tenga aprendizajes muy buenos,pero no sepa expresarlos tan bien como para que resulten de utilidad,o atractivos para todo el equipo;y habrá gente que teniendo aprendizajes mediocreslo exprese tan bien que parezca que son mejoresde lo que en realidad son.Tu trabajo también es corregir estas situaciones.Si alguien nunca consigue destacar sus aprendizajes,quizá tengas un problema en el equipo.Y no permitas excusas.Siempre hay algo que aprender, sino mal asunto.Los aprendizajes pueden formar parte de una comunicación más amplia,en la que los miembros de tu equipo compartan contigosus prioridades de la semana siguiente,y cómo han ido las prioridades de la semana actual,además de qué temas les apetece comentar durante la reunión uno a uno semanal.Los aprendizajes y las prioridades semanalessirven para tener más líneas abiertas de comunicación e información.Son la base para estar al día de lo que ocurrey comprender cuál es la situacióncon cada uno de los empleados y sus quehaceres.También sirve para generar cohesión,en la manera en que se hacen las cosas en el equipo,en lo que se aprende y cómo se aplica.Recuerda: tu equipo funciona como un lugar de experimentación y aprendizaje.En algún momento podrás coger todos esos aprendizajesy construir una pequeña guía de cómo hacer las cosas en vuestro equipo.Es interesante que haya un repositorio o un registrode todos esos aprendizajes.Creo oportuno que envíen los aprendizajes de su email de prioridades el viernes,porque así cerraran la semana reflexionandosobre lo que han aprendido y programaránlo que han de hacer para la semana siguiente.Lo que yo suelo hacer es responder brevementesobre el email que me envían, y les deseo un feliz fin de semanalo más desconectado posiblepara que vean que me interesa su bienestar,y que el lunes empiecen el trabajo llenos de energía, alegresy con la productividad muy alta.El lunes por la mañana tu tarea es enviar a todo el equipolos learnings, los aprendizajes, recopilados,destacando el que consideres más apropiado cada semana.E insisto, recuerda comentar siempre,al menos, el aprendizaje que destaques esa semana.Te aseguro que todo el equipo te estará esperandopara leer los aprendizajes de los demás, para felicitarse entre ellos,copiar lo que les parezca interesante, y seguir mejorando.
+**La comunicación en redes sociales profesionales es una habilidad esencial en el entorno laboral moderno, ya que permite conectar y compartir información con colegas y profesionales de la industria. Con práctica y atención, puedes mejorar tu perfil, contenido, interacción, planificación, análisis y revisión, lo que te permitirá comunicarte de manera más efectiva.**
 
-Activar el modo interactivo de transcripción
+**En el próximo curso, exploraremos la creación de material visual. ¡Nos vemos allí!**
 
+---
 
+**Actividad Práctica:**
 
-Aprendizajes Semanales
-Los aprendizajes semanales nacen de la necesidad de adaptarse al cambio y la novedad, en un contexto de incertidumbre empresarial y competición constante. Son un instrumento para aprender y desaprender, para avanzar y para construir un ambiente de trabajo en el que el equipo pueda enfrentarse a su trabajo como si estuvieran al frente de sus propios laboratorios de experimentación. ¿Por qué? Porque cuando conviertes el lugar de trabajo en un lugar de experimentación y aprendizaje continuo, el avance es imparable, y la generación de conocimientos es de un valor incalculable. Así que si quieres que tus empleados sientan que están creciendo continuamente y que están en el ambiente propicio para continuar haciéndolo, pídeles que se acostumbren a enfrentarse a los problemas como aprendices en búsqueda de más conocimiento, y no como expertos que ya lo saben todo o casi todo.
+1. **Publicación y Análisis:**
+    - Publica contenido en redes sociales profesionales utilizando las técnicas de comunicación.
+    - Analiza tu perfil, contenido, interacción, planificación y análisis. ¿Qué aspectos puedes mejorar?
+2. **Reflexión Personal:**
+    - ¿Cómo te sientes al ser consciente de estas técnicas en tu comunicación en redes sociales profesionales?
+    - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
-Técnica de Aprendizajes Semanales
-Para ello, podemos utilizar una técnica que consiste en que cada semana los miembros del equipo han de enviarte a ti, o incluso a otro miembro del equipo, su aprendizaje de esa semana, respondiendo a la pregunta: "¿Qué es lo más importante que he aprendido esta semana?" O quizá en otro formato del tipo: "¿Qué es lo que hice?", "¿Cuál fue el resultado?", "¿Qué he aprendido de ello?" Lo importante es desarrollar el hábito de buscar ese aprendizaje cada semana, y luego tú compartes en un email con el equipo todos los aprendizajes individuales, destacando el que te parezca más relevante. Si es posible, comenta cada uno de ellos muy brevemente, limítate a unas tres líneas por aprendizaje como mucho, y explica siempre los motivos que hacen que el aprendizaje que has escogido para esa semana sea el más relevante, de modo que tú también contribuyas con tu visión a ese email.
+---
 
-Premios y Correcciones
-Por cierto, no es necesario que premies a todos sacando un aprendizaje por semana de cada uno, no se trata de premiar a todos simplemente por participar, no. Es posible que haya gente que tenga aprendizajes muy buenos, pero no sepa expresarlos tan bien como para que resulten de utilidad, o atractivos para todo el equipo; y habrá gente que teniendo aprendizajes mediocres lo exprese tan bien que parezca que son mejores de lo que en realidad son. Tu trabajo también es corregir estas situaciones. Si alguien nunca consigue destacar sus aprendizajes, quizá tengas un problema en el equipo. Y no permitas excusas. Siempre hay algo que aprender, sino mal asunto.
+### **Curso 10: Creación de Material Visual**
 
-Integración con Prioridades Semanales
-Los aprendizajes pueden formar parte de una comunicación más amplia, en la que los miembros de tu equipo compartan contigo sus prioridades de la semana siguiente y cómo han ido las prioridades de la semana actual, además de qué temas les apetece comentar durante la reunión uno a uno semanal. Los aprendizajes y las prioridades semanales sirven para tener más líneas abiertas de comunicación e información. Son la base para estar al día de lo que ocurre y comprender cuál es la situación con cada uno de los empleados y sus quehaceres. También sirve para generar cohesión, en la manera en que se hacen las cosas en el equipo, en lo que se aprende y cómo se aplica. Recuerda: tu equipo funciona como un lugar de experimentación y aprendizaje. En algún momento podrás coger todos esos aprendizajes y construir una pequeña guía de cómo hacer las cosas en vuestro equipo. Es interesante que haya un repositorio o un registro de todos esos aprendizajes.
+---
 
-Rutina Semanal
-Creo oportuno que envíen los aprendizajes de su email de prioridades el viernes, porque así cerrarán la semana reflexionando sobre lo que han aprendido y programarán lo que han de hacer para la semana siguiente. Lo que yo suelo hacer es responder brevemente sobre el email que me envían, y les deseo un feliz fin de semana lo más desconectado posible, para que vean que me interesa su bienestar, y que el lunes empiecen el trabajo llenos de energía, alegres y con la productividad muy alta.
+**Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos la comunicación en redes sociales profesionales. Hoy nos enfocaremos en la creación de material visual.**
 
-El lunes por la mañana tu tarea es enviar a todo el equipo los learnings, los aprendizajes, recopilados, destacando el que consideres más apropiado cada semana. Insisto, recuerda comentar siempre, al menos, el aprendizaje que destaques esa semana. Te aseguro que todo el equipo te estará esperando para leer los aprendizajes de los demás, para felicitarse entre ellos, copiar lo que les parezca interesante, y seguir mejorando.
+**La creación de material visual es una habilidad esencial en el entorno laboral moderno, ya que permite comunicar información de manera efectiva y atractiva.**
 
-Conclusión
-Los aprendizajes semanales son una herramienta poderosa para fomentar un ambiente de aprendizaje continuo y mejora constante en el equipo. Al incentivar a los miembros del equipo a reflexionar sobre lo que han aprendido cada semana y compartirlo, se crea una cultura de crecimiento y desarrollo. Como líder, tu papel es facilitar este proceso, proporcionar retroalimentación constructiva y utilizar estos aprendizajes para mejorar la cohesión y la efectividad del equipo. Además, al integrar los aprendizajes con las prioridades semanales, se asegura una comunicación fluida y una comprensión profunda de las necesidades y avances de cada miembro del equipo.
+### **Elementos de la Creación de Material Visual**
 
-Aprendizajes semanales
-Los aprendizajes semanalesnacen de la necesidad de adaptarse al cambio y la novedad,en un contexto de incertidumbre empresarialy competición constante.Son un instrumento para aprender y desaprender,para avanzar y para construir un ambiente de trabajoen el que el equipo pueda enfrentarse a su trabajo como si estuvieran al frentede sus propios laboratorios de experimentación.¿Por qué?Porque cuando conviertes el lugar de trabajoen un lugar de experimentación y aprendizaje continuo,el avance es imparable,y la generación de conocimientos es de un valor incalculable.Así que si quieres que tus empleados sientanque están creciendo continuamente,y que están en el ambiente propicio para continuar haciéndolo,pídeles que se acostumbren a enfrentarse a los problemascomo aprendices en búsqueda de más conocimiento,y no como expertos que ya lo saben todo o casi todo.Para ello, podemos utilizar una técnica que consiste en que cada semanalos miembros del equipo han de enviarte a ti,o incluso a otro miembro del equipo,su aprendizaje de esa semana, respondiendo a la pregunta:¿Qué es lo más importante que he aprendido esta semana?O quizá en otro formato del tipo: ¿Qué es lo que hice?,¿Cuál fue el resultado?, ¿Qué he aprendido de ello?Lo importante es desarrollar el hábito de buscar ese aprendizaje cada semana,y luego tú compartes en un email con el equipotodos los aprendizajes individualesdestacando el que te parezca más relevante.Si es posible, comenta cada uno de ellos muy brevemente,limítate a unas tres líneas por aprendizaje como muchísimo,y explica siempre los motivos que hacenque el aprendizaje que has escogido para esa semana sea el más relevantede modo que tú también contribuyas con tu visión a ese email.Por cierto, no es necesario que premies a todossacando un aprendizaje por semana de cada uno,no se trata de premiar a todos simplemente por participar, no.Es posible que haya gente que tenga aprendizajes muy buenos,pero no sepa expresarlos tan bien como para que resulten de utilidad,o atractivos para todo el equipo;y habrá gente que teniendo aprendizajes mediocreslo exprese tan bien que parezca que son mejoresde lo que en realidad son.Tu trabajo también es corregir estas situaciones.Si alguien nunca consigue destacar sus aprendizajes,quizá tengas un problema en el equipo.Y no permitas excusas.Siempre hay algo que aprender, sino mal asunto.Los aprendizajes pueden formar parte de una comunicación más amplia,en la que los miembros de tu equipo compartan contigosus prioridades de la semana siguiente,y cómo han ido las prioridades de la semana actual,además de qué temas les apetece comentar durante la reunión uno a uno semanal.Los aprendizajes y las prioridades semanalessirven para tener más líneas abiertas de comunicación e información.Son la base para estar al día de lo que ocurrey comprender cuál es la situacióncon cada uno de los empleados y sus quehaceres.También sirve para generar cohesión,en la manera en que se hacen las cosas en el equipo,en lo que se aprende y cómo se aplica.Recuerda: tu equipo funciona como un lugar de experimentación y aprendizaje.En algún momento podrás coger todos esos aprendizajesy construir una pequeña guía de cómo hacer las cosas en vuestro equipo.Es interesante que haya un repositorio o un registrode todos esos aprendizajes.Creo oportuno que envíen los aprendizajes de su email de prioridades el viernes,porque así cerraran la semana reflexionandosobre lo que han aprendido y programaránlo que han de hacer para la semana siguiente.Lo que yo suelo hacer es responder brevementesobre el email que me envían, y les deseo un feliz fin de semanalo más desconectado posiblepara que vean que me interesa su bienestar,y que el lunes empiecen el trabajo llenos de energía, alegresy con la productividad muy alta.El lunes por la mañana tu tarea es enviar a todo el equipolos learnings, los aprendizajes, recopilados,destacando el que consideres más apropiado cada semana.E insisto, recuerda comentar siempre,al menos, el aprendizaje que destaques esa semana.Te aseguro que todo el equipo te estará esperandopara leer los aprendizajes de los demás, para felicitarse entre ellos,copiar lo que les parezca interesante, y seguir mejorando.
+1. **Tipografía:**
+    - **Clara:** Usa una tipografía clara y legible.
+    - **Consistente:** Mantén una tipografía consistente en todos tus materiales visuales.
+2. **Imágenes:**
+    - **Relevantes:** Usa imágenes relevantes y de alta calidad.
+    - **Variadas:** Usa una variedad de imágenes para mantener el interés de tu audiencia.
+3. **Gráficos:**
+    - **Informativos:** Usa gráficos que informen y complementen tu mensaje.
+    - **Simples:** Mantén tus gráficos simples y fáciles de entender.
 
-Activar el modo interactivo de transcripción
+### **Técnicas para Mejorar la Creación de Material Visual**
 
+1. **Diseño:**
+    - **Claridad:** Asegúrate de que tu diseño sea claro y fácil de entender.
+    - **Consistencia:** Mantén una consistencia en el uso de colores, tipografía y estilos.
+2. **Herramientas:**
+    - **Uso de Herramientas:** Utiliza herramientas de diseño gráfico para crear materiales visuales atractivos.
+    - **Práctica:** Practica el uso de estas herramientas para mejorar tus habilidades de diseño.
+3. **Revisión:**
+    - **Autocrítica:** Revisa tus materiales visuales y busca posibles errores o áreas de mejora.
+    - **Feedback:** Solicita feedback de colegas o superiores para mejorar tu comunicación visual.
 
+### **Ejercicios Prácticos**
 
-Aprendizajes Semanales
-Los aprendizajes semanales nacen de la necesidad de adaptarse al cambio y la novedad, en un contexto de incertidumbre empresarial y competición constante. Son un instrumento para aprender y desaprender, para avanzar y para construir un ambiente de trabajo en el que el equipo pueda enfrentarse a su trabajo como si estuvieran al frente de sus propios laboratorios de experimentación. ¿Por qué? Porque cuando conviertes el lugar de trabajo en un lugar de experimentación y aprendizaje continuo, el avance es imparable, y la generación de conocimientos es de un valor incalculable. Así que si quieres que tus empleados sientan que están creciendo continuamente y que están en el ambiente propicio para continuar haciéndolo, pídeles que se acostumbren a enfrentarse a los problemas como aprendices en búsqueda de más conocimiento, y no como expertos que ya lo saben todo o casi todo.
+1. **Ejercicio de Tipografía:**
+    - Crea un material visual utilizando una tipografía clara y consistente.
+    - Analiza la claridad y consistencia de tu tipografía.
+2. **Ejercicio de Imágenes:**
+    - Usa imágenes relevantes y de alta calidad en tu material visual.
+    - Analiza la relevancia y calidad de tus imágenes.
+3. **Ejercicio de Gráficos:**
+    - Usa gráficos informativos y simples en tu material visual.
+    - Analiza la informatividad y simplicidad de tus gráficos.
+4. **Ejercicio de Diseño:**
+    - Crea un material visual con un diseño claro y consistente.
+    - Analiza la claridad y consistencia de tu diseño.
+5. **Ejercicio de Herramientas:**
+    - Usa herramientas de diseño gráfico para crear materiales visuales atractivos.
+    - Practica el uso de estas herramientas para mejorar tus habilidades de diseño.
 
-Técnica de Aprendizajes Semanales
-Para ello, podemos utilizar una técnica que consiste en que cada semana los miembros del equipo han de enviarte a ti, o incluso a otro miembro del equipo, su aprendizaje de esa semana, respondiendo a la pregunta: "¿Qué es lo más importante que he aprendido esta semana?" O quizá en otro formato del tipo: "¿Qué es lo que hice?", "¿Cuál fue el resultado?", "¿Qué he aprendido de ello?" Lo importante es desarrollar el hábito de buscar ese aprendizaje cada semana, y luego tú compartes en un email con el equipo todos los aprendizajes individuales, destacando el que te parezca más relevante. Si es posible, comenta cada uno de ellos muy brevemente, limítate a unas tres líneas por aprendizaje como mucho, y explica siempre los motivos que hacen que el aprendizaje que has escogido para esa semana sea el más relevante, de modo que tú también contribuyas con tu visión a ese email.
+### **Conclusión**
 
-Premios y Correcciones
-Por cierto, no es necesario que premies a todos sacando un aprendizaje por semana de cada uno, no se trata de premiar a todos simplemente por participar, no. Es posible que haya gente que tenga aprendizajes muy buenos, pero no sepa expresarlos tan bien como para que resulten de utilidad, o atractivos para todo el equipo; y habrá gente que teniendo aprendizajes mediocres lo exprese tan bien que parezca que son mejores de lo que en realidad son. Tu trabajo también es corregir estas situaciones. Si alguien nunca consigue destacar sus aprendizajes, quizá tengas un problema en el equipo. Y no permitas excusas. Siempre hay algo que aprender, sino mal asunto.
+**La creación de material visual es una habilidad esencial en el entorno laboral moderno, ya que permite comunicar información de manera efectiva y atractiva. Con práctica y atención, puedes mejorar tu tipografía, imágenes, gráficos, diseño, herramientas y revisión, lo que te permitirá comunicarte de manera más efectiva.**
 
-Integración con Prioridades Semanales
-Los aprendizajes pueden formar parte de una comunicación más amplia, en la que los miembros de tu equipo compartan contigo sus prioridades de la semana siguiente y cómo han ido las prioridades de la semana actual, además de qué temas les apetece comentar durante la reunión uno a uno semanal. Los aprendizajes y las prioridades semanales sirven para tener más líneas abiertas de comunicación e información. Son la base para estar al día de lo que ocurre y comprender cuál es la situación con cada uno de los empleados y sus quehaceres. También sirve para generar cohesión, en la manera en que se hacen las cosas en el equipo, en lo que se aprende y cómo se aplica. Recuerda: tu equipo funciona como un lugar de experimentación y aprendizaje. En algún momento podrás coger todos esos aprendizajes y construir una pequeña guía de cómo hacer las cosas en vuestro equipo. Es interesante que haya un repositorio o un registro de todos esos aprendizajes.
+**En el próximo curso, exploraremos las técnicas de escucha activa. ¡Nos vemos allí!**
 
-Rutina Semanal
-Creo oportuno que envíen los aprendizajes de su email de prioridades el viernes, porque así cerrarán la semana reflexionando sobre lo que han aprendido y programarán lo que han de hacer para la semana siguiente. Lo que yo suelo hacer es responder brevemente sobre el email que me envían, y les deseo un feliz fin de semana lo más desconectado posible, para que vean que me interesa su bienestar, y que el lunes empiecen el trabajo llenos de energía, alegres y con la productividad muy alta.
+---
 
-El lunes por la mañana tu tarea es enviar a todo el equipo los learnings, los aprendizajes, recopilados, destacando el que consideres más apropiado cada semana. Insisto, recuerda comentar siempre, al menos, el aprendizaje que destaques esa semana. Te aseguro que todo el equipo te estará esperando para leer los aprendizajes de los demás, para felicitarse entre ellos, copiar lo que les parezca interesante, y seguir mejorando.
+**Actividad Práctica:**
 
-Conclusión
-Los aprendizajes semanales son una herramienta poderosa para fomentar un ambiente de aprendizaje continuo y mejora constante en el equipo. Al incentivar a los miembros del equipo a reflexionar sobre lo que han aprendido cada semana y compartirlo, se crea una cultura de crecimiento y desarrollo. Como líder, tu papel es facilitar este proceso, proporcionar retroalimentación constructiva y utilizar estos aprendizajes para mejorar la cohesión y la efectividad del equipo. Además, al integrar los aprendizajes con las prioridades semanales, se asegura una comunicación fluida y una comprensión profunda de las necesidades y avances de cada miembro del equipo.
+1. **Creación y Análisis:**
+    - Crea un material visual utilizando los fundamentos de la creación de material visual.
+    - Analiza tu tipografía, imágenes, gráficos, diseño y herramientas. ¿Qué aspectos puedes mejorar?
+2. **Reflexión Personal:**
+    - ¿Cómo te sientes al ser consciente de estas técnicas en la creación de material visual?
+    - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
-Qué son las prioridades semanales
-Pocas cosas son tan saludables para la buena marcha de un equipocomo la comunicación fluida.Si hay buena comunicación,el flujo de información, las oportunidades de mejora,la creatividad y las soluciones vuelan de un lado al otroagilizando procesos y facilitando tareas.La comunicación fluida podemos conseguirla mediante reuniones,pequeñas charlas, paseos, comiendo con el equipo,haciendo algunas actividades juntos.Y una forma esencial especialmente eficazson los emails semanales de prioridades.Y lo son tanto por la información que tú recibescomo el feedback que tú puedes proporcionaral recibir esa informacióny escribir tus reflexiones y dudas sobre las mismas.Pero es que, además, los emails de prioridades semanalesfacilitan el desarrollo de unos hábitos esenciales:reflexionar sobre lo realizado, programar la semana siguiente,acumular conocimiento, afianzarloy compartirlo en un ambiente donde se premiaaproximarse al trabajo como aprendices, no como expertos.Veamos cómo se trabaja en base a prioridades.Lo primero, si no lo supieran, será explicarle a tu equipocómo trabajar con prioridades.El modo más sencillo y rápido de hacerloes indicándoles que han de responder a la pregunta:«Si la semana que viene solo pudiera hacer una cosa,¿cuál sería?».Y que su respuesta a esa pregunta será su prioridad de la semana siguiente.Además, han de incluir otros dos asuntos importantesque han de realizar también la semana que viene.Y aquí, en la relación de estos asuntos importantes,es donde entra tu capacidad de análisis y direcciónpara determinar si, efectivamente,estos asuntos son tan importantes como ellos creeno si no lo son tanto.Aquí es donde tu feedback y el suyo es realmente valioso.Para analizar la idoneidad o no de esos asuntos importantes,podríamos hacer que se formulasen la pregunta:«¿De qué modo esta actividad me acerca o facilitala consecución de mis propósitos para el mes o para el trimestre?».Respondiendo a esta pregunta,quizá algo que parece esencial,como por ejemplo, entregar las cuentas de los gastos de representaciónal departamento de contabilidad,resulta que, siendo una tarea que sí, que hay que realizar,pues no es un asunto tan importante.Una vez que acabe la semana,han de repasar cómo les han ido esas prioridades,cómo se han desarrolladoy enviarte esa información junto a las que consideranlas que serán sus prioridades de la semana siguiente.Si bien al principio lo más adecuado es que proporciones una plantillapara que todos los miembros del equipo entren en sintoníaa la hora de enviártelasy que, cuando hablen entre ellos de esto, hablen de las mismas cosas,puede llegar un momento en el que les puedas proporcionar unas guíasy no tanto una estructura inamovible.Tu labor como líderes asegurarte de que reciben entrenamiento en este aspecto.Y, esencialmente, tú eres su entrenador.Ponte las pilas y muestra que te importan ellos, lo que hacen y cómo lo hacen.La calidad de las prioridades irá mejorando, como es lógico,con el tiempo.Aconsejo que comentes siempre todas las prioridades.Y si algo no lo entiendes, pregunta.Si algo te gusta o crees que es mejorable, señálalo.A veces las comentarás una a unay otras veces harás un comentario general sobre todo el contenido del email.Pero hazlo siempre,de modo que sepan que para ti es muy importantey que te tomas tiempo de leer y reflexionar sobre lo que escriben y lo que hacen.
+---
 
-Activar el modo interactivo de transcripción
+### **Curso 11: Técnicas de Escucha Activa**
 
+---
 
+**Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos la creación de material visual. Hoy nos enfocaremos en las técnicas de escucha activa.**
 
-Qué son las Prioridades Semanales
-Pocas cosas son tan saludables para la buena marcha de un equipo como la comunicación fluida. Si hay buena comunicación, el flujo de información, las oportunidades de mejora, la creatividad y las soluciones vuelan de un lado al otro, agilizando procesos y facilitando tareas. La comunicación fluida podemos conseguirla mediante reuniones, pequeñas charlas, paseos, comiendo con el equipo, haciendo algunas actividades juntos. Y una forma esencial, especialmente eficaz, son los emails semanales de prioridades. Y lo son tanto por la información que tú recibes como el feedback que tú puedes proporcionar al recibir esa información y escribir tus reflexiones y dudas sobre las mismas.
+**La escucha activa es una habilidad esencial en el entorno laboral, ya que permite comprender y responder adecuadamente a los mensajes recibidos.**
 
-Beneficios de los Emails de Prioridades
-Pero es que, además, los emails de prioridades semanales facilitan el desarrollo de unos hábitos esenciales: reflexionar sobre lo realizado, programar la semana siguiente, acumular conocimiento, afianzarlo y compartirlo en un ambiente donde se premia acercarse al trabajo como aprendices, no como expertos.
+### **Elementos de la Escucha Activa**
 
-Cómo Trabajar con Prioridades
-Veamos cómo se trabaja en base a prioridades. Lo primero, si no lo supieran, será explicarle a tu equipo cómo trabajar con prioridades. El modo más sencillo y rápido de hacerlo es indicándoles que han de responder a la pregunta: "Si la semana que viene solo pudiera hacer una cosa, ¿cuál sería?" Y que su respuesta a esa pregunta será su prioridad de la semana siguiente. Además, han de incluir otros dos asuntos importantes que han de realizar también la semana que viene. Y aquí, en la relación de estos asuntos importantes, entra tu capacidad de análisis y dirección para determinar si, efectivamente, estos asuntos son tan importantes como ellos creen o si no lo son tanto.
+1. **Atención:**
+    - **Plena:** Presta atención plena a lo que se está diciendo.
+    - **Sin Distracciones:** Evita distracciones como revisar el teléfono o el reloj.
+2. **Contacto Visual:**
+    - **Mantén el contacto visual:** Mira a la persona que está hablando directamente a los ojos.
+    - **Observa sus reacciones:** Presta atención a las reacciones y expresiones faciales de la persona que está hablando.
+3. **Parafraseo:**
+    - **Resumen:** Resume el mensaje central de la persona que está hablando utilizando tus propias palabras.
+    - **Claridad:** Asegúrate de que tu parafraseo sea claro y preciso.
 
-Análisis de Asuntos Importantes
-Para analizar la idoneidad o no de esos asuntos importantes, podríamos hacer que se formulen la pregunta: "¿De qué modo esta actividad me acerca o facilita la consecución de mis propósitos para el mes o para el trimestre?" Respondiendo a esta pregunta, quizá algo que parece esencial, como por ejemplo, entregar las cuentas de los gastos de representación al departamento de contabilidad, resulta que, siendo una tarea que sí, que hay que realizar, pues no es un asunto tan importante.
+### **Técnicas para Mejorar la Escucha Activa**
 
-Revisión y Feedback
-Una vez que acabe la semana, han de repasar cómo les han ido esas prioridades, cómo se han desarrollado y enviarte esa información junto a las que consideran las que serán sus prioridades de la semana siguiente. Si bien al principio lo más adecuado es que proporciones una plantilla para que todos los miembros del equipo entren en sintonía a la hora de enviártelos y que, cuando hablen entre ellos de esto, hablen de las mismas cosas, puede llegar un momento en el que les puedas proporcionar unas guías y no tanto una estructura inamovible. Tu labor como líder es asegurarte de que reciben entrenamiento en este aspecto. Y, esencialmente, tú eres su entrenador. Ponte las pilas y muestra que te importan ellos, lo que hacen y cómo lo hacen. La calidad de las prioridades irá mejorando, como es lógico, con el tiempo.
+1. **Atención:**
+    - **Plena:** Practica prestar atención plena a lo que se está diciendo.
+    - **Sin Distracciones:** Practica evitar distracciones durante las conversaciones.
+2. **Contacto Visual:**
+    - **Mantén el contacto visual:** Practica mantener el contacto visual durante las conversaciones.
+    - **Observa sus reacciones:** Practica observar las reacciones y expresiones faciales de la persona que está hablando.
+3. **Parafraseo:**
+    - **Resumen:** Practica resumir el mensaje central de la persona que está hablando utilizando tus propias palabras.
+    - **Claridad:** Practica asegurarte de que tu parafraseo sea claro y preciso.
 
-Comentarios y Feedback
-Aconsejo que comentes siempre todas las prioridades. Y si algo no lo entiendes, pregunta. Si algo te gusta o crees que es mejorable, señálalo. A veces las comentarás una a una y otras veces harás un comentario general sobre todo el contenido del email. Pero hazlo siempre, de modo que sepan que para ti es muy importante y que te tomas tiempo de leer y reflexionar sobre lo que escriben y lo que hacen.
+### **Ejercicios Prácticos**
 
-Conclusión
-Las prioridades semanales son una herramienta esencial para fomentar una comunicación fluida y efectiva dentro del equipo. Al incentivar a los miembros del equipo a reflexionar sobre sus tareas y objetivos, se crea un ambiente de mejora continua y crecimiento. Como líder, tu papel es facilitar este proceso, proporcionar retroalimentación constructiva y utilizar estas prioridades para mejorar la cohesión y la efectividad del equipo. Además, al integrar las prioridades semanales con otros hábitos de comunicación, se asegura una comprensión profunda de las necesidades y avances de cada miembro del equipo, lo que fortalece la dinámica y el éxito del equipo en su conjunto.
+1. **Ejercicio de Atención:**
+    - Participa en una conversación y practica prestar atención plena.
+    - Analiza tu capacidad para mantener la atención sin distracciones.
+2. **Ejercicio de Contacto Visual:**
+    - Participa en una conversación y practica mantener el contacto visual.
+    - Analiza tu capacidad para observar las reacciones y expresiones faciales de la persona que está hablando.
+3. **Ejercicio de Parafraseo:**
+    - Participa en una conversación y practica resumir el mensaje central utilizando tus propias palabras.
+    - Analiza la claridad y precisión de tu parafraseo.
 
-Contenido de las prioridades semanales
-El email de prioridades semanalesque cada miembro del equipo tiene que enviardebe tener una estructura claradividida en tres partes:un bloque donde comentanel desarrollo de sus tres prioridades de la semana pasada;otro bloque para indicar cuáles son las prioridadesde la semana siguiente,y un tercer bloque con el aprendizaje semanal,es decir, una parte donde responden a la pregunta¿qué he aprendido esta semana?También es aconsejable que, cada vez que se vayan a poner con sus prioridades,recuerden cuál es su propósito trimestral, incluyendo al principio del emailalguna pregunta que les recuerde cuál es y que están haciendoeste mes para lograrlo.Así, antes de ponerse a construir sus prioridades de la semana que viene,ya tendrán en la cabeza cuál es ese propósito general más grandeal que han de tender con cada uno de esos pasos importantesque son sus prioridades.Me parece muy buena idea utilizar este email de prioridades semanalespara ir conociendo cómo trabaja cada uno y por qué.Proporciona un marco de conversaciones y laboral maravillososobre el que tú puedes ir poniendo el énfasisen aquello que necesites conocer más profundamenteo aquello que la otra persona necesite mejorar o concentrarse.Una vez que ya os conocéis y sabéis cómo trabajáis,quizás sea más interesante que, además, incluyan una pequeña notaen la que indiquen cuáles son los temasque quieren tratar durante vuestra reunión 1 a 1 semanal.Igualmente, tú le harás por escrito los comentarios que consideres oportunoa su email de prioridades;si necesitan afianzar algún aspecto, qué pueden mejorary qué te parece francamente bueno.Lo que yo me he encontrado es que existe cierta reticencia iniciala hacer esta tarea porque parece que no aporta nada inmediatoa la finalización de las demás tareasporque requiere de tiempo y atención plena.Así que demuéstrales que para ti las prioridades son importantesy que comprendes el esfuerzoque han hecho trabajando sobre ellas siempre.Esta reticencia irá y vendrá en función de cada empleadoy la carga de trabajo que tengan.Si ves que alguien no se ha esforzado,puedes preguntarles si lo que te han entregadoes lo mejor que saben hacerloo pregunta qué motivos lo han llevado a no profundizar máspara que entiendan que tú esperas un trabajo concienzudoy que el email de las prioridades semanaleses una parte esencial de la maneraen la que el equipo y tu liderazgo funciona.Para mí, lo más útil es pedirle a mi equipo que me envíen sus prioridades,su email de prioridades, los viernes antes de la hora de comer.Cuando tú no estés, evita que pierdan la costumbre de reflexionarsobre su semana y preparar la siguiente,que es lo que verdaderamente importa,y encárgale a tu mejor miembro del equipoque sea él el que las reciba y las comente.Es posible que, por diversos motivos, en algún momentoa alguien se le pase enviarte sus prioridades semanales.Si ves que se le han pasado un par de horas o tresy no llegan, siempre puedes escribir un emailde «¡Ey!, no he recibido tus prioridades aún, ¿todo bien?».Y, luego, ya en la reunión individual, explicar que es mejor que si tienen algoque les ha impedido enviarlas a tiempo,que no pasa nada, que es normal,pero que siempre tienen la posibilidad de avisarantes con un email o un mensaje de cuándo llegarán;por ejemplo, el lunes a primera hora.Así que recuerda, cada viernes la última tareaque los miembros de tu equipo han de realizar es enviarteun email en el que incluyan sus prioridades de la semana siguiente;el desarrollo de sus prioridades de la semana presente;relacionarlo con su propósito mensual o trimestral;hacer un resumen de qué ha sido lo más importante que han aprendidoesa semana y proponer de qué les interesa hablaren la próxima reunión individual contigo.Después, tú pregunta todo lo que no entiendas.Pregunta de manera sincera, no para confirmar o desmentir,sino con una actitud de sincero interés por saber.Además, añádeles el feedback, la orientación que consideres apropiado,junto a las alabanzas y las oportunidades de mejoraque creas necesarias.Durante el desarme nuclear que siguió a la Guerra Fría,Ronald Reagan pronunció una frase que resume perfectamentelo que significa el email de las prioridades semanales:«Trust, but verify». Confía, pero confirma.Como líder, tú debes proporcionarle a todos los miembros del equipola autonomía suficiente como para que tomen sus propias decisionesy apliquen sus propios métodos para realizar las tareas.También, como líder, debes comprobarque esas decisiones van en la dirección apropiada.Y, si no van, ayudarles a corregir el camino siguiendo la senda de la mejora y el entrenamiento constante.
+### **Conclusión**
 
-Activar el modo interactivo de transcripción
+**La escucha activa es una habilidad esencial en el entorno laboral, ya que permite comprender y responder adecuadamente a los mensajes recibidos. Con práctica y atención, puedes mejorar tu atención, contacto visual y parafraseo, lo que te permitirá comunicarte de manera más efectiva.**
 
+**En el próximo curso, exploraremos cómo parafrasear al interlocutor. ¡Nos vemos allí!**
 
+---
 
-Contenido de las Prioridades Semanales
-El email de prioridades semanales que cada miembro del equipo tiene que enviar debe tener una estructura clara dividida en tres partes:
+**Actividad Práctica:**
 
-Desarrollo de las Prioridades de la Semana Pasada: Un bloque donde comentan el desarrollo de sus tres prioridades de la semana pasada.
-Prioridades de la Semana Siguiente: Otro bloque para indicar cuáles son las prioridades de la semana siguiente.
-Aprendizaje Semanal: Un tercer bloque con el aprendizaje semanal, es decir, una parte donde responden a la pregunta: "¿Qué he aprendido esta semana?"
-También es aconsejable que, cada vez que se vayan a poner con sus prioridades, recuerden cuál es su propósito trimestral. Incluyendo al principio del email alguna pregunta que les recuerde cuál es y qué están haciendo este mes para lograrlo. Así, antes de ponerse a construir sus prioridades de la semana que viene, ya tendrán en la cabeza cuál es ese propósito general más grande al que han de tender con cada uno de esos pasos importantes que son sus prioridades.
+1. **Participación y Análisis:**
+    - Participa en una conversación utilizando las técnicas de escucha activa.
+    - Analiza tu atención, contacto visual y parafraseo. ¿Qué aspectos puedes mejorar?
+2. **Reflexión Personal:**
+    - ¿Cómo te sientes al ser consciente de estas técnicas en tu escucha activa?
+    - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
-Conocimiento y Feedback
-Me parece muy buena idea utilizar este email de prioridades semanales para ir conociendo cómo trabaja cada uno y por qué. Proporciona un marco de conversaciones y laboral maravilloso sobre el que tú puedes ir poniendo el énfasis en aquello que necesites conocer más profundamente o aquello que la otra persona necesite mejorar o concentrarse.
+---
 
-Una vez que ya os conocéis y sabéis cómo trabajáis, quizás sea más interesante que, además, incluyan una pequeña nota en la que indiquen cuáles son los temas que quieren tratar durante vuestra reunión 1 a 1 semanal. Igualmente, tú le harás por escrito los comentarios que consideres oportunos a su email de prioridades; si necesitan afianzar algún aspecto, qué pueden mejorar y qué te parece francamente bueno.
+### **Curso 12: Parafraseando al Interlocutor**
 
-Superación de Reticencias
-Lo que yo me he encontrado es que existe cierta reticencia inicial a hacer esta tarea porque parece que no aporta nada inmediato a la finalización de las demás tareas porque requiere de tiempo y atención plena. Así que demuéstrales que para ti las prioridades son importantes y que comprendes el esfuerzo que han hecho trabajando sobre ellas siempre. Esta reticencia irá y vendrá en función de cada empleado y la carga de trabajo que tengan. Si ves que alguien no se ha esforzado, puedes preguntarles si lo que te han entregado es lo mejor que saben hacerlo o pregunta qué motivos lo han llevado a no profundizar más para que entiendan que tú esperas un trabajo concienzudo y que el email de las prioridades semanales es una parte esencial de la manera en la que el equipo y tu liderazgo funciona.
+---
 
-Rutina y Consistencia
-Para mí, lo más útil es pedirle a mi equipo que me envíen sus prioridades, su email de prioridades, los viernes antes de la hora de comer. Cuando tú no estés, evita que pierdan la costumbre de reflexionar sobre su semana y preparar la siguiente, que es lo que verdaderamente importa, y encárgale a tu mejor miembro del equipo que sea él el que las reciba y las comente.
+**Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos las técnicas de escucha activa. Hoy nos enfocaremos en cómo parafrasear al interlocutor.**
 
-Es posible que, por diversos motivos, en algún momento a alguien se le pase enviarte sus prioridades semanales. Si ves que se le han pasado un par de horas o tres y no llegan, siempre puedes escribir un email de "¡Ey!, no he recibido tus prioridades aún, ¿todo bien?" Y, luego, ya en la reunión individual, explicar que es mejor que si tienen algo que les ha impedido enviarlas a tiempo, que no pasa nada, que es normal, pero que siempre tienen la posibilidad de avisar antes con un email o un mensaje de cuándo llegarán; por ejemplo, el lunes a primera hora.
+**Parafrasear al interlocutor es una habilidad esencial en el entorno laboral, ya que permite demostrar comprensión y claridad en la comunicación.**
 
-Conclusión
-Recuerda, cada viernes la última tarea que los miembros de tu equipo han de realizar es enviarte un email en el que incluyan sus prioridades de la semana siguiente; el desarrollo de sus prioridades de la semana presente; relacionarlo con su propósito mensual o trimestral; hacer un resumen de qué ha sido lo más importante que han aprendido esa semana y proponer de qué les interesa hablar en la próxima reunión individual contigo. Después, tú pregunta todo lo que no entiendas. Pregunta de manera sincera, no para confirmar o desmentir, sino con una actitud de sincero interés por saber. Además, añádeles el feedback, la orientación que consideres apropiado, junto a las alabanzas y las oportunidades de mejora que creas necesarias.
+### **Elementos del Parafraseo**
 
-Durante el desarme nuclear que siguió a la Guerra Fría, Ronald Reagan pronunció una frase que resume perfectamente lo que significa el email de las prioridades semanales: "Trust, but verify". Confía, pero confirma. Como líder, tú debes proporcionarle a todos los miembros del equipo la autonomía suficiente como para que tomen sus propias decisiones y apliquen sus propios métodos para realizar las tareas. También, como líder, debes comprobar que esas decisiones van en la dirección apropiada. Y, si no van, ayudarles a corregir el camino siguiendo la senda de la mejora y el entrenamiento constante.
+1. **Resumen:**
+    - **Claro y Conciso:** Resume el mensaje central de la persona que está hablando de manera clara y concisa.
+    - **Preciso:** Asegúrate de que tu resumen sea preciso y no omita detalles importantes.
+2. **Uso de Propias Palabras:**
+    - **Evita Copiar:** No copies exactamente las palabras de la persona que está hablando.
+    - **Propios Términos:** Usa tus propios términos para resumir el mensaje.
+3. **Feedback:**
+    - **Positivo:** Ofrece feedback positivo para demostrar que estás prestando atención y comprendiendo.
+    - **Constructivo:** Ofrece feedback constructivo para mejorar la comunicación.
 
-Dame una guia de estilo de acuerdo a esta transcipcion de un curso 
+### **Técnicas para Mejorar el Parafraseo**
 
-Guía de Estilo para la Transcripción de un Curso
-Para asegurar la claridad y coherencia en la transcripción de un curso, es fundamental seguir una guía de estilo que estandarice el formato y el contenido. A continuación, se presenta una guía de estilo basada en la transcripción proporcionada:
+1. **Resumen:**
+    - **Claro y Conciso:** Practica resumir el mensaje central de manera clara y concisa.
+    - **Preciso:** Practica asegurarte de que tu resumen sea preciso y no omita detalles importantes.
+2. **Uso de Propias Palabras:**
+    - **Evita Copiar:** Practica no copiar exactamente las palabras de la persona que está hablando.
+    - **Propios Términos:** Practica usar tus propios términos para resumir el mensaje.
+3. **Feedback:**
+    - **Positivo:** Practica ofrecer feedback positivo para demostrar que estás prestando atención y comprendiendo.
+    - **Constructivo:** Practica ofrecer feedback constructivo para mejorar la comunicación.
 
-1. Estructura General
-Título: Debe ser claro y descriptivo, indicando el tema del curso.
-Subtítulos: Utilizar subtítulos para dividir el contenido en secciones lógicas y fáciles de seguir.
-Párrafos: Mantener los párrafos cortos y focos para mejorar la legibilidad.
-2. Formato de Texto
-Negritas y Cursivas: Utilizar negritas para resaltar puntos clave y cursivas para citas o énfasis.
-Listas: Utilizar listas con viñetas o números para enumerar puntos importantes.
-Citas: Incluir citas directas entre comillas y citas indirectas en párrafos separados.
-3. Lenguaje y Tono
-Lenguaje Claro y Directo: Evitar jerga técnica innecesaria y utilizar un lenguaje accesible para todos los niveles de audiencia.
-Tono Profesional: Mantener un tono profesional y respetuoso en todo momento.
-Consistencia: Asegurarse de que el tono y el estilo sean consistentes a lo largo de toda la transcripción.
-4. Referencias y Ejemplos
-Referencias: Incluir referencias a estudios, libros o artículos relevantes cuando sea necesario.
-Ejemplos: Utilizar ejemplos prácticos y relevantes para ilustrar conceptos complejos.
-5. Interactividad
-Preguntas y Respuestas: Incluir preguntas y respuestas para fomentar la interacción y la comprensión.
-Actividades: Sugerir actividades prácticas o reflexiones para aplicar los conceptos aprendidos.
-6. Revisión y Edición
-Revisión: Revisar la transcripción para corregir errores gramaticales, ortográficos y de puntuación.
-Edición: Editar la transcripción para mejorar la fluidez y la coherencia del contenido.
-7. Secciones Específicas
-Introducción: Incluir una introducción clara que explique el propósito del curso y lo que los participantes pueden esperar aprender.
-Desarrollo: Dividir el contenido en secciones lógicas que cubran todos los temas importantes.
-Conclusión: Incluir una conclusión que resuma los puntos clave y sugiera próximos pasos o recursos adicionales.
-Ejemplo de Transcripción con Guía de Estilo
-Título: Cómo Cerrar las Reuniones de Manera Satisfactoria y Eficaz
-Introducción
-Este curso te enseñará técnicas efectivas para cerrar las reuniones de manera satisfactoria y eficiente. Al final de este curso, serás capaz de aplicar estrategias que mejorarán la productividad y la cohesión de tu equipo.
+### **Ejercicios Prácticos**
 
-Sección 1: Estructura de la Reunión
-Desarrollo
+1. **Ejercicio de Resumen:**
+    - Participa en una conversación y practica resumir el mensaje central de manera clara y concisa.
+    - Analiza la claridad y precisión de tu resumen.
+2. **Ejercicio de Uso de Propias Palabras:**
+    - Participa en una conversación y practica usar tus propios términos para resumir el mensaje.
+    - Analiza el uso de tus propios términos en el resumen.
+3. **Ejercicio de Feedback:**
+    - Participa en una conversación y practica ofrecer feedback positivo y constructivo.
+    - Analiza la efectividad de tu feedback.
 
-Objetivo y Expectativas: Asegúrate de que el objetivo y las expectativas de la reunión sean claros para todos los participantes.
-Agenda: Envía una agenda detallada con anticipación, incluyendo los temas a tratar, los responsables y el tiempo asignado a cada tema.
-Moderador: Designa a un moderador para mantener el control del tiempo y las intervenciones.
-Ejemplo
+### **Conclusión**
 
-"Envié una agenda detallada con anticipación, incluyendo los temas a tratar, los responsables y el tiempo asignado a cada tema. Esto ayudó a mantener la reunión enfocada y productiva."
+**Parafrasear al interlocutor es una habilidad esencial en el entorno laboral, ya que permite demostrar comprensión y claridad en la comunicación. Con práctica y atención, puedes mejorar tu resumen, uso de propias palabras y feedback, lo que te permitirá comunicarte de manera más efectiva.**
 
-Sección 2: Durante la Reunión
-Desarrollo
+**En el próximo curso, exploraremos cómo solicitar información. ¡Nos vemos allí!**
 
-Participación Activa: Fomenta la participación activa de todos los miembros del equipo.
-Notas: Designa a alguien para tomar notas y enviar un resumen después de la reunión.
-Feedback: Proporciona feedback constructivo y alienta a los participantes a hacer lo mismo.
-Ejemplo
+---
 
-"Designé a Juan para que tomara notas y enviara un resumen después de la reunión. Esto aseguró que todos estuvieran alineados y comprometidos con los resultados."
+**Actividad Práctica:**
 
-Conclusión
-Al seguir estas estrategias, podrás cerrar las reuniones de manera satisfactoria y eficiente, mejorando la productividad y la cohesión de tu equipo. Aplica estas técnicas en tus próximas reuniones y observa cómo mejoran los resultados.
+1. **Participación y Análisis:**
+    - Participa en una conversación utilizando las técnicas de parafraseo.
+    - Analiza tu resumen, uso de propias palabras y feedback. ¿Qué aspectos puedes mejorar?
+2. **Reflexión Personal:**
+    - ¿Cómo te sientes al ser consciente de estas técnicas en tu parafraseo?
+    - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
 
-Esta guía de estilo te ayudará a crear transcripciones claras, coherentes y efectivas para tus cursos, asegurando que el contenido sea accesible y útil para todos los participantes.
+---
+
+### **Curso 13: Solicitando Información**
+
+---
+
+**Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos cómo parafrasear al interlocutor. Hoy nos enfocaremos en cómo solicitar información.**
+
+**Solicitar información de manera efectiva es crucial en el entorno laboral, ya que permite obtener detalles y aclarar cualquier duda o malentendido.**
+
+### **Elementos de la Solicitud de Información**
+
+1. **Preguntas Claras y Precisas:**
+    - **Claras:** Formula preguntas claras y específicas.
+    - **Precisas:** Asegúrate de que tus preguntas sean precisas y no dejen lugar a dudas.
+2. **Esclarecimiento de Detalles:**
+    - **Detallada:** Solicita detalles adicionales para aclarar cualquier duda.
+    - **Relevante:** Asegúrate de que los detalles solicitados sean relevantes para tu propósito.
+3. **Comprobación de Interpretación:**
+    - **Aseveraciones:** Usa aseveraciones para comprobar que has interpretado correctamente el mensaje.
+    - **Feedback:** Solicita feedback para confirmar tu comprensión.
+
+### **Técnicas para Mejorar la Solicitud de Información**
+
+1. **Preguntas Claras y Precisas:**
+    - **Claras:** Practica formular preguntas claras y específicas.
+    - **Precisas:** Practica asegurarte de que tus preguntas sean precisas y no dejen lugar a dudas.
+2. **Esclarecimiento de Detalles:**
+    - **Detallada:** Practica solicitar detalles adicionales para aclarar cualquier duda.
+    - **Relevante:** Practica asegurarte de que los detalles solicitados sean relevantes para tu propósito.
+3. **Comprobación de Interpretación:**
+    - **Aseveraciones:** Practica usar aseveraciones para comprobar que has interpretado correctamente el mensaje.
+    - **Feedback:** Practica solicitar feedback para confirmar tu comprensión.
+
+### **Ejercicios Prácticos**
+
+1. **Ejercicio de Preguntas Claras y Precisas:**
+    - Formula preguntas claras y precisas durante una conversación.
+    - Analiza la claridad y precisión de tus preguntas.
+2. **Ejercicio de Esclarecimiento de Detalles:**
+    - Solicita detalles adicionales durante una conversación.
+    - Analiza la relevancia y claridad de los detalles solicitados.
+3. **Ejercicio de Comprobación de Interpretación:**
+    - Usa aseveraciones para comprobar tu interpretación del mensaje.
+    - Analiza la efectividad de tus aseveraciones y el feedback recibido.
+
+### **Conclusión**
+
+**Solicitar información de manera efectiva es crucial en el entorno laboral, ya que permite obtener detalles y aclarar cualquier duda o malentendido. Con práctica y atención, puedes mejorar tus preguntas claras y precisas, el esclarecimiento de detalles y la comprobación de interpretación, lo que te permitirá comunicarte de manera más efectiva.**
+
+**En el próximo curso, exploraremos las actitudes y valores en la comunicación. ¡Nos vemos allí!**
+
+---
+
+**Actividad Práctica:**
+
+1. **Participación y Análisis:**
+    - Participa en una conversación utilizando las técnicas de solicitud de información.
+    - Analiza tus preguntas, detalles solicitados y comprobación de interpretación. ¿Qué aspectos puedes mejorar?
+2. **Reflexión Personal:**
+    - ¿Cómo te sientes al ser consciente de estas técnicas en tu solicitud de información?
+    - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
+
+---
+
+### **Curso 14: Actitudes y Valores en la Comunicación**
+
+---
+
+**Hola de nuevo, soy Eli Padilla. En el curso anterior, exploramos cómo solicitar información. Hoy nos enfocaremos en las actitudes y valores en la comunicación.**
+
+**Las actitudes y valores en la comunicación son esenciales para construir relaciones positivas y efectivas en el entorno laboral.**
+
+### **Elementos de las Actitudes y Valores en la Comunicación**
+
+1. **Amabilidad:**
+    - **Respetuosa:** Trata a todos con respeto y amabilidad.
+    - **Empática:** Muestra empatía y comprensión en tus interacciones.
+2. **Tolerancia:**
+    - **Paciente:** Sé paciente y tolerante con las diferencias y opiniones de los demás.
+    - **Respetuosa:** Respeta las opiniones y puntos de vista de los demás.
+3. **Honestidad:**
+    - **Transparente:** Sé transparente y honesto en tus comunicaciones.
+    - **Confiable:** Sé confiable y mantén la integridad en tus palabras y acciones.
+
+### **Técnicas para Mejorar las Actitudes y Valores en la Comunicación**
+
+1. **Amabilidad:**
+    - **Respetuosa:** Practica tratar a todos con respeto y amabilidad.
+    - **Empática:** Practica mostrar empatía y comprensión en tus interacciones.
+2. **Tolerancia:**
+    - **Paciente:** Practica ser paciente y tolerante con las diferencias y opiniones de los demás.
+    - **Respetuosa:** Practica respetar las opiniones y puntos de vista de los demás.
+3. **Honestidad:**
+    - **Transparente:** Practica ser transparente y honesto en tus comunicaciones.
+    - **Confiable:** Practica ser confiable y mantener la integridad en tus palabras y acciones.
+
+### **Ejercicios Prácticos**
+
+1. **Ejercicio de Amabilidad:**
+    - Trata a tus colegas con respeto y amabilidad durante una conversación.
+    - Analiza tu actitud y comportamiento amable.
+2. **Ejercicio de Tolerancia:**
+    - Sé paciente y tolerante con las diferencias y opiniones de tus colegas.
+    - Analiza tu capacidad para tolerar y respetar las opiniones de los demás.
+3. **Ejercicio de Honestidad:**
+    - Sé transparente y honesto en tus comunicaciones.
+    - Analiza tu integridad y confiabilidad en tus palabras y acciones.
+
+### **Conclusión**
+
+**Las actitudes y valores en la comunicación son esenciales para construir relaciones positivas y efectivas en el entorno laboral. Con práctica y atención, puedes mejorar tu amabilidad, tolerancia y honestidad, lo que te permitirá comunicarte de manera más efectiva.**
+
+**En el próximo curso, exploraremos la integración y el proyecto final. ¡Nos vemos allí!**
+
+---
+
+**Actividad Práctica:**
+
+1. **Participación y Análisis:**
+    - Participa en una conversación utilizando las técnicas de actitudes y valores en la comunicación.
+    - Analiza tu amabilidad, tolerancia y honestidad. ¿Qué aspectos puedes mejorar?
+2. **Reflexión Personal:**
+    - ¿Cómo te sientes al ser consciente de estas actitudes y valores en tu comunicación?
+    - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
+
+---
+
+### **Curso 15: Integración y Proyecto Final**
+
+---
+
+**Hola de nuevo, soy Eli Padilla. En los cursos anteriores, exploramos diversos aspectos de la comunicación efectiva en el trabajo. Hoy nos enfocaremos en la integración de todas las habilidades aprendidas y en la realización del proyecto final.**
+
+**El proyecto final es una oportunidad para aplicar todo lo que has aprendido y demostrar tu capacidad para comunicarte de manera efectiva en situaciones laborales.**
+
+### **Elementos del Proyecto Final**
+
+1. **Planificación:**
+    - **Objetivos Claros:** Define objetivos claros y específicos para tu proyecto.
+    - **Recursos Necesarios:** Identifica los recursos y herramientas que necesitarás.
+2. **Ejecución:**
+    - **Tareas Organizadas:** Organiza tus tareas de manera eficiente y efectiva.
+    - **Tiempo Apropiado:** Asegúrate de que cada tarea tenga el tiempo adecuado para su realización.
+3. **Evaluación:**
+    - **Feedback Constructivo:** Solicita feedback constructivo de tus colegas y superiores.
+    - **Ajustes Necesarios:** Realiza los ajustes necesarios en función del feedback recibido.
+
+### **Técnicas para Mejorar la Integración y Ejecución del Proyecto Final**
+
+1. **Planificación:**
+    - **Objetivos Claros:** Practica definir objetivos claros y específicos para tu proyecto.
+    - **Recursos Necesarios:** Practica identificar los recursos y herramientas que necesitarás.
+2. **Ejecución:**
+    - **Tareas Organizadas:** Practica organizar tus tareas de manera eficiente y efectiva.
+    - **Tiempo Apropiado:** Practica asignar el tiempo adecuado para cada tarea.
+3. **Evaluación:**
+    - **Feedback Constructivo:** Practica solicitar feedback constructivo de tus colegas y superiores.
+    - **Ajustes Necesarios:** Practica realizar los ajustes necesarios en función del feedback recibido.
+
+### **Ejercicios Prácticos**
+
+1. **Ejercicio de Planificación:**
+    - Define objetivos claros y específicos para tu proyecto final.
+    - Analiza la claridad y especificidad de tus objetivos.
+2. **Ejercicio de Ejecución:**
+    - Organiza tus tareas de manera eficiente y efectiva.
+    - Analiza la eficiencia y efectividad de tu organización de tareas.
+3. **Ejercicio de Evaluación:**
+    - Solicita feedback constructivo de tus colegas y superiores.
+    - Analiza la efectividad de tu feedback y los ajustes realizados.
+
+### **Conclusión**
+
+**El proyecto final es una oportunidad para aplicar todo lo que has aprendido y demostrar tu capacidad para comunicarte de manera efectiva en situaciones laborales. Con práctica y atención, puedes mejorar tu planificación, ejecución y evaluación, lo que te permitirá comunicarte de manera más efectiva.**
+
+**¡Felicidades por completar el curso!**
+
+---
+
+**Actividad Práctica:**
+
+1. **Realización y Análisis:**
+    - Realiza tu proyecto final utilizando las técnicas de integración y ejecución.
+    - Analiza tu planificación, ejecución y evaluación. ¿Qué aspectos puedes mejorar?
+2. **Reflexión Personal:**
+    - ¿Cómo te sientes al haber completado el curso y realizado el proyecto final?
+    - ¿Qué aspectos te resultan más naturales y cuáles necesitas más práctica?
+
+---
